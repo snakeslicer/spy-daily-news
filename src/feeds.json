@@ -1,0 +1,35 @@
+{
+  "timezone": "UTC",
+  "feeds": [
+    {
+      "name": "Yahoo Finance - Top Stories",
+      "url": "https://finance.yahoo.com/rss/topstories",
+      "weight": 1.0
+    },
+    {
+      "name": "MarketWatch - Top Stories",
+      "url": "https://feeds.marketwatch.com/marketwatch/topstories/",
+      "weight": 1.0
+    },
+    {
+      "name": "CNBC - Top News",
+      "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "weight": 1.0
+    },
+    {
+      "name": "Federal Reserve - Press Releases",
+      "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "weight": 1.2
+    },
+    {
+      "name": "CBOE - VIX Insights",
+      "url": "https://www.cboe.com/insights/posts/rss/",
+      "weight": 0.7
+    },
+    {
+      "name": "IMF - News",
+      "url": "https://www.imf.org/en/News/RSS",
+      "weight": 0.6
+    }
+  ]
+}
