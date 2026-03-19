@@ -1,36 +1,136 @@
 $SPY daily news summary — 2026-03-19 (UTC)
-Generated: 2026-03-19 05:32:22Z
+Generated: 2026-03-19 13:25:51Z
 
 == Macro Fed ==
-- [CNBC - Top News] 2026-03-19 03:13Z — Bank of Japan keeps rates steady as expected, warns Iran war may push up inflation
+- [CNBC - Top News] 2026-03-19 13:22Z — Gold and silver sell-off accelerates as inflation fears grip global markets
+  https://www.cnbc.com/2026/03/19/gold-and-silver-sell-off-as-inflation-fears-grip-global-markets.html
+- [MarketWatch - Top Stories] 2026-03-19 12:47Z — Rivian’s stock is popping as the EV maker becomes the latest to partner with Uber
+  https://www.marketwatch.com/story/rivians-stock-is-popping-as-the-ev-maker-becomes-the-latest-to-partner-with-uber-4540c29d?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-03-19 11:25Z — Inflation dominates Powell's remarks, pressures stocks. Plus, big earnings tonight
+  https://www.cnbc.com/2026/03/18/inflation-dominates-powells-remarks-pressures-stocks-plus-big-earnings-tonight.html
+- [CNBC - Top News] 2026-03-19 08:34Z — Chip buyers in Europe are paying more and tapping backup stores as Iran war hits air freight
+  https://www.cnbc.com/2026/03/19/europe-chip-buyers-iran-war.html
+- [CNBC - Top News] 2026-03-19 06:16Z — Bank of Japan keeps rates steady as expected, warns Iran war may push up inflation
   https://www.cnbc.com/2026/03/19/bank-of-japan-keeps-rates-steady-as-expected-warns-iran-war-may-push-up-inflation.html
 - [CNBC - Top News] 2026-03-19 03:01Z — Here are the five key takeaways from this week's Fed meeting
   https://www.cnbc.com/2026/03/18/here-are-the-five-key-takeaways-from-this-weeks-fed-meeting.html
-- [CNBC - Top News] 2026-03-19 03:01Z — Fed votes to hold rates steady, notes 'uncertain' impacts from Iran war
-  https://www.cnbc.com/2026/03/18/fed-interest-rate-decision-march-2026.html
-- [MarketWatch - Top Stories] 2026-03-19 00:01Z — Social media is eroding young people’s happiness. Low-income teens may be most at risk.
-  https://www.marketwatch.com/story/social-media-is-eroding-young-peoples-happiness-low-income-teens-may-be-most-at-risk-446a0965?mod=mw_rss_topstories
+
+== Rates Credit ==
+- [MarketWatch - Top Stories] 2026-03-19 12:00Z — A record 111 million Americans can’t pay their credit-card bills in full
+  https://www.marketwatch.com/story/a-record-111-million-americans-cant-pay-their-credit-card-bills-in-full-09c194b4?mod=mw_rss_topstories
 
 == Equities ==
-- [CNBC - Top News] 2026-03-19 05:25Z — HDFC Bank shares fall 5% as part-time chair of India’s largest private bank resigns over 'ethics'
+- [CNBC - Top News] 2026-03-19 13:11Z — Micron falls more than 5% despite blockbuster earnings. Here's what market watchers are saying
+  https://www.cnbc.com/2026/03/19/micron-falls-blockbuster-earnings-chips-ai.html
+- [Yahoo Finance - Top Stories] 2026-03-19 13:10Z — 3 Money Moves To Make in Your 40s To Retire a Millionaire at Age 55, According to a Money Expert
+  https://finance.yahoo.com/markets/articles/3-money-moves-40s-retire-131030252.html
+- [Yahoo Finance - Top Stories] 2026-03-19 13:10Z — These 3 Stocks Trigger Bearish Signals but 2 Offer Hidden Opportunity
+  https://finance.yahoo.com/markets/stocks/articles/3-stocks-trigger-bearish-signals-131003500.html
+- [MarketWatch - Top Stories] 2026-03-19 12:52Z — HSBC’s CFO said the bank would turn to AI to cut costs. Now the bank is reportedly consider 20,000 job cuts.
+  https://www.marketwatch.com/story/hsbcs-cfo-just-said-the-bank-would-turn-to-ai-to-cut-costs-now-the-bank-is-reported-to-consider-20-000-job-cuts-7b47233b?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-03-19 12:19Z — That viral ‘obituary’ for software stocks vaporized billions. Here’s the part the market is finally admitting.
+  https://www.marketwatch.com/story/a-research-firms-obituary-for-software-stocks-vaporized-billions-heres-the-part-the-market-is-finally-admitting-698ad05b?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-03-19 12:00Z — Chipotle Stock: How To Find & Own America's Greatest Opportunities
+  https://www.investors.com/how-to-invest/chipotle-cmg-stock-americas-greatest-opportunities/?src=A00220&yptr=yahoo
+- [Yahoo Finance - Top Stories] 2026-03-19 12:00Z — Alibaba Stock Falls As Revenue Misses Estimates Despite AI Growth
+  https://www.investors.com/news/technology/alibaba-stock-earnings-december-2025-q3-ai/?src=A00220&yptr=yahoo
+- [Yahoo Finance - Top Stories] 2026-03-19 10:49Z — Market Digest: CNI, AIG, CNP, DKS, JBL, WEN, LULU
+  https://finance.yahoo.com/research/reports/ARGUS_46474_MarketSummary_1773917387000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [CNBC - Top News] 2026-03-19 10:23Z — HDFC Bank shares fall over 5% as part-time chair of India’s largest private bank resigns over 'ethics'
   https://www.cnbc.com/2026/03/19/hdfc-bank-shares-fall-chairman-resigns-unethical-practices.html
 
 == Commodities ==
-- [CNBC - Top News] 2026-03-19 05:10Z — Brent jumps over 4% as Iranian retaliatory strikes on Qatar’s key energy facility stoke supply worries
+- [MarketWatch - Top Stories] 2026-03-19 13:22Z — Global oil prices briefly tops $119 a barrel after Trump threatens to ‘blow up’ the world’s largest gas field
+  https://www.marketwatch.com/story/oil-prices-surge-after-iran-attacks-middle-east-energy-facilities-c43c7d1e?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-03-19 13:10Z — Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran
   https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html
-- [CNBC - Top News] 2026-03-19 04:43Z — Asia markets track Wall Street losses as Iran war fuels energy worries; BOJ hold rates
-  https://www.cnbc.com/2026/03/19/asia-markets-live-boj-nikkei-kospi-hang-seng.html
-- [CNBC - Top News] 2026-03-19 04:06Z — Inside India newsletter: Gold loans are thriving in India — and attracting global investors
-  https://www.cnbc.com/2026/03/19/gold-loan-demand-rises-india.html
-- [CNBC - Top News] 2026-03-19 03:37Z — Trump warns to 'blow up' South Pars gas field in Iran if strikes against Qatar energy continue
+- [Yahoo Finance - Top Stories] 2026-03-19 13:07Z — Stock Market Today: Dow Falls As Oil Prices Jump; Micron Dives On Earnings (Live Coverage)
+  https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-micron-stock-mu/?src=A00220&yptr=yahoo
+- [CNBC - Top News] 2026-03-19 12:48Z — Trump warns will 'blow up' South Pars gas field in Iran if strikes against Qatar energy continue
   https://www.cnbc.com/2026/03/19/iran-israel-us-war-energy-facilities-south-pars-global-reactions.html
+- [Yahoo Finance - Top Stories] 2026-03-19 12:09Z — Gasoline prices hit highest level since March 2022 as oil tops $100
+  https://finance.yahoo.com/news/gasoline-prices-hit-highest-level-since-march-2022-as-oil-tops-100-211733796.html
+- [Yahoo Finance - Top Stories] 2026-03-19 12:06Z — Dow Jones Futures Fall As Global Oil Prices Jump; Micron Falls Despite Blowout Earnings
+  https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-global-oil-prices-micron-earnings-guidance/?src=A00220&yptr=yahoo
+- [Yahoo Finance - Top Stories] 2026-03-19 12:00Z — Surging gas prices and Iran geopolitical shock hasn't yet rocked this 35-year-old furniture seller
+  https://finance.yahoo.com/news/surging-gas-prices-and-iran-geopolitical-shock-hasnt-yet-rocked-this-35-year-old-furniture-seller-120024221.html
+- [MarketWatch - Top Stories] 2026-03-19 11:40Z — JPMorgan cuts S&P 500 target as analysts say the domino effects from oil-price shock aren’t baked in
+  https://www.marketwatch.com/story/jpmorgan-cuts-s-p-500-target-as-analysts-say-the-domino-effects-from-oil-price-shock-isnt-baked-in-68cb6e84?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-03-19 11:04Z — Analyst Report: CenterPoint Energy Inc
+  https://finance.yahoo.com/research/reports/ARGUS_2852_AnalystReport_1773918287000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [CNBC - Top News] 2026-03-19 07:08Z — Asia tech stocks sink as oil spike and Qatar attacks threaten chip supply chain
+  https://www.cnbc.com/2026/03/19/tech-stocks-qatar-attack-semiconductor-supply-chain-lng-helium.html
+
+== FX ==
+- [CNBC - Top News] 2026-03-19 13:18Z — European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'
+  https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html
+- [Yahoo Finance - Top Stories] 2026-03-19 13:05Z — Why You Might Consider an Investment in Dollar Tree Today
+  https://finance.yahoo.com/markets/stocks/articles/why-might-consider-investment-dollar-130500175.html
+- [Yahoo Finance - Top Stories] 2026-03-19 12:59Z — Italian court scraps 15-million-euro privacy watchdog fine on ChatGPT-maker OpenAI
+  https://finance.yahoo.com/sectors/technology/articles/italian-court-scraps-15-million-125926950.html
 
 == Geopolitics ==
-- [CNBC - Top News] 2026-03-19 01:34Z — How China is getting everyone on OpenClaw, from gearheads to grandmas
-  https://www.cnbc.com/2026/03/18/china-openclaw-baidu-tencent-ai.html
+- [CNBC - Top News] 2026-03-19 13:17Z — Hegseth says potential $200 billion Iran war spending request could shift: 'Takes money to kill bad guys'
+  https://www.cnbc.com/2026/03/19/hegseth-iran-war-budget.html
+- [Yahoo Finance - Top Stories] 2026-03-19 12:40Z — Lanxess raises chemical prices to counter effects of Iran war
+  https://finance.yahoo.com/news/lanxess-raises-chemical-prices-counter-124031493.html
+- [MarketWatch - Top Stories] 2026-03-19 12:37Z — ‘Epic Fury’ has already canceled out Big Beautiful Bill’s tax refunds — even if the Iran war ended today
+  https://www.marketwatch.com/story/epic-fury-has-already-cancelled-out-big-beautiful-bills-tax-refunds-even-if-the-iran-war-ended-today-cf8ed3fa?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-03-19 11:16Z — Gulf states have tolerated Iranian strikes so far — but their 'defensive' stance won't last forever
+  https://www.cnbc.com/2026/03/19/gulf-states-iran-attacks-retaliation-strikes-energy-oil-gas-water-strait-of-hormuz.html
+- [CNBC - Top News] 2026-03-19 11:02Z — OpenClaw demand in China is driving up the price of used MacBooks
+  https://www.cnbc.com/2026/03/19/openclaw-demand-in-china-is-driving-up-the-price-of-secondhand-macbooks.html
+- [CNBC - Top News] 2026-03-19 05:58Z — Japan rejects U.S. intel assessment that Takaichi's Taiwan remarks represent 'significant shift'
+  https://www.cnbc.com/2026/03/19/japan-rejects-us-intelligence-taiwan-policy-shift-takaichi-energy-hormuz.html
+
+== Volatility ==
+- [Yahoo Finance - Top Stories] 2026-03-19 12:43Z — Limited Upside For This Stock? Here's How To Trade Options On It.
+  https://www.investors.com/research/options/snowflake-snow-stock-bear-call-spread-options-2/?src=A00220&yptr=yahoo
 
 == Other ==
-- [MarketWatch - Top Stories] 2026-03-19 04:01Z — Almost 1 in 3 Americans doesn’t know when — or even if — they can retire
-  https://www.marketwatch.com/story/almost-1-in-3-americans-doesnt-know-when-or-even-if-they-can-retire-b11686f6?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-03-19 13:18Z — Uber to invest up to $1.25 billion in EV maker Rivian in deal to launch 50,000 robotaxis
+  https://www.cnbc.com/2026/03/19/uber-rivian-robotaxi.html
+- [CNBC - Top News] 2026-03-19 13:17Z — JPMorgan Chase taps A'ja Wilson, Tom Brady for new athlete wealth management push
+  https://www.cnbc.com/2026/03/18/jpmorgan-athlete-wealth-management-tom-brady-dwyane-wade.html
+- [Yahoo Finance - Top Stories] 2026-03-19 13:07Z — Ferrero adds to Brazil assets with Bold Snacks buy
+  https://finance.yahoo.com/markets/stocks/articles/ferrero-adds-brazil-assets-bold-130703440.html
+- [Yahoo Finance - Top Stories] 2026-03-19 13:04Z — I’m a CPA: 3 Questions Lower-Income Americans Should Ask Themselves Before Filing
+  https://finance.yahoo.com/economy/policy/articles/m-cpa-3-questions-lower-130404923.html
+- [CNBC - Top News] 2026-03-19 12:59Z — Jim Cramer's top 10 things to watch in the stock market Thursday
+  https://www.cnbc.com/2026/03/19/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html
+- [Yahoo Finance - Top Stories] 2026-03-19 12:54Z — Crypto.com Cuts 12% Of Staff As It Adopts A.I. Technologies
+  https://finance.yahoo.com/markets/crypto/articles/crypto-com-cuts-12-staff-125400511.html
+- [Yahoo Finance - Top Stories] 2026-03-19 12:33Z — Five Below Comparable Sales Accelerate, Shares Rally On Q4 Beat
+  https://www.investors.com/news/five-below-earnings-q4-2025-outlook-comparable-sales-five-stock-rally/?src=A00220&yptr=yahoo
+- [Yahoo Finance - Top Stories] 2026-03-19 12:22Z — Uber to invest up to $1.25B in Rivian to help launch robotaxis
+  https://finance.yahoo.com/markets/stocks/articles/uber-invest-1-25b-rivian-122207269.html
+- [CNBC - Top News] 2026-03-19 12:10Z — Trump's DHS pick Markwayne Mullin to get Senate committee vote
+  https://www.cnbc.com/2026/03/19/markwayne-mullin-dhs-immigration-senate-vote.html
+- [MarketWatch - Top Stories] 2026-03-19 12:08Z — State Street strategist still sees three rate cuts in 2026. The market expects zero.
+  https://www.marketwatch.com/story/state-street-strategist-still-sees-three-rate-cuts-in-2026-the-market-expects-zero-ee76a051?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-03-19 12:06Z — Eli Lilly’s next-generation obesity drug retatrutide clears first late-stage diabetes trial
+  https://www.cnbc.com/2026/03/19/eli-lillys-obesity-drug-retatrutide-clears-late-stage-diabetes-trial.html
+- [Yahoo Finance - Top Stories] 2026-03-19 12:01Z — Uber to invest up to $1.25 billion in Rivian as part of robotaxi deal
+  https://finance.yahoo.com/sectors/technology/articles/uber-invest-1-25-billion-120148492.html
+- [Yahoo Finance - Top Stories] 2026-03-19 12:00Z — This Utility Company Trading In A Buy Zone Offers A Bright Future
+  https://www.investors.com/research/the-income-investor/oge-energy-stock-utility-dividend-buy-zone/?src=A00220&yptr=yahoo
+- [Yahoo Finance - Top Stories] 2026-03-19 12:00Z — KLA Rival Calibrates New Buy Zone As Top Funds Scoop Up Shares
+  https://www.investors.com/research/ibd-stock-analysis/nova-stock-nvmi-metrology-leader-klac-rival-etches-new-buy-zone/?src=A00220&yptr=yahoo
+- [Yahoo Finance - Top Stories] 2026-03-19 12:00Z — Boomer’s remorse: The 5 big purchases you might regret in retirement — and how to avoid making these financial mistakes
+  https://finance.yahoo.com/markets/articles/boomer-remorse-5-big-purchases-120000208.html
+- [Yahoo Finance - Top Stories] 2026-03-19 12:00Z — Uber investing up to $1.25 billion in Rivian, eyes 50,000-car expansion of robotaxi fleet
+  https://finance.yahoo.com/news/uber-investing-up-to-125-billion-in-rivian-eyes-50000-car-expansion-of-robotaxi-fleet-120000004.html
+- [CNBC - Top News] 2026-03-19 11:52Z — Alibaba revenue misses estimates in December quarter as net income drops 66%
+  https://www.cnbc.com/2026/03/19/alibaba-december-quarter-earnings-ai-investment.html
+- [MarketWatch - Top Stories] 2026-03-19 11:41Z — It’s time to rethink how we define obesity as millions turn to GLP-1s
+  https://www.marketwatch.com/story/its-time-to-rethink-how-we-define-obesity-as-millions-turn-to-glp-1s-4f1d0767?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-03-19 11:40Z — ‘It’s complicated’: My husband, 61, wants to leave me everything. His kids will hate me. What should I do?
+  https://www.marketwatch.com/story/its-complicated-my-husband-61-wants-to-leave-me-everything-his-kids-will-hate-me-what-should-i-do-b1d06504?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-03-19 11:05Z — Technical Assessment: Bullish in the Intermediate-Term
+  https://finance.yahoo.com/research/reports/ARGUS_46476_TechnicalAnalysis_1773918358000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [Yahoo Finance - Top Stories] 2026-03-19 11:04Z — Analyst Report: American Intl Grp Inc
+  https://finance.yahoo.com/research/reports/ARGUS_2695_AnalystReport_1773918287000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [Yahoo Finance - Top Stories] 2026-03-19 11:04Z — Analyst Report: Jabil Inc
+  https://finance.yahoo.com/research/reports/ARGUS_3100_AnalystReport_1773918287000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
 - [CNBC - Top News] 2026-03-19 00:01Z — A Labubu movie is on its way as Pop Mart expands the iconic toy franchise
   https://www.cnbc.com/2026/03/18/a-labubu-movie-is-on-its-way-as-pop-mart-expands-the-toy-franchise.html
