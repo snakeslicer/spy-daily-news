@@ -2,8 +2,10 @@ name: Daily SPY news summary
 
 on:
   schedule:
-    # Weekdays 11:30 UTC (tweak as desired)
-    - cron: "30 11 * * 1-5"
+    # Daily 8:00am US/Eastern.
+    # NOTE: GitHub cron runs in UTC. 8:00am ET is 12:00 UTC during daylight saving time.
+    # If you want it to remain exactly 8:00am ET year-round, adjust this seasonally (EST would be 13:00 UTC).
+    - cron: "0 12 * * *"
   workflow_dispatch: {}
 
 permissions:
