@@ -1,5 +1,5 @@
 $SPY daily news summary — 2026-03-19 (UTC)
-Generated: 2026-03-19 05:15:57Z
+Generated: 2026-03-19 05:30:18Z
 
 == Macro Fed ==
 - [CNBC - Top News] 2026-03-19 03:13Z — Bank of Japan keeps rates steady as expected, warns Iran war may push up inflation
@@ -12,7 +12,7 @@ Generated: 2026-03-19 05:15:57Z
   https://www.marketwatch.com/story/social-media-is-eroding-young-peoples-happiness-low-income-teens-may-be-most-at-risk-446a0965?mod=mw_rss_topstories
 
 == Equities ==
-- [CNBC - Top News] 2026-03-19 04:36Z — HDFC Bank shares fall 5% as part-time chair of India’s largest private bank resigns over 'ethics'
+- [CNBC - Top News] 2026-03-19 05:25Z — HDFC Bank shares fall 5% as part-time chair of India’s largest private bank resigns over 'ethics'
   https://www.cnbc.com/2026/03/19/hdfc-bank-shares-fall-chairman-resigns-unethical-practices.html
 
 == Commodities ==
