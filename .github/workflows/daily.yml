@@ -30,21 +30,21 @@ jobs:
       - name: Install deps
         run: |
           python -m pip install --upgrade pip
-          pip install -r spy-daily-news/requirements.txt
+          pip install -r requirements.txt
 
       - name: Generate summary
         run: |
-          python spy-daily-news/src/daily_spy_news.py
+          python src/daily_spy_news.py
 
       - name: Commit summary (if changed)
         run: |
-          if [ -z "$(git status --porcelain spy-daily-news/summaries/)" ]; then
+          if [ -z "$(git status --porcelain summaries/)" ]; then
             echo "No changes to commit."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add spy-daily-news/summaries/
+          git add summaries/
           git commit -m "Add daily SPY news summary"
           git push
 
