@@ -1,0 +1,80 @@
+$SPY daily news summary — 2026-03-20 (UTC)
+Generated: 2026-03-20 13:18:56Z
+
+== Macro Fed ==
+- [CNBC - Top News] 2026-03-20 12:55Z — UK government borrowing costs hit their highest level since 2008 as inflation fears hit the gilt market
+  https://www.cnbc.com/2026/03/20/uk-gilt-market-interest-rates-boe-inflation-reeves.html
+- [MarketWatch - Top Stories] 2026-03-20 12:00Z — Soaring healthcare costs are forcing people to make troubling trade-offs, like skipping meals — and the situation is about to get worse
+  https://www.marketwatch.com/story/soaring-healthcare-costs-are-forcing-people-to-make-troubling-trade-offs-like-skipping-meals-and-the-situation-is-about-to-get-worse-cde613d6?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-03-20 07:10Z — Japan wanted inflation and Iran war could grant that wish. But it's not the type Tokyo desires
+  https://www.cnbc.com/2026/03/20/iran-war-japan-inflation-boj-oil-prices.html
+
+== Equities ==
+- [MarketWatch - Top Stories] 2026-03-20 13:00Z — I’m 59. My wife and I bought a second home for $484,000 at 6.2% interest. Will this be a drain on our retirement?
+  https://www.marketwatch.com/story/im-59-my-wife-and-i-bought-a-second-home-for-484-000-at-6-2-interest-will-this-be-a-drain-on-our-retirement-02627377?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-03-20 12:39Z — Banks eye three ECB rate hikes this year as former Governor says he sees no stagflation — yet
+  https://www.cnbc.com/2026/03/20/banks-eye-three-ecb-rate-hikes-this-year.html
+- [MarketWatch - Top Stories] 2026-03-20 12:05Z — History says these 2 overlooked asset classes are the only real shield against 1970s-style stagflation
+  https://www.marketwatch.com/story/history-says-these-2-overlooked-asset-classes-are-the-only-real-shield-against-1970s-style-stagflation-727af5de?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-03-20 11:21Z — Daily Spotlight: Not All Sectors Are Equal
+  https://finance.yahoo.com/research/reports/ARGUS_46495_MarketOutlook_1774005713000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [CNBC - Top News] 2026-03-20 10:15Z — Who's most optimistic about AI — and who isn't, according to Anthropic
+  https://www.cnbc.com/2026/03/20/anthropic-whos-most-optimistic-about-ai-and-who-isnt.html
+- [Yahoo Finance - Top Stories] 2026-03-20 10:08Z — Daily – Vickers Top Insider Picks for 03/20/2026
+  https://finance.yahoo.com/research/reports/ARGUS_46490_InsiderActivity_1774001307000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [CNBC - Top News] 2026-03-20 07:57Z — Nvidia's Huang pitches AI tokens on top of salary as agents reshape how humans work
+  https://www.cnbc.com/2026/03/20/nvidia-ai-agents-tokens-human-workers-engineer-jobs-unemployment-jensen-huang.html
+- [CNBC - Top News] 2026-03-20 06:13Z — Alibaba workforce shrinks 34% in 2025 as Chinese tech giant doubles down on AI
+  https://www.cnbc.com/2026/03/20/alibaba-headcount-falls-ai-push-sun-art-intime-sales.html
+- [CNBC - Top News] 2026-03-20 00:29Z — OpenAI to create desktop super app, combining ChatGPT app, browser and Codex app
+  https://www.cnbc.com/2026/03/19/openai-desktop-super-app-chatgpt-browser-codex.html
+
+== Commodities ==
+- [MarketWatch - Top Stories] 2026-03-20 13:17Z — Global oil prices below $110 but headed for 5th weekly rise as Trump mulls plans to force Iran to reopen Strait of Hormuz
+  https://www.marketwatch.com/story/oil-prices-rise-as-trump-reportedly-mulls-new-measures-for-kharg-island-97ab0727?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-03-20 12:00Z — Work from home, drive slower and don't use gas cookers: IEA advice on weathering the global energy crisis
+  https://www.cnbc.com/2026/03/20/iea-oil-fuel-prices-energy-advice-consumers-crisis.html
+- [CNBC - Top News] 2026-03-20 08:54Z — U.S. says Cuba is prohibited from taking Russian oil as two tankers head to island
+  https://www.cnbc.com/2026/03/20/cuba-crisis-fuel-tankers-russia-oil-gas-energy-us-trump.html
+
+== Geopolitics ==
+- [CNBC - Top News] 2026-03-20 13:13Z — Super Micro shares tank 25% after employees charged with smuggling Nvidia chips to China
+  https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html
+- [MarketWatch - Top Stories] 2026-03-20 12:06Z — Super Micro co-founder engaged in backdoor scheme to divert Nvidia chips to China, U.S. government says
+  https://www.marketwatch.com/story/super-micro-cofounder-engaged-in-backdoor-scheme-to-divert-nvidia-chips-to-china-u-s-government-says-5efbea7a?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-03-20 08:13Z — Trump invokes Pearl Harbor in front of Japanese prime minister to defend Iran attack secrecy
+  https://www.cnbc.com/2026/03/20/trump-pearl-harbor-japan-takaichi-iran-war.html
+- [CNBC - Top News] 2026-03-20 07:59Z — Asia-Pacific markets mostly decline as Iran war dents risk sentiment
+  https://www.cnbc.com/2026/03/20/asia-markets-today-nikkei-hang-seng-kospi.html
+- [CNBC - Top News] 2026-03-20 07:35Z — Trump invokes emergency powers with $23 billion in Gulf arms sales as Iran war wages on: WSJ report
+  https://www.cnbc.com/2026/03/20/us-arms-weapon-sales-middle-east-iran-israel-war.html
+- [CNBC - Top News] 2026-03-20 06:44Z — The Iran war is sending shockwaves through the world's busiest IPO market
+  https://www.cnbc.com/2026/03/20/iran-war-dampen-most-active-ipo-market.html
+- [CNBC - Top News] 2026-03-20 02:49Z — Iran war-induced fertilizer shortage threatens Republicans in farm states ahead of midterms
+  https://www.cnbc.com/2026/03/19/iran-war-fertilizer-shortage-2026-elections-strait-hormuz.html
+
+== Volatility ==
+- [MarketWatch - Top Stories] 2026-03-20 12:10Z — Crypto firms want the perks of being a bank but without the rules — putting your money at 2008-level risk
+  https://www.marketwatch.com/story/crypto-firms-want-the-perks-of-being-a-bank-but-without-the-rules-putting-your-money-at-2008-level-risk-a16b3ac5?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-03-20 10:38Z — Gold rebounds, but silver extends losses as oscillating oil prices spark market volatility
+  https://www.cnbc.com/2026/03/20/gold-silver-price-metal-market-oil-brent-wti-futures-iran-war-inflation.html
+
+== Other ==
+- [CNBC - Top News] 2026-03-20 13:14Z — Harvard University is back on top as the No. 1 'dream' school among college applicants
+  https://www.cnbc.com/2026/03/20/harvard-university-dream-college.html
+- [MarketWatch - Top Stories] 2026-03-20 13:06Z — Super Micro’s stock sinks after co-founder’s indictment. Here are Wall Street’s biggest questions.
+  https://www.marketwatch.com/story/super-micros-stock-sinks-after-co-founders-indictment-here-are-wall-streets-biggest-questions-bd90d712?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-03-20 12:50Z — Jim Cramer's top 10 things to watch in the stock market Friday
+  https://www.cnbc.com/2026/03/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html
+- [MarketWatch - Top Stories] 2026-03-20 12:42Z — Micron’s stock is spectacularly cheap, as these numbers show
+  https://www.marketwatch.com/story/microns-stock-is-spectacularly-cheap-as-these-numbers-show-2a96e75b?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-03-20 12:40Z — Unilever in talks to sell food business to McCormick
+  https://www.marketwatch.com/story/unilever-in-talks-to-sell-food-business-to-mccormick-ebca7094?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-03-20 12:01Z — Financial advisers used to say no to bitcoin. Now they’re saying maybe — but with a catch.
+  https://www.marketwatch.com/story/financial-advisers-used-to-say-no-to-bitcoin-now-theyre-saying-maybe-but-with-a-catch-2c16149a?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-03-20 11:06Z — Analyst Report: American Water Works Co Inc
+  https://finance.yahoo.com/research/reports/ARGUS_3673_AnalystReport_1774004812000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [Yahoo Finance - Top Stories] 2026-03-20 11:06Z — Analyst Report: Cheesecake Factory Inc/The
+  https://finance.yahoo.com/research/reports/ARGUS_2804_AnalystReport_1774004812000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [Yahoo Finance - Top Stories] 2026-03-20 11:06Z — Analyst Report: Micron Technology Inc
+  https://finance.yahoo.com/research/reports/ARGUS_3614_AnalystReport_1774004812000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
