@@ -1,0 +1,56 @@
+$SPY daily news summary — 2026-03-21 (UTC)
+Generated: 2026-03-21 13:07:38Z
+
+== Rates Credit ==
+- [MarketWatch - Top Stories] 2026-03-21 11:00Z — ‘I’m completely gobsmacked’: My elderly brother has a reverse mortgage, but has run out of money. Do I help?
+  https://www.marketwatch.com/story/im-completely-gobsmacked-my-elderly-brother-has-a-reverse-mortgage-but-has-run-out-of-money-do-i-help-2185859c?mod=mw_rss_topstories
+
+== Equities ==
+- [Yahoo Finance - Top Stories] 2026-03-21 12:46Z — Microsoft Corporation (MSFT) Starts Validating Nvidia’s Vera Rubin NVL72 for AI Workloads
+  https://finance.yahoo.com/sectors/technology/articles/microsoft-corporation-msft-starts-validating-124639981.html
+- [Yahoo Finance - Top Stories] 2026-03-21 12:43Z — NVIDIA Corporation (NVDA) Unveils Agent Toolkit For Creating Specialized AI Agents
+  https://finance.yahoo.com/sectors/technology/articles/nvidia-corporation-nvda-unveils-agent-124332917.html
+- [Yahoo Finance - Top Stories] 2026-03-21 12:42Z — Down 21% This Year: Is Oracle the Most Undervalued AI Stock on the Market?
+  https://finance.yahoo.com/markets/stocks/articles/down-21-oracle-most-undervalued-124200069.html
+- [MarketWatch - Top Stories] 2026-03-21 12:40Z — ‘This guy has no manners’: My Airbnb guest requested I buy bacon and beer. The $30 bill remains unpaid. Do I insist?
+  https://www.marketwatch.com/story/this-guy-has-no-manners-my-airbnb-guest-requested-i-buy-bacon-and-beer-the-30-bill-remains-unpaid-do-i-insist-e98ccecd?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-03-21 12:22Z — Buffett defends 'Giving Pledge' against Thiel and 'billionaire backlash'
+  https://www.cnbc.com/2026/03/21/buffett-defends-giving-pledge-against-thiel-and-billionaire-backlash.html
+- [MarketWatch - Top Stories] 2026-03-21 11:30Z — Software stocks are in bargain territory — and that’s reviving an age-old debate
+  https://www.marketwatch.com/story/software-stocks-are-in-bargain-territory-and-thats-reviving-an-age-old-debate-7a098406?mod=mw_rss_topstories
+
+== Commodities ==
+- [Yahoo Finance - Top Stories] 2026-03-21 12:45Z — These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Renewable Energy Firm Humming
+  https://www.investors.com/research/best-stocks-seven-magnificent-stocks-earnings-growth/?src=A00220&yptr=yahoo
+- [CNBC - Top News] 2026-03-21 12:00Z — OpenClaw's ChatGPT moment sparks concern that AI models are becoming commodities
+  https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html
+- [MarketWatch - Top Stories] 2026-03-21 11:30Z — Here’s the exact oil price that would tip the U.S. into a recession — and we’re getting closer as the Iran conflict drags on
+  https://www.marketwatch.com/story/heres-the-exact-oil-price-that-would-tip-the-u-s-into-a-recession-and-were-getting-closer-as-the-iran-conflict-drags-on-35a7e4ca?mod=mw_rss_topstories
+
+== Geopolitics ==
+- [MarketWatch - Top Stories] 2026-03-21 13:00Z — Jensen Huang once said there was ‘no evidence’ Nvidia chips were getting diverted to China. The scandal at Super Micro suggests otherwise.
+  https://www.marketwatch.com/story/jensen-huang-once-said-there-was-no-evidence-nvidia-chips-were-getting-diverted-to-china-the-scandal-at-super-micro-suggests-otherwise-12ec0904?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-03-21 12:00Z — Financial markets are responding to the Iran conflict in unexpected ways — leaving some investors puzzled
+  https://www.marketwatch.com/story/financial-markets-are-responding-to-the-iran-conflict-in-unexpected-ways-leaving-some-investors-puzzled-0ce070d9?mod=mw_rss_topstories
+
+== Volatility ==
+- [CNBC - Top News] 2026-03-21 12:00Z — Analysis: Trump's unshackled presidency puts him at the center of the economy
+  https://www.cnbc.com/2026/03/21/trump-oil-fed-economy-iran-war.html
+
+== Other ==
+- [Yahoo Finance - Top Stories] 2026-03-21 12:51Z — The Trade Desk Is Being Valued Like a Dying Business, but Its Financials Say Otherwise
+  https://finance.yahoo.com/markets/stocks/articles/trade-desk-being-valued-dying-125100643.html
+- [Yahoo Finance - Top Stories] 2026-03-21 12:50Z — Bitcoin Just Had Its Worst Start to a Year Ever. History Says April Could Change Everything.
+  https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-had-worst-start-125000690.html
+- [MarketWatch - Top Stories] 2026-03-21 12:30Z — Americans are about to get a crash course in the global economy: Higher prices are coming for pineapples, plastic, chocolate and berries
+  https://www.marketwatch.com/story/americans-are-about-to-get-a-crash-course-in-the-global-economy-higher-prices-are-coming-for-pineapples-plastic-chocolate-and-berries-0be67162?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-03-21 12:10Z — Retirees, steel yourselves: Global crises might rattle the markets, but they don’t have to ruin your retirement
+  https://www.marketwatch.com/story/retirees-steel-yourselves-global-crises-might-rattle-the-markets-but-they-dont-have-to-ruin-your-retirement-b73fcb7a?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-03-21 12:00Z — GLP-1 drugs are changing how Americans eat. Food companies are racing to catch up
+  https://www.cnbc.com/2026/03/21/glp-1-diets-restaurants-protein-fiber-weight-loss-drugs.html
+- [CNBC - Top News] 2026-03-21 10:19Z — Jim Cramer says to prepare for further stock declines but be open to opportunities
+  https://www.cnbc.com/2026/03/20/jim-cramer-says-to-prepare-for-further-stock-declines-but-be-open-to-opportunities.html
+- [CNBC - Top News] 2026-03-21 06:30Z — Opinion: As Trump eyes Cuba, my trips there a decade ago remind me how different things were
+  https://www.cnbc.com/2026/03/21/trump-cuba-oil-supply-communist-island-castro.html
+- [CNBC - Top News] 2026-03-21 01:00Z — Elon Musk misled Twitter investors ahead of $44 billion acquisition, jury says
+  https://www.cnbc.com/2026/03/20/elon-musk-determined-to-be-liable-for-misleading-twitter-investors.html
