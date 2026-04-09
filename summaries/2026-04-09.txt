@@ -1,0 +1,128 @@
+$SPY daily news summary — 2026-04-09 (UTC)
+Generated: 2026-04-09 14:03:34Z
+
+== Macro Fed ==
+- [CNBC - Top News] 2026-04-09 14:03Z — Inflation held sticky at 3% as U.S. headed into war with Iran, key Fed gauge shows
+  https://www.cnbc.com/2026/04/09/core-inflation-was-3percent-in-february-as-expected-key-fed-gauge-shows.html
+- [Yahoo Finance - Top Stories] 2026-04-09 13:51Z — Stock Market Today: Dow Drops On Fragile Ceasefire, Hot Inflation Data; CoreWeave Jumps (Live Coverage)
+  https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-coreweave-crwv-stock/?src=A00220&yptr=yahoo
+- [MarketWatch - Top Stories] 2026-04-09 13:25Z — Inflation was getting worse before Iran war. PCE price increases show how much.
+  https://www.marketwatch.com/story/inflation-was-getting-worse-before-iran-war-new-pce-price-gauges-show-how-much-32559cd8?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-04-09 13:13Z — Key Fed Inflation Rate Ran Hot Before Oil Prices Jumped; S&P 500 Futures Slip
+  https://www.investors.com/news/federal-reserve-inflation-rate-pce-prce-index-feb-sp-500/?src=A00220&yptr=yahoo
+
+== Rates Credit ==
+- [Yahoo Finance - Top Stories] 2026-04-09 13:52Z — This Investor's $5 Million ETF Buy Pushes 2028 Bond Fund to Nearly 4% of AUM
+  https://finance.yahoo.com/markets/options/articles/investors-5-million-etf-buy-135216164.html
+- [CNBC - Top News] 2026-04-09 12:55Z — Volatility is the 'new norm' for government bonds as interest rate uncertainty sees yields whipsaw
+  https://www.cnbc.com/2026/04/09/us-iran-ceasefire-interest-rates-bank-of-england-ecb-europe-bond-markets-risk-volatility-inflation.html
+
+== Equities ==
+- [CNBC - Top News] 2026-04-09 14:01Z — Amazon CEO Jassy defends $200 billion AI spend: "We're not going to be conservative"
+  https://www.cnbc.com/2026/04/09/amazon-ceo-andy-jassy-ai-spending.html
+- [CNBC - Top News] 2026-04-09 13:55Z — Meta commits to spending additional $21 billion with CoreWeave as AI costs keep rising
+  https://www.cnbc.com/2026/04/09/meta-commits-to-spending-additional-21-billion-with-coreweave-.html
+- [Yahoo Finance - Top Stories] 2026-04-09 13:50Z — JetAI Stock Tanks—Can A $5M Ticket To Elon Musk's SpaceX World Save It?
+  https://finance.yahoo.com/markets/stocks/articles/jetai-stock-tanks-5m-ticket-135012345.html
+- [Yahoo Finance - Top Stories] 2026-04-09 13:48Z — Dividend Stocks Merge In $1.7 Billion Deal; This One Rockets
+  https://www.investors.com/news/dividend-stocks-ares-capital-whitestone-reit-merger-1-7-billion-deal/?src=A00220&yptr=yahoo
+- [Yahoo Finance - Top Stories] 2026-04-09 13:39Z — Constellation Leads S&P 500 As Sliding Earnings Beat Expectations
+  https://www.investors.com/news/constellation-brands-earnings-beer-drinking/?src=A00220&yptr=yahoo
+- [CNBC - Top News] 2026-04-09 13:38Z — Meta's long-awaited AI model is finally here. But can it make money?
+  https://www.cnbc.com/2026/04/09/metas-long-awaited-ai-model-is-finally-here-but-can-it-make-money.html
+- [Yahoo Finance - Top Stories] 2026-04-09 13:33Z — Amdocs (DOX) Fell Despite Its Lower Exposure to AI Disruption
+  https://finance.yahoo.com/markets/stocks/articles/amdocs-dox-fell-despite-lower-133331870.html
+- [MarketWatch - Top Stories] 2026-04-09 13:33Z — An earnings boom is around the corner, and it could blindside the stock-market bears
+  https://www.marketwatch.com/story/an-earnings-boom-is-around-the-corner-and-it-could-blindside-the-stock-market-bears-827fe243?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-04-09 13:15Z — Right Tail Capital’s Investment Thesis for Natural Resource Partners L.P. (NRP)
+  https://finance.yahoo.com/markets/stocks/articles/tail-capital-investment-thesis-natural-131516498.html
+- [CNBC - Top News] 2026-04-09 13:11Z — American Airlines makes bag fees even more expensive for basic economy tickets
+  https://www.cnbc.com/2026/04/09/american-airlines-bag-fees-basic-economy.html
+- [Yahoo Finance - Top Stories] 2026-04-09 13:05Z — SiFive raises $400 million from Atreides, Nvidia for data-center chip technology
+  https://finance.yahoo.com/sectors/technology/articles/sifive-raises-400-million-atreides-130536660.html
+- [CNBC - Top News] 2026-04-09 13:05Z — Constellation Brands, U.S. maker of Modelo and Corona, withdraws 2028 guidance due to uncertainty
+  https://www.cnbc.com/2026/04/08/constellation-brands-stz-q4-2026-earnings.html
+- [Yahoo Finance - Top Stories] 2026-04-09 13:02Z — Intel and Google to double down on AI CPUs with expanded partnership
+  https://finance.yahoo.com/sectors/technology/articles/intel-google-double-down-ai-130225134.html
+- [CNBC - Top News] 2026-04-09 13:00Z — Google expands partnership with Intel for AI chips
+  https://www.cnbc.com/2026/04/09/google-expands-partnership-with-intel-for-ai-chips-.html
+- [CNBC - Top News] 2026-04-09 12:48Z — As millions lose weight on GLP-1s, they're starting to turn to retailers to refresh their wardrobes
+  https://www.cnbc.com/2026/04/09/weight-loss-pills-glp-1s-stitch-fix-apparel-retailers.html
+- [MarketWatch - Top Stories] 2026-04-09 12:35Z — Amazon’s CEO doubles down on AI spending: ‘We are not going to be conservative’
+  https://www.marketwatch.com/story/amazons-ceo-doubles-down-on-ai-spending-we-are-not-going-to-be-conservative-6f380944?mod=mw_rss_topstories
+
+== Commodities ==
+- [CNBC - Top News] 2026-04-09 13:37Z — The Strait of Hormuz is not open as Iran controls access after ceasefire, UAE oil CEO says
+  https://www.cnbc.com/2026/04/09/iran-war-oil-strait-hormuz-tanker-ship-uae.html
+- [Yahoo Finance - Top Stories] 2026-04-09 13:19Z — Chord Energy (CHRD) Rallied Along With Rising Oil Prices
+  https://finance.yahoo.com/markets/stocks/articles/chord-energy-chrd-rallied-along-131958371.html
+- [Yahoo Finance - Top Stories] 2026-04-09 13:00Z — How to buy gold on Robinhood
+  https://finance.yahoo.com/personal-finance/investing/article/how-to-buy-gold-on-robinhood-130000343.html
+- [MarketWatch - Top Stories] 2026-04-09 12:19Z — Oil prices tick higher but stay below $100 a barrel on concerns about a ‘fragile’ cease-fire
+  https://www.marketwatch.com/story/oil-prices-rise-as-concerns-about-fragile-cease-fire-see-goldman-warn-of-115-crude-by-end-of-the-year-0db06f0c?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-04-09 12:05Z — Family offices piled into oil after capital dried up. The recent rally has made for big gains
+  https://www.cnbc.com/2026/04/09/family-offices-gains-opportunistic-bets-on-oil.html
+- [CNBC - Top News] 2026-04-09 11:42Z — OpenAI halts UK stargate project amid regulatory and energy price concerns
+  https://www.cnbc.com/2026/04/09/openai-halts-uk-stargate-project.html
+- [CNBC - Top News] 2026-04-09 09:26Z — Iran oil shock stirs memories of 1997 Asian Financial Crisis — but here’s why history may not repeat itself
+  https://www.cnbc.com/2026/04/09/asia-iran-oil-shock-1997-crisis-comparison-reserves-stagflation-hormuz-trump.html
+
+== FX ==
+- [Yahoo Finance - Top Stories] 2026-04-09 13:38Z — Does Teleflex (TFX) have the Potential to become a High-Growth Business?
+  https://finance.yahoo.com/markets/stocks/articles/does-teleflex-tfx-potential-become-133828686.html
+
+== Geopolitics ==
+- [MarketWatch - Top Stories] 2026-04-09 13:36Z — The shaky Trump-Iran cease-fire means being ready to exit any ‘war’s over’ rally
+  https://www.marketwatch.com/story/these-signals-will-make-or-break-the-iran-cease-fire-and-oil-prices-8f415515?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-04-09 08:51Z — Fast food, faster charging? BYD and KFC China collaborate to offer 9-minute refueling stations
+  https://www.cnbc.com/2026/04/09/byd-and-kfc-collaborate-to-offer-9-minute-refueling-stations-in-china.html
+- [CNBC - Top News] 2026-04-09 04:58Z — Trump says U.S. ready for 'next conquest,' warns military to remain near Iran until 'real agreement' is honored
+  https://www.cnbc.com/2026/04/09/trump-military-troops-iran-conflict-middle-east-hormuz.html
+- [CNBC - Top News] 2026-04-09 03:05Z — 'Poorly run, piece of ice': Trump targets Greenland again as Iran war deepens NATO rift
+  https://www.cnbc.com/2026/04/09/trump-greenland-nato-rift-iran-war-deepens.html
+
+== Volatility ==
+- [CNBC - Top News] 2026-04-09 09:04Z — Britain to call for toll-free Strait of Hormuz, says Lebanon must be part of Iran ceasefire
+  https://www.cnbc.com/2026/04/09/uk-cooper-iran-war-strait-of-hormuz-tolls-lebanon-israel-ceasefire.html
+
+== Other ==
+- [MarketWatch - Top Stories] 2026-04-09 14:00Z — CoreWeave’s stock dips as the hype around new Meta deal quickly subsides
+  https://www.marketwatch.com/story/coreweaves-stock-dips-as-the-hype-around-new-meta-deal-quickly-subsides-5208fa9c?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-04-09 13:50Z — Wall Street Keeps Underestimating This Monster Stock. Don't Make the Same Mistake.
+  https://finance.yahoo.com/markets/stocks/articles/wall-street-keeps-underestimating-monster-135000210.html
+- [Yahoo Finance - Top Stories] 2026-04-09 13:48Z — CH Guenther & Son buys tortilla maker Les Aliments Mejicano
+  https://finance.yahoo.com/markets/stocks/articles/ch-guenther-son-buys-tortilla-134833694.html
+- [Yahoo Finance - Top Stories] 2026-04-09 13:47Z — Simply Good Foods slashes outlook, slips to second-quarter loss
+  https://finance.yahoo.com/markets/stocks/articles/simply-good-foods-slashes-outlook-134759097.html
+- [Yahoo Finance - Top Stories] 2026-04-09 13:40Z — LKQ Corp. (LKQ) Slid on an Unresponsive Market Sentiment
+  https://finance.yahoo.com/markets/stocks/articles/lkq-corp-lkq-slid-unresponsive-134026090.html
+- [Yahoo Finance - Top Stories] 2026-04-09 13:39Z — Strategy’s Michael Saylor Says Quantum Threats Are Overblown
+  https://finance.yahoo.com/markets/crypto/articles/strategy-michael-saylor-says-quantum-133900151.html
+- [Yahoo Finance - Top Stories] 2026-04-09 13:36Z — Will the New Shareholder Help Kelly Services (KELYA) to Close the Valuation Gap?
+  https://finance.yahoo.com/markets/stocks/articles/shareholder-help-kelly-services-kelya-133632679.html
+- [MarketWatch - Top Stories] 2026-04-09 13:31Z — Consumer spending partly recovers after winter freeze, but not enough to signal an improved economy
+  https://www.marketwatch.com/story/consumer-spending-partly-recovers-after-winter-freeze-but-not-enough-to-signal-improved-economy-4552ac4e?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-04-09 13:30Z — Resources Connection (RGP) is Trying to Mitigate the Revenue Decline by Cost Reduction
+  https://finance.yahoo.com/markets/stocks/articles/resources-connection-rgp-trying-mitigate-133052619.html
+- [Yahoo Finance - Top Stories] 2026-04-09 13:27Z — Flowers Foods (FLO) is Under Pressure From GLP-1 Weight-Loss Treatments and Softer Consumer Sentiment
+  https://finance.yahoo.com/markets/stocks/articles/flowers-foods-flo-under-pressure-132740160.html
+- [Yahoo Finance - Top Stories] 2026-04-09 13:25Z — Farmland Partners (FPI) Reported Better-Than-Expected Operating Results in Q1
+  https://finance.yahoo.com/markets/stocks/articles/farmland-partners-fpi-reported-better-132502655.html
+- [MarketWatch - Top Stories] 2026-04-09 13:25Z — Intel’s stock set to extend its hot streak. Here’s the company’s latest win.
+  https://www.marketwatch.com/story/intels-stock-set-to-extend-its-hot-streak-heres-the-companys-latest-win-7925a95f?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-04-09 13:22Z — Palm Valley Capital Fund Trimmed Its Stake in Heartland Express (HTLD)
+  https://finance.yahoo.com/markets/stocks/articles/palm-valley-capital-fund-trimmed-132235373.html
+- [Yahoo Finance - Top Stories] 2026-04-09 13:10Z — Do You Believe in the Growth Potential of Otis Worldwide Corporation (OTIS)?
+  https://finance.yahoo.com/markets/stocks/articles/believe-growth-potential-otis-worldwide-131052054.html
+- [Yahoo Finance - Top Stories] 2026-04-09 13:07Z — Canary Capital Pioneers Meme Coin Finance with Spot PEPE ETF Filing
+  https://finance.yahoo.com/markets/crypto/articles/canary-capital-pioneers-meme-coin-130700912.html
+- [Yahoo Finance - Top Stories] 2026-04-09 13:05Z — Morgan Stanley’s Bitcoin ETF Attracts $34 Million On First Day
+  https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-bitcoin-etf-attracts-130500110.html
+- [MarketWatch - Top Stories] 2026-04-09 12:45Z — Don’t start saving for college until you have these 4 financial priorities under control
+  https://www.marketwatch.com/story/dont-start-saving-for-college-until-you-have-these-4-financial-priorities-under-control-84988ed6?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-04-09 12:30Z — Still haven’t filed your taxes? Here’s a $350 reason to stop procrastinating.
+  https://www.marketwatch.com/story/still-havent-filed-your-taxes-heres-a-350-reason-to-stop-procrastinating-012b1171?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-04-09 11:32Z — Olympic skier Lindsey Vonn doesn't rule out the 2030 games: 'I would only do it if I could be fast'
+  https://www.cnbc.com/2026/04/09/olympic-skier-lindsey-vonn-2030-games.html
+- [CNBC - Top News] 2026-04-09 05:01Z — From war to weather: A 'super El Niño' event poses fresh risks to global food costs
+  https://www.cnbc.com/2026/04/09/el-nino-food-risks-iran-war-fertilizer-weather.html
