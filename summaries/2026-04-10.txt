@@ -1,0 +1,90 @@
+$SPY daily news summary — 2026-04-10 (UTC)
+Generated: 2026-04-10 13:42:02Z
+
+== Macro Fed ==
+- [CNBC - Top News] 2026-04-10 13:29Z — Powell, Bessent discussed Anthropic's Mythos AI cyber threat with major U.S. banks
+  https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html
+- [CNBC - Top News] 2026-04-10 11:59Z — Kevin Warsh Fed chair confirmation plan hits snag as nomination hearing is delayed
+  https://www.cnbc.com/2026/04/10/warsh-fed-nomination-hearing-delayed.html
+- [CNBC - Top News] 2026-04-10 04:49Z — Keir Starmer: 'I'm fed up' with Trump and Putin affecting UK energy costs
+  https://www.cnbc.com/2026/04/09/keir-starmer-fed-up-trump-putin-uk-energy-costs.html
+
+== Equities ==
+- [MarketWatch - Top Stories] 2026-04-10 13:30Z — Wall Street’s fear gauge just flashed an unusual signal that could carry the S&P 500 to 7,400 within months
+  https://www.marketwatch.com/story/wall-streets-fear-gauge-just-flashed-an-unusual-signal-that-could-carry-the-s-p-500-to-7-400-within-months-f47eb753?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-04-10 11:50Z — AI will boost productivity. But first it will drag the economy down.
+  https://www.marketwatch.com/story/ai-will-boost-productivity-but-first-it-will-drag-the-economy-down-283e3c16?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-04-10 11:31Z — Daily Spotlight: Earnings Season Starts Next Week
+  https://finance.yahoo.com/research/reports/ARGUS_46696_MarketOutlook_1775820682000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [Yahoo Finance - Top Stories] 2026-04-10 11:14Z — Daily – Vickers Top Buyers & Sellers for 04/10/2026
+  https://finance.yahoo.com/research/reports/ARGUS_46694_TopBottomInsiderActivity_1775819659000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [Yahoo Finance - Top Stories] 2026-04-10 11:14Z — Daily – Vickers Top Insider Picks for 04/10/2026
+  https://finance.yahoo.com/research/reports/ARGUS_46693_InsiderActivity_1775819659000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [MarketWatch - Top Stories] 2026-04-10 10:19Z — TSMC reports forecast-beating revenue as AI chip demand defies geopolitical tensions
+  https://www.marketwatch.com/story/tsmc-reports-forecast-beating-revenue-with-the-message-that-war-isnt-denting-ai-chip-demand-6bd25a27?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-04-10 08:56Z — Alibaba just revealed it’s behind a viral AI video model dominating leaderboards
+  https://www.cnbc.com/2026/04/10/alibaba-happyhorse-ai-video-model-benchmark-reveal.html
+- [CNBC - Top News] 2026-04-10 08:13Z — TSMC posts 35% jump in revenue to new record high as AI chip demand stays strong
+  https://www.cnbc.com/2026/04/10/tsmc-q1-record-revenue-ai-chip-demand-strong.html
+- [CNBC - Top News] 2026-04-10 02:00Z — Alibaba leads $290 million investment for building a new kind of AI model as LLM limits emerge
+  https://www.cnbc.com/2026/04/10/alibaba-cloud-invests-world-model-ai-shengshu-vidu.html
+- [CNBC - Top News] 2026-04-10 01:39Z — Fast Retailing shares soar to record high after the Uniqlo owner lifts profit forecast
+  https://www.cnbc.com/2026/04/10/uniqlo-fast-retailing-sharesprofit-outlook.html
+- [CNBC - Top News] 2026-04-10 00:00Z — OpenAI slams Anthropic in memo to shareholders as its leading AI rival gains momentum
+  https://www.cnbc.com/2026/04/09/openai-slams-anthropic-in-memo-to-shareholders-as-rival-gains-momentum.html
+
+== Commodities ==
+- [CNBC - Top News] 2026-04-10 13:37Z — Consumer prices rose 3.3% in March, as energy prices spiked due to Iran conflict
+  https://www.cnbc.com/2026/04/10/cpi-inflation-report-march-2026.html
+- [MarketWatch - Top Stories] 2026-04-10 11:58Z — Brent oil faces its worst weekly drop since 2022, as weekend talks loom between U.S. and Iran
+  https://www.marketwatch.com/story/oil-prices-struggle-for-gains-ahead-of-talks-between-u-s-and-iran-with-cease-fire-on-the-line-a99cacd1?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-04-10 06:20Z — What this real-world oil price says about the level of stress in the energy market
+  https://www.cnbc.com/2026/04/10/oil-prices-dated-brent-energy-iran-war-ceasefire-strait-of-hormuz.html
+- [CNBC - Top News] 2026-04-10 03:50Z — China factory prices return to growth after 3 years, beating expectations on surging oil prices
+  https://www.cnbc.com/2026/04/10/china-cpi-ppi-march-iran-oil-chock-consumer-inflation-manufacturing-.html
+
+== FX ==
+- [MarketWatch - Top Stories] 2026-04-10 09:16Z — ‘I feel pressured’: My husband has early Alzheimer’s and wants to visit Europe, but I’m terrified of flying. What should I do?
+  https://www.marketwatch.com/story/i-feel-pressured-my-husband-has-early-alzheimers-and-wants-to-visit-europe-but-im-terrified-of-flying-what-should-i-do-c5cc01bf?mod=mw_rss_topstories
+
+== Geopolitics ==
+- [CNBC - Top News] 2026-04-10 12:35Z — China's Xi invokes 'threat' of Taiwan independence in first cross-strait opposition talks in a decade
+  https://www.cnbc.com/2026/04/10/china-taiwan-reunification-cross-strait-relations-trump-visit-may-.html
+- [CNBC - Top News] 2026-04-10 11:44Z — Ireland gridlocked by fuel protests as Iran War drives prices higher
+  https://www.cnbc.com/2026/04/10/ireland-fuel-prices-protest-blockade-cork-galway.html
+- [CNBC - Top News] 2026-04-10 08:51Z — Behind China's 'active efforts' for an Iran ceasefire: Business trumps politics
+  https://www.cnbc.com/2026/04/10/china-iran-ceasefire-role-energy-economy-strategy.html
+
+== Volatility ==
+- [MarketWatch - Top Stories] 2026-04-10 12:58Z — CoreWeave’s stock pops as new Anthropic deal highlights intense scramble for AI compute
+  https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-anthropic-deal-highlights-intense-scramble-for-ai-compute-77867de3?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-04-10 12:14Z — Iran attacks on crucial Saudi pipeline and production facilities slash kingdom's oil output
+  https://www.cnbc.com/2026/04/09/iran-war-oil-saudi-arabia-east-west-pipeline.html
+- [CNBC - Top News] 2026-04-10 11:00Z — The Tech Download: Reputational damage, supply chain issues and local investment. What's next for Middle East tech?
+  https://www.cnbc.com/2026/04/10/tech-download-iran-war-whats-next-helium-chips.html
+
+== Other ==
+- [CNBC - Top News] 2026-04-10 13:33Z — How 'married filing separately' status could affect Trump tax breaks this season
+  https://www.cnbc.com/2026/04/09/married-filing-separately-trumps-tax-breaks.html
+- [CNBC - Top News] 2026-04-10 13:31Z — The Masters has become the biggest event of the year for private jet companies
+  https://www.cnbc.com/2026/04/10/masters-tournament-golf-luxury-private-jet.html
+- [CNBC - Top News] 2026-04-10 12:56Z — Jim Cramer's top 10 things to watch in the stock market Friday
+  https://www.cnbc.com/2026/04/10/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html
+- [MarketWatch - Top Stories] 2026-04-10 12:52Z — Global chaos has become a permanent guest in your portfolio. This strategist says Big Tech and emerging markets are now essentials.
+  https://www.marketwatch.com/story/global-chaos-is-now-a-permanent-guest-in-your-portfolio-why-big-tech-and-emerging-markets-are-essential-says-this-strategist-2eff3878?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-04-10 12:37Z — You have until April 15 to get this $8,000 Roth IRA freebie — no matter what your income
+  https://www.marketwatch.com/story/you-have-until-april-15-to-get-this-8-000-roth-ira-freebie-no-matter-what-your-income-4e8e7c8f?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-04-10 12:14Z — The Trump administration is getting angry as EU Big Tech fines top $7 billion in 2 years
+  https://www.cnbc.com/2026/04/10/google-meta-big-tech-6-billion-euros-eu-fine.html
+- [Yahoo Finance - Top Stories] 2026-04-10 11:30Z — Technical Assessment: Bullish in the Intermediate-Term
+  https://finance.yahoo.com/research/reports/ARGUS_46695_TechnicalAnalysis_1775820612000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [MarketWatch - Top Stories] 2026-04-10 11:30Z — My second husband will leave me $540,000 if I bequeath him my $130,000 net worth. What will happen to my two sons?
+  https://www.marketwatch.com/story/my-second-husband-will-leave-me-540-000-if-i-bequeath-him-my-130-000-net-worth-what-will-happen-to-my-two-sons-d5a80a08?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-04-10 11:11Z — Analyst Report: NiSource Inc
+  https://finance.yahoo.com/research/reports/ARGUS_3241_AnalystReport_1775819513000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [CNBC - Top News] 2026-04-10 11:00Z — BlackRock rips page from hedge fund playbook, applies it to exchange-traded funds
+  https://www.cnbc.com/2026/04/10/blackrock-rips-page-from-hedge-fund-playbook-applies-it-to-etfs.html
+- [MarketWatch - Top Stories] 2026-04-10 09:30Z — ‘I am at a crossroads’: I’m 37 and have $1.3 million. Do I stop working to spend time with my young kids?
+  https://www.marketwatch.com/story/i-am-at-a-crossroads-im-37-and-have-1-3-million-do-i-stop-working-to-spend-time-with-my-young-kids-fb2f1b20?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-04-10 06:38Z — Eli Lilly market share drops, Novo Nordisk holds firm as generic weight-loss drugs flood India
+  https://www.cnbc.com/2026/04/10/eli-lilly-slips-novo-nordisk-holds-firm-as-generic-weight-loss-drugs-flood-india.html
