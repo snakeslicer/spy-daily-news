@@ -1,0 +1,82 @@
+$SPY daily news summary — 2026-04-17 (UTC)
+Generated: 2026-04-17 13:49:39Z
+
+== Macro Fed ==
+- [CNBC - Top News] 2026-04-17 13:49Z — Iran declares Strait of Hormuz open to shipping; Trump says U.S. blockade still active
+  https://www.cnbc.com/2026/04/17/iran-war-hormuz-strait-israel-lebanon-ceasefire.html
+- [MarketWatch - Top Stories] 2026-04-17 11:55Z — Signs point to a solid earnings season — and with the S&P 500 topping 7,000, you should believe them
+  https://www.marketwatch.com/story/signs-point-to-a-solid-earnings-season-and-with-the-s-p-500-topping-7-000-you-should-believe-them-69cddf67?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-04-17 11:55Z — The world’s most stable asset is losing its grip — leaving your paycheck and retirement vulnerable to inflation
+  https://www.marketwatch.com/story/the-worlds-most-stable-asset-is-losing-its-grip-leaving-your-paycheck-and-retirement-vulnerable-to-inflation-9c177b96?mod=mw_rss_topstories
+
+== Equities ==
+- [CNBC - Top News] 2026-04-17 13:35Z — Some grocers are using AI to cut food waste and boost profit margins
+  https://www.cnbc.com/2026/04/17/some-grocers-are-using-ai-to-cut-food-waste-and-boost-profit-margins.html
+- [MarketWatch - Top Stories] 2026-04-17 13:31Z — These two sectors have been boosted by AI hopes. Why investors should buy one, and trim exposure to the other.
+  https://www.marketwatch.com/story/these-two-sectors-have-been-boosted-by-ai-hopes-why-investors-should-buy-one-and-trim-exposure-to-the-other-55f7a34a?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-04-17 12:58Z — Even OpenAI’s top economist thinks the AI job apocalypse is overstated. Here’s why.
+  https://www.marketwatch.com/story/even-openais-top-economist-thinks-the-ai-job-apocalypse-is-overstated-heres-why-7e920e7a?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-04-17 11:22Z — Nvidia AI chip rivals attract record funding as competition heats up
+  https://www.cnbc.com/2026/04/17/nvidia-ai-chip-rivals-funding-euclyd-fractile.html
+- [CNBC - Top News] 2026-04-17 11:00Z — If a violent downturn strikes the market, new ETF strategies may be vulnerable. Here's why
+  https://www.cnbc.com/2026/04/17/violent-downturns-could-test-new-etf-strategies-warns-mfs-investment.html
+- [Yahoo Finance - Top Stories] 2026-04-17 10:48Z — Daily – Vickers Top Buyers & Sellers for 04/17/2026
+  https://finance.yahoo.com/research/reports/ARGUS_46763_TopBottomInsiderActivity_1776422920000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [CNBC - Top News] 2026-04-17 06:58Z — Uber raises stake in Delivery Hero in $318 million deal
+  https://www.cnbc.com/2026/04/17/uber-raises-stake-delivery-hero-prosus.html
+- [CNBC - Top News] 2026-04-17 02:22Z — Netflix stock sinks after streamer reiterates guidance, says Reed Hastings to exit board
+  https://www.cnbc.com/2026/04/16/netflix-nflx-earnings-q1-2026.html
+
+== Commodities ==
+- [CNBC - Top News] 2026-04-17 13:42Z — Oil prices tumble more than 10% as Iran declares Strait of Hormuz open, easing supply fears
+  https://www.cnbc.com/2026/04/17/oil-prices-wti-brent-israel-lebanon-ceasefire-trump.html
+- [CNBC - Top News] 2026-04-17 13:30Z — House Dem Sam Liccardo probes suspicious oil trades during Iran war
+  https://www.cnbc.com/2026/04/17/house-dem-probe-iran-war-trades-suspicious.html
+- [MarketWatch - Top Stories] 2026-04-17 13:20Z — U.S. oil prices drop below $83 a barrel after Iran declares Strait of Hormuz ‘completely open’ during cease-fire
+  https://www.marketwatch.com/story/oil-prices-dropping-after-trump-says-iran-war-should-end-pretty-soon-da53676a?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-04-17 07:57Z — Spain touts energy resilience to Iran war as Trump tensions cast shadow over trade
+  https://www.cnbc.com/2026/04/17/spain-energy-resilience-iran-war-trump-trade.html
+- [CNBC - Top News] 2026-04-17 07:08Z — U.S. seeks bigger energy foothold in India. Why it could be a problem for New Delhi
+  https://www.cnbc.com/2026/04/17/us-seeks-to-expand-energy-sales-to-india-why-it-could-be-a-problem-for-new-delhi.html
+
+== FX ==
+- [Yahoo Finance - Top Stories] 2026-04-17 11:22Z — Daily Spotlight: Dollar Surges Amid Iran War
+  https://finance.yahoo.com/research/reports/ARGUS_46767_MarketOutlook_1776424971000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [CNBC - Top News] 2026-04-17 07:23Z — Nvidia rival tells CNBC it's seeking at least $100 million in funding as European AI chip market booms
+  https://www.cnbc.com/2026/04/17/nvidia-rivals-chip-market-funding-ai-asml-euclyd.html
+
+== Geopolitics ==
+- [CNBC - Top News] 2026-04-17 11:18Z — U.S. tech companies ramp up government lobbying amid Iran war uncertainty
+  https://www.cnbc.com/2026/04/17/us-tech-lobbying-government-iran-war.html
+- [CNBC - Top News] 2026-04-17 09:16Z — Israel's central bank chief pins hopes on peace as economic shock looms
+  https://www.cnbc.com/2026/04/17/israel-lebanon-ceasefire-interest-rates-iran-inflation.html
+
+== Other ==
+- [CNBC - Top News] 2026-04-17 13:27Z — Netflix was long 'a builder not a buyer.' Is that era over?
+  https://www.cnbc.com/2026/04/17/netflix-mergers-m-a-strategy.html
+- [MarketWatch - Top Stories] 2026-04-17 13:27Z — Mutual insurance companies are sending record-breaking cash payouts to their customers this year. Is using one right for you?
+  https://www.marketwatch.com/story/mutual-insurance-companies-are-paying-record-breaking-dividends-to-their-customers-this-year-is-using-one-right-for-you-cb6717e8?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-04-17 13:15Z — Tanker diplomacy: Trump faces tests from Havana to Hormuz
+  https://www.cnbc.com/2026/04/17/trump-tanker-diplomacy-hormuz-cuba-iran-war.html
+- [CNBC - Top News] 2026-04-17 12:53Z — Bessent says to adjust your paycheck withholding — but mistakes could trigger a tax bill, experts caution
+  https://www.cnbc.com/2026/04/17/tax-withholding-2026.html
+- [MarketWatch - Top Stories] 2026-04-17 12:28Z — Lilly’s new GLP-1 pill is off to a ‘robust’ start
+  https://www.marketwatch.com/story/lillys-new-glp-1-pill-is-off-to-a-robust-start-b81cfd02?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-04-17 12:20Z — ‘We keep our finances separate’: My boyfriend is in his 50s with no retirement savings — how worried should I be?
+  https://www.marketwatch.com/story/we-keep-our-finances-separate-my-boyfriend-is-in-his-50s-with-no-retirement-savings-how-worried-should-i-be-65983086?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-04-17 12:05Z — Think the rally is safe? This elite market-timing indicator says a correction is overdue.
+  https://www.marketwatch.com/story/think-the-rally-is-safe-this-elite-market-timing-indicator-says-a-correction-is-overdue-8049c27f?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-04-17 11:53Z — Senate overturns Boundary Waters protections, a boon for Chilean mining company
+  https://www.cnbc.com/2026/04/16/minnesota-boundary-waters-mining-congress.html
+- [Yahoo Finance - Top Stories] 2026-04-17 11:12Z — Analyst Report: KeyCorp
+  https://finance.yahoo.com/research/reports/ARGUS_3759_AnalystReport_1776424379000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [Yahoo Finance - Top Stories] 2026-04-17 11:12Z — Analyst Report: Prologis Inc
+  https://finance.yahoo.com/research/reports/ARGUS_2705_AnalystReport_1776424379000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [CNBC - Top News] 2026-04-17 11:00Z — Uber Eats has a fix for pesky returns. You can just sit on the couch
+  https://www.cnbc.com/2026/04/17/uber-eats-returns-pickup-retail-app.html
+- [Yahoo Finance - Top Stories] 2026-04-17 10:57Z — Market Digest: TSM, PLD, KEY
+  https://finance.yahoo.com/research/reports/ARGUS_46764_MarketSummary_1776423479000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [MarketWatch - Top Stories] 2026-04-17 10:49Z — Netflix co-founder Reed Hastings to exit company, saying it’s so strong it doesn’t need him anymore
+  https://www.marketwatch.com/story/netflix-shatters-profit-expectations-thanks-to-price-increase-and-2-8-billion-breakup-fee-from-warner-bros-ea3a80f8?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-04-17 09:55Z — ICE agent charged with assault by Minnesota prosecutors, arrest warrant issued
+  https://www.cnbc.com/2026/04/16/ice-agent-assault-charge-minnesota-minneapolis.html
