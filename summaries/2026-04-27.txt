@@ -1,0 +1,138 @@
+$SPY daily news summary — 2026-04-27 (UTC)
+Generated: 2026-04-27 14:20:22Z
+
+== Macro Fed ==
+- [CNBC - Top News] 2026-04-27 14:12Z — OpenAI shakes up partnership with Microsoft, capping revenue share payments
+  https://www.cnbc.com/2026/04/27/openai-microsoft-partnership-revenue-cap.html
+
+== Rates Credit ==
+- [MarketWatch - Top Stories] 2026-04-27 13:59Z — Want the lowest mortgage rate you can get? Credit-scoring changes mean home buyers need a new strategy.
+  https://www.marketwatch.com/story/want-the-lowest-mortgage-rate-you-can-get-credit-scoring-changes-mean-home-buyers-need-a-new-strategy-24ab66cf?mod=mw_rss_topstories
+
+== Equities ==
+- [Yahoo Finance - Top Stories] 2026-04-27 14:07Z — Protagonist Therapeutics Inc. (PTGX): Billionaire Joe Edelman Likes This Stock
+  https://finance.yahoo.com/sectors/healthcare/articles/protagonist-therapeutics-inc-ptgx-billionaire-140712596.html
+- [Yahoo Finance - Top Stories] 2026-04-27 14:06Z — Ascendis Pharma A/S (ASND): Billionaire Joe Edelman Is Bullish on This Stock
+  https://finance.yahoo.com/markets/stocks/articles/ascendis-pharma-asnd-billionaire-joe-140635642.html
+- [Yahoo Finance - Top Stories] 2026-04-27 14:05Z — Microsoft, OpenAI rewrite partnership to eliminate exclusive model access, change revenue sharing
+  https://finance.yahoo.com/sectors/technology/article/microsoft-openai-rewrite-partnership-to-eliminate-exclusive-model-access-change-revenue-sharing-140522820.html
+- [Yahoo Finance - Top Stories] 2026-04-27 14:03Z — Jim Cramer Shares Details About When He Bought Wells Fargo’s (WFC) Stock
+  https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-details-bought-140312433.html
+- [Yahoo Finance - Top Stories] 2026-04-27 14:02Z — Google To Up Anthropic Investment As Cloud Giants Chase AI Business
+  https://www.investors.com/news/technology/google-increase-anthropic-investment-cloud-giants-chase-ai-business/?src=A00220&yptr=yahoo
+- [Yahoo Finance - Top Stories] 2026-04-27 14:01Z — Nokia Oyj (NOK): Billionaire Howard Marks Likes Upside Potential of This Stock
+  https://finance.yahoo.com/markets/stocks/articles/nokia-oyj-nok-billionaire-howard-140137364.html
+- [CNBC - Top News] 2026-04-27 13:33Z — Qualcomm up 7% on report it’s partnering with OpenAI on smartphone AI chip
+  https://www.cnbc.com/2026/04/27/qualcomm-qcom-openai-smartphone-chip-partnership-stock.html
+- [MarketWatch - Top Stories] 2026-04-27 13:14Z — Qualcomm’s stock soars as an AI opportunity emerges
+  https://www.marketwatch.com/story/qualcomms-stock-soars-as-an-ai-opportunity-emerges-14a6ed98?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-04-27 12:06Z — United Airlines CEO confirms he approached American Airlines about merger
+  https://www.cnbc.com/2026/04/27/united-airlines-merger-with-american-airlines-ceo-airline-confirms.html
+- [CNBC - Top News] 2026-04-27 11:31Z — The bullish signals ahead of this week's Mag-7 earnings
+  https://www.cnbc.com/2026/04/27/the-bullish-signals-ahead-of-this-weeks-mag-7-earnings.html
+- [CNBC - Top News] 2026-04-27 11:30Z — Wall Street expects solid Q1 results for GM, as Ford and Stellantis try to gain traction
+  https://www.cnbc.com/2026/04/27/gm-f-stla-earnings.html
+- [Yahoo Finance - Top Stories] 2026-04-27 11:20Z — Daily Spotlight: Market Calmer as Earnings Take Center Stage
+  https://finance.yahoo.com/research/reports/ARGUS_46853_MarketOutlook_1777288848000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [CNBC - Top News] 2026-04-27 09:00Z — AI bill would crack down on deepfake distribution and protect whistleblowers
+  https://www.cnbc.com/2026/04/27/ai-legislation-deepfakes-whistleblowers.html
+
+== Commodities ==
+- [MarketWatch - Top Stories] 2026-04-27 13:31Z — Shell to buy Canadian shale company for $14 billion, in what would be oil giant’s biggest acquisition in 10 years
+  https://www.marketwatch.com/story/shell-to-buy-canadian-shale-company-for-14-billion-in-what-would-be-oil-giants-biggest-acquisition-in-10-years-7db50c85?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-04-27 13:14Z — Brent oil prices briefly top $108 per barrel after Iran peace talks unravel
+  https://www.cnbc.com/2026/04/26/oil-price-iran-war-strait-hormuz.html
+
+== FX ==
+- [CNBC - Top News] 2026-04-27 08:19Z — Europe’s rearmament push drives global military spending to record $2.9 trillion despite U.S. pullback
+  https://www.cnbc.com/2026/04/27/global-military-spending-record-2025-europe-asia-ukraine-sipri.html
+
+== Geopolitics ==
+- [Yahoo Finance - Top Stories] 2026-04-27 13:49Z — China blocks Meta’s $2 billion acquisition of AI firm Manus
+  https://finance.yahoo.com/sectors/technology/articles/china-blocks-meta-2-billion-095700004.html
+- [CNBC - Top News] 2026-04-27 13:38Z — China blocks Meta's $2 billion takeover of AI startup Manus
+  https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html
+- [CNBC - Top News] 2026-04-27 13:02Z — Iran reportedly proposes Hormuz Strait deal to U.S. Here’s where things stand — and what’s next for markets
+  https://www.cnbc.com/2026/04/27/us-iran-peace-talks-stall-global-markets-stocks-oil-treasurys.html
+
+== Volatility ==
+- [Yahoo Finance - Top Stories] 2026-04-27 14:03Z — Jim Cramer Shares Why Citi’s (C) Conference Call Was Better Than JPMorgan’s
+  https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-why-citi-140303814.html
+- [CNBC - Top News] 2026-04-27 13:57Z — Oil giant Shell to buy Canada’s ARC Resources for $16.4 billion in push to boost output
+  https://www.cnbc.com/2026/04/27/shell-arc-resources-acquisition-16-billion-energy-oil.html
+- [CNBC - Top News] 2026-04-27 13:30Z — This bank CEO let his AI clone handle an earnings call — now he's signing an OpenAI deal
+  https://www.cnbc.com/2026/04/27/openai-partners-with-customers-bank-in-push-to-automate-finance.html
+
+== Other ==
+- [CNBC - Top News] 2026-04-27 14:15Z — MAHA at odds with Trump over Supreme Court's glyphosate case, farm bill
+  https://www.cnbc.com/2026/04/27/trump-supreme-court-maha-glyphosate.html
+- [MarketWatch - Top Stories] 2026-04-27 14:11Z — Apple is defying a global smartphone slump, as shown through this first-time feat
+  https://www.marketwatch.com/story/apple-is-defying-a-global-smartphone-slump-as-shown-through-this-first-time-feat-1506a37c?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-04-27 14:08Z — Western Union profit dips in first quarter
+  https://finance.yahoo.com/markets/stocks/articles/western-union-profit-dips-first-140823510.html
+- [Yahoo Finance - Top Stories] 2026-04-27 14:05Z — Apogee Therapeutics Inc. (APGE): Primary Challenger to Established Blockbusters
+  https://finance.yahoo.com/sectors/healthcare/articles/apogee-therapeutics-inc-apge-primary-140516264.html
+- [Yahoo Finance - Top Stories] 2026-04-27 14:03Z — Celcuity Inc. (CELC): Likely Leader in Next Generation of Breast Cancer Treatments
+  https://finance.yahoo.com/sectors/healthcare/articles/celcuity-inc-celc-likely-leader-140346925.html
+- [Yahoo Finance - Top Stories] 2026-04-27 14:03Z — Nurix Therapeutics Inc. (NRIX): Leadership in Targeted Protein Degradation Attracts Smart Money
+  https://finance.yahoo.com/sectors/healthcare/articles/nurix-therapeutics-inc-nrix-leadership-140305902.html
+- [Yahoo Finance - Top Stories] 2026-04-27 14:02Z — Jim Cramer Shares Why JPMorgan’s (JPM) Conference Wasn’t Great
+  https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-why-jpmorgan-140256602.html
+- [Yahoo Finance - Top Stories] 2026-04-27 14:02Z — Jim Cramer Predicts Lennar Share Price Performance (LEN)
+  https://finance.yahoo.com/markets/stocks/articles/jim-cramer-predicts-lennar-share-140249232.html
+- [Yahoo Finance - Top Stories] 2026-04-27 14:02Z — Jim Cramer Shares Important Factor For Prologis (PLD) Stock
+  https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-important-factor-140218649.html
+- [Yahoo Finance - Top Stories] 2026-04-27 14:02Z — Jim Cramer Shares Whether to Buy Atlassian (TEAM) Stock or Not
+  https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-whether-buy-140209182.html
+- [Yahoo Finance - Top Stories] 2026-04-27 14:02Z — Jim Cramer Shares Major Reason to Buy Crowdstrike (CRWD)
+  https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-major-reason-140200352.html
+- [Yahoo Finance - Top Stories] 2026-04-27 14:01Z — Jim Cramer’s Still a Believer in Apple (AAPL)
+  https://finance.yahoo.com/markets/stocks/articles/jim-cramer-still-believer-apple-140150579.html
+- [Yahoo Finance - Top Stories] 2026-04-27 14:01Z — Jim Cramer Discusses Hidden Factor For ServiceNow (NOW) Stock
+  https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-hidden-factor-140142454.html
+- [Yahoo Finance - Top Stories] 2026-04-27 14:01Z — Should You Hold Casella Waste Systems (CWST)?
+  https://finance.yahoo.com/markets/stocks/articles/hold-casella-waste-systems-cwst-140134451.html
+- [Yahoo Finance - Top Stories] 2026-04-27 14:01Z — Jim Cramer Discusses Hidden Factor For Salesforce (CRM) Stock
+  https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-hidden-factor-140133277.html
+- [Yahoo Finance - Top Stories] 2026-04-27 14:01Z — Jim Cramer Doesn’t Believe It’s Over With Netflix (NFLX)
+  https://finance.yahoo.com/markets/stocks/articles/jim-cramer-doesn-t-believe-140126709.html
+- [Yahoo Finance - Top Stories] 2026-04-27 14:01Z — Jim Cramer Reveals Whether CoreWeave (CRWV) Was a Short Squeeze or Not
+  https://finance.yahoo.com/markets/stocks/articles/jim-cramer-reveals-whether-coreweave-140117732.html
+- [MarketWatch - Top Stories] 2026-04-27 13:52Z — Zuckerberg is following Musk’s lead with this ‘transformative step’ in outer space
+  https://www.marketwatch.com/story/zuckerberg-is-following-musks-lead-with-this-transformative-step-in-outer-space-1b78cff5?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-04-27 13:48Z — Social Security benefits can be reduced for some retirees who work. How that may change
+  https://www.cnbc.com/2026/04/27/social-security-benefits-reduced.html
+- [MarketWatch - Top Stories] 2026-04-27 13:46Z — Looking to get an EV for the first time? How to avoid making a huge financial mistake.
+  https://www.marketwatch.com/story/looking-to-get-an-ev-for-the-first-time-how-to-avoid-making-a-huge-financial-mistake-13f1a554?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-04-27 13:45Z — Verizon’s stock rises as the company posts surprise subscriber growth under new CEO
+  https://www.marketwatch.com/story/verizons-stock-rises-as-the-company-posts-surprise-subscriber-growth-under-new-ceo-2752e52d?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-04-27 13:42Z — Big Tech is the bull market’s win-win trade right now — making this week crucial
+  https://www.marketwatch.com/story/big-tech-is-the-bull-markets-win-win-trade-right-now-making-this-week-crucial-45665c97?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-04-27 13:37Z — Adidas outfitted the first sub-2-hour marathon racer. But good luck getting the winner’s shoes.
+  https://www.marketwatch.com/story/adidas-claims-the-first-sub-2-hour-marathon-winner-but-good-luck-getting-the-winners-sneakers-3aa995ef?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-04-27 13:14Z — Jim Cramer's top 10 things to watch in the stock market Monday
+  https://www.cnbc.com/2026/04/27/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html
+- [MarketWatch - Top Stories] 2026-04-27 13:14Z — ‘My child requires lifelong support’: I’m in my 40s with $330,000 for retirement. How can I make this last both our lifetimes?
+  https://www.marketwatch.com/story/my-child-will-need-lifelong-support-im-in-my-40s-with-a-330-000-inherited-retirement-account-how-can-i-grow-it-4fc7f64a?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-04-27 13:04Z — Spotify teams up with Peloton to launch global fitness content hub
+  https://www.cnbc.com/2026/04/27/spotify-peloton-fitness-content-hub.html
+- [CNBC - Top News] 2026-04-27 12:57Z — Everything we know about Cole Allen, the suspected DC correspondents' dinner gunman
+  https://www.cnbc.com/2026/04/26/cole-allen-dc-correspondents-dinner-shooter.html
+- [CNBC - Top News] 2026-04-27 12:30Z — More apartments, more deals: Why nearly 40% of landlords are offering concessions right now
+  https://www.cnbc.com/2026/04/27/why-nearly-landlords-are-offering-concessions-right-now.html
+- [Yahoo Finance - Top Stories] 2026-04-27 11:28Z — Weekly Stock List
+  https://finance.yahoo.com/research/reports/ARGUS_46856_StockPicks_1777289280000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [Yahoo Finance - Top Stories] 2026-04-27 11:20Z — Technical Assessment: Bullish in the Intermediate-Term
+  https://finance.yahoo.com/research/reports/ARGUS_46852_TechnicalAnalysis_1777288813000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [Yahoo Finance - Top Stories] 2026-04-27 11:03Z — Analyst Report: Rio Tinto PLC
+  https://finance.yahoo.com/research/reports/ARGUS_3658_AnalystReport_1777287827000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [Yahoo Finance - Top Stories] 2026-04-27 11:03Z — Analyst Report: W R Berkley Corp
+  https://finance.yahoo.com/research/reports/ARGUS_4381_AnalystReport_1777287827000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [CNBC - Top News] 2026-04-27 11:01Z — Intellia Therapeutics says its Crispr-based treatment succeeds in pivotal trial
+  https://www.cnbc.com/2026/04/27/crispr-gene-editing-intellia-trial.html
+- [CNBC - Top News] 2026-04-27 07:31Z — Purple ube’s viral rise is turning a Filipino staple into a global trend — but supplies are tightening
+  https://www.cnbc.com/2026/04/26/ube-purple-yam-viral-trend-philippines-supply-crunch.html
+- [CNBC - Top News] 2026-04-27 07:07Z — We spoke to over 30 CEOs and business leaders. Here's what worries them most
+  https://www.cnbc.com/2026/04/27/cnbc-converge-30-ceos-and-business-leaders-top-concerns.html
+- [CNBC - Top News] 2026-04-27 06:49Z — Sun Pharma shares jump 7% as India's largest drugmaker to buy U.S. firm Organon in $11.75 billion deal
+  https://www.cnbc.com/2026/04/27/indian-drugmaker-sun-pharma-to-buy-us-firm-organon-in-11point75-billion-deal.html
