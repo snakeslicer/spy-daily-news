@@ -1,0 +1,128 @@
+$SPY daily news summary — 2026-05-05 (UTC)
+Generated: 2026-05-05 14:16:54Z
+
+== Macro Fed ==
+- [CNBC - Top News] 2026-05-05 12:45Z — Should you buy Series I bonds amid higher inflation? What experts say
+  https://www.cnbc.com/2026/05/05/i-bond-rate-higher-inflation.html
+- [CNBC - Top News] 2026-05-05 11:16Z — Pirro changes course in Fed investigation, move unlikely to satisfy Powell
+  https://www.cnbc.com/2026/05/03/pirro-fed-powell.html
+
+== Rates Credit ==
+- [MarketWatch - Top Stories] 2026-05-05 13:58Z — What the growing gap between Americans with good and bad credit says about today’s economy
+  https://www.marketwatch.com/story/heres-what-the-growing-gap-between-americans-with-good-and-bad-credit-says-about-the-economy-3fa60ff7?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-05-05 12:33Z — Mortgage lenders now have more credit score options. What homebuyers should know
+  https://www.cnbc.com/2026/05/05/mortgage-lenders-now-have-more-credit-score-options-what-to-know.html
+
+== Equities ==
+- [MarketWatch - Top Stories] 2026-05-05 14:09Z — Your Spirit loyalty points are probably worthless now — but these other airlines may match your rewards
+  https://www.marketwatch.com/story/your-spirit-loyalty-points-are-probably-worthless-now-but-these-other-airlines-may-match-your-rewards-f70dcb91?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-05-05 14:05Z — Coinbase cuts headcount by 14% citing AI acceleration. The shares are gaining
+  https://www.cnbc.com/2026/05/05/coinbase-cuts-headcount-by-14percent-citing-ai-acceleration-the-shares-are-gaining.html
+- [Yahoo Finance - Top Stories] 2026-05-05 13:58Z — Iren Continues AI Infrastructure Shift With $625 Mil Acquisition, Shares Add To 31% Rally
+  https://www.investors.com/news/iren-stock-artificial-intelligence-acquisition-mirantis-625-million-data-center-bitcoin-miner/?src=A00220&yptr=yahoo
+- [Yahoo Finance - Top Stories] 2026-05-05 13:58Z — Tigress Financial Raises Boeing (BA) Price Target to $295, Sees Strong Upside Ahead
+  https://finance.yahoo.com/markets/stocks/articles/tigress-financial-raises-boeing-ba-135825519.html
+- [CNBC - Top News] 2026-05-05 13:50Z — Ford’s secret EV unit emerges from shadows, still bullish on new pickup amid market slowdown
+  https://www.cnbc.com/2026/05/05/ford-ev-universal-electric-vehicle-california.html
+- [Yahoo Finance - Top Stories] 2026-05-05 13:50Z — Strong Earnings Report Lifted Cognex Corporation (CGNX)
+  https://finance.yahoo.com/markets/stocks/articles/strong-earnings-report-lifted-cognex-135056398.html
+- [Yahoo Finance - Top Stories] 2026-05-05 13:42Z — Palantir Earnings Beat Amid Strong U.S. Government Sales. More Maven Upside Expected.
+  https://www.investors.com/news/technology/palantir-stock-pltr-palantir-earnings-news-q12026/?src=A00220&yptr=yahoo
+- [MarketWatch - Top Stories] 2026-05-05 13:41Z — PayPal’s stock falls after earnings. Here’s what’s spooking Wall Street.
+  https://www.marketwatch.com/story/paypals-stock-rallies-after-first-earnings-report-of-the-new-era-heres-what-to-know-4310d291?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-05-05 13:41Z — ‘Like 10 Manhattan Projects going off all at once’: AI is rewiring the entire global economy, says this BlackRock exec
+  https://www.marketwatch.com/story/like-10-manhattan-projects-going-off-all-at-once-how-ai-is-rewiring-the-global-economy-says-this-blackrock-exec-a07da7ef?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-05-05 13:36Z — Utz Brands (UTZ) Slid Due to Below-Expected Guidance
+  https://finance.yahoo.com/markets/stocks/articles/utz-brands-utz-slid-due-133629884.html
+- [Yahoo Finance - Top Stories] 2026-05-05 13:32Z — Ducommun Incorporated (DCO) is Gaining from Its Missile Franchise
+  https://finance.yahoo.com/markets/stocks/articles/ducommun-incorporated-dco-gaining-missile-133215287.html
+- [Yahoo Finance - Top Stories] 2026-05-05 12:45Z — Daily – Vickers Top Buyers & Sellers for 05/05/2026
+  https://finance.yahoo.com/research/reports/ARGUS_46935_TopBottomInsiderActivity_1777985144000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [Yahoo Finance - Top Stories] 2026-05-05 12:45Z — Daily – Vickers Top Insider Picks for 05/05/2026
+  https://finance.yahoo.com/research/reports/ARGUS_46934_InsiderActivity_1777985144000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [MarketWatch - Top Stories] 2026-05-05 12:40Z — Coinbase will lay off 14% of its staff as AI spurs ‘a new way of working’
+  https://www.marketwatch.com/story/coinbase-will-lay-off-14-of-its-staff-as-ai-spurs-a-new-way-of-working-35124858?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-05-05 11:00Z — Milken-adjacent Power100 attendees aim to reclaim the DEI in finance narrative
+  https://www.cnbc.com/2026/05/05/dei-diversity-milken-blueprint-capital-power100.html
+- [Yahoo Finance - Top Stories] 2026-05-05 03:07Z — Alarm bells raised over fintech firm’s bank purchase
+  https://finance.yahoo.com/economy/policy/articles/alarm-bells-raised-over-fintech-030700036.html
+- [CNBC - Top News] 2026-05-05 02:33Z — Pinterest surges 15% after earnings beat as company posts strong guidance
+  https://www.cnbc.com/2026/05/04/pinterest-pins-q1-earnings-report-2026.html
+- [CNBC - Top News] 2026-05-05 02:08Z — Top Democrat aims for New York redistricting after Supreme Court’s Voting Rights ruling
+  https://www.cnbc.com/2026/05/04/scotus-jeffries-redistrict-new-york.html
+- [CNBC - Top News] 2026-05-05 00:38Z — Andy Jassy says Amazon investors will be rewarded by all its AI spending
+  https://www.cnbc.com/2026/05/04/andy-jassy-amazon-investors-rewarded-ai-spending.html
+
+== Commodities ==
+- [CNBC - Top News] 2026-05-05 13:59Z — Central banks risk a recession by raising rates to tackle Iran oil shock, strategist warns
+  https://www.cnbc.com/2026/05/05/oil-price-shock-iran-interest-rates-recession-borrowing-war-central-banks-bank-england-ecb.html
+- [Yahoo Finance - Top Stories] 2026-05-05 13:30Z — Oil-Dri Corporation of America (ODC) Surged on Successful Execution of Transformation
+  https://finance.yahoo.com/markets/stocks/articles/oil-dri-corporation-america-odc-133048372.html
+- [MarketWatch - Top Stories] 2026-05-05 13:22Z — Why the oil market is too complacent about the supply threat it’s facing
+  https://www.marketwatch.com/story/why-the-oil-market-is-too-complacent-about-the-supply-threat-its-facing-1e9aff20?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-05-05 11:55Z — This gold-timing indicator just hit a bottom — and history says a strong rally is next
+  https://www.marketwatch.com/story/this-gold-timing-indicator-just-hit-a-bottom-and-history-says-a-strong-rally-is-next-f39c8768?mod=mw_rss_topstories
+
+== Geopolitics ==
+- [CNBC - Top News] 2026-05-05 14:10Z — Hegseth says 'the ceasefire is not over' after U.S., Iran exchange fire
+  https://www.cnbc.com/2026/05/05/iran-war-hegseth-trump-ceasefire-hormuz-strait.html
+- [Yahoo Finance - Top Stories] 2026-05-05 13:46Z — Stock Market Today: Dow Rises Amid U.S.-Iran Tensions; Palantir Slides After Earnings Report (Live Coverage)
+  https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-tensions-palantir-stock-pltr/?src=A00220&yptr=yahoo
+
+== Other ==
+- [CNBC - Top News] 2026-05-05 14:15Z — Executives are burning out, just like their employees—and they don't know how to handle it, management experts say
+  https://www.cnbc.com/2026/05/05/executives-are-burning-out-dont-know-how-to-cope-management-experts.html
+- [Yahoo Finance - Top Stories] 2026-05-05 14:05Z — DalterFood promotes Gizzi to lead Italian group
+  https://finance.yahoo.com/sectors/healthcare/articles/dalterfood-promotes-gizzi-lead-italian-140529581.html
+- [Yahoo Finance - Top Stories] 2026-05-05 14:02Z — Market toasts stronger AB InBev Q1 volumes
+  https://finance.yahoo.com/markets/stocks/articles/market-toasts-stronger-ab-inbev-134315143.html
+- [Yahoo Finance - Top Stories] 2026-05-05 14:01Z — Moore Kingston Smith appoints Mark Treacher as VAT partner
+  https://finance.yahoo.com/economy/policy/articles/moore-kingston-smith-appoints-mark-140110846.html
+- [Yahoo Finance - Top Stories] 2026-05-05 13:58Z — Planet Fitness (PLNT) Slipped on Cautious Outlook
+  https://finance.yahoo.com/markets/stocks/articles/planet-fitness-plnt-slipped-cautious-135812205.html
+- [MarketWatch - Top Stories] 2026-05-05 13:58Z — Taylor Sheridan wrote almost every word of ‘Yellowstone.’ Can spinoff ‘Dutton Ranch’ succeed without him?
+  https://www.marketwatch.com/story/taylor-sheridan-wrote-almost-every-word-of-yellowstone-can-its-spinoff-dutton-ranch-succeed-without-him-3f579571?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-05-05 13:57Z — Secret Service officer arrested for indecent exposure in Miami after Trump golf event
+  https://www.cnbc.com/2026/05/05/secret-service-arrest-spillman-miami-trump-doral-golf.html
+- [Yahoo Finance - Top Stories] 2026-05-05 13:55Z — What Makes Once Upon a Farm (OFRM) an Investment Choice?
+  https://finance.yahoo.com/markets/stocks/articles/makes-once-upon-farm-ofrm-135539329.html
+- [Yahoo Finance - Top Stories] 2026-05-05 13:55Z — Why ‘looking poor’ is crucial for a comfy retirement in America. How fake social status could be ruining your finances
+  https://finance.yahoo.com/markets/articles/why-looking-poor-crucial-comfy-135500842.html
+- [Yahoo Finance - Top Stories] 2026-05-05 13:53Z — Compressed Valuation Multiple Hurt Gartner (IT)
+  https://finance.yahoo.com/markets/stocks/articles/compressed-valuation-multiple-hurt-gartner-135344883.html
+- [MarketWatch - Top Stories] 2026-05-05 13:52Z — Moving in together? Have these 4 essential money talks first.
+  https://www.marketwatch.com/story/moving-in-together-have-these-4-essential-money-talks-first-2dfe0ad4?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-05-05 13:48Z — Vertiv Holdings Co. (VRT) Surged on Above-Expected Orders and Backlog
+  https://finance.yahoo.com/markets/stocks/articles/vertiv-holdings-co-vrt-surged-134811711.html
+- [Yahoo Finance - Top Stories] 2026-05-05 13:44Z — Significant Growth in the End Market Lifted RBC Bearings Incorporated (RBC) in Q1
+  https://finance.yahoo.com/markets/stocks/articles/significant-growth-end-market-lifted-134441622.html
+- [MarketWatch - Top Stories] 2026-05-05 13:42Z — Micron’s stock soars as new report throws cold water on the bear case: ‘This time is different.’
+  https://www.marketwatch.com/story/microns-stock-soars-as-new-report-throws-cold-water-on-the-bear-case-this-time-is-different-b5a5cc18?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-05-05 13:39Z — Here’s What Weighed on Proficient Auto Logistics’ (PAL) Performance
+  https://finance.yahoo.com/markets/stocks/articles/weighed-proficient-auto-logistics-pal-133959446.html
+- [Yahoo Finance - Top Stories] 2026-05-05 13:35Z — The 'Alarming' Results That Caused GeneDx Stock To Plummet 45%
+  https://www.investors.com/news/technology/genedx-stock-genedx-earnings-q1-2026/?src=A00220&yptr=yahoo
+- [Yahoo Finance - Top Stories] 2026-05-05 13:34Z — What Makes LSI Industries (LYTS) a Resilient Business Model?
+  https://finance.yahoo.com/markets/stocks/articles/makes-lsi-industries-lyts-resilient-133456192.html
+- [CNBC - Top News] 2026-05-05 13:17Z — Ferrari tops Wall Street's first-quarter expectations ahead of EV debut
+  https://www.cnbc.com/2026/05/05/ferrari-nv-race-earnings-q1-2026.html
+- [CNBC - Top News] 2026-05-05 13:04Z — Pfizer tops Wall Street estimates, reaffirms outlook as newer products show growth
+  https://www.cnbc.com/2026/05/05/pfizer-pfe-earnings-q1-2026.html
+- [CNBC - Top News] 2026-05-05 13:01Z — Jim Cramer's top 10 things to watch in the stock market Tuesday
+  https://www.cnbc.com/2026/05/05/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html
+- [CNBC - Top News] 2026-05-05 13:00Z — Most prediction market traders don't make a profit—Gen Z and millennials are turning to them anyway
+  https://www.cnbc.com/2026/05/05/gen-z-millennials-prediction-markets.html
+- [CNBC - Top News] 2026-05-05 13:00Z — Psychotherapist: Couples who practice this one habit ‘tend to relieve a lot of stress’—here’s why
+  https://www.cnbc.com/2026/05/05/psychotherapist-couples-who-practice-this-one-habit-tend-to-relieve-a-lot-of-stressheres-why.html
+- [CNBC - Top News] 2026-05-05 12:29Z — India's Modi tightens political grip with historic state victory — but can it usher in reforms and draw investors?
+  https://www.cnbc.com/2026/05/05/modi-wins-in-west-bengal-for-the-first-time.html
+- [Yahoo Finance - Top Stories] 2026-05-05 11:03Z — Analyst Report: Automatic Data Processing Inc
+  https://finance.yahoo.com/research/reports/ARGUS_2679_AnalystReport_1777978986000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [Yahoo Finance - Top Stories] 2026-05-05 11:03Z — Analyst Report: Caterpillar Inc
+  https://finance.yahoo.com/research/reports/ARGUS_2807_AnalystReport_1777978986000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [Yahoo Finance - Top Stories] 2026-05-05 11:03Z — Analyst Report: L3Harris Technologies Inc
+  https://finance.yahoo.com/research/reports/ARGUS_3726_AnalystReport_1777978986000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [CNBC - Top News] 2026-05-05 11:00Z — Major health insurers show signs of recovery – but a key test looms
+  https://www.cnbc.com/2026/05/05/unitedhealth-cigna-humana-earnings-show-insurers-are-recovering.html
+- [CNBC - Top News] 2026-05-05 02:27Z — BYD's passenger EV sales drop for an eighth month as competition heats up
+  https://www.cnbc.com/2026/05/05/byd-april-sales-exports-china-ev-rivals-leapmotor-zeekr.html
