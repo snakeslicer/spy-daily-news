@@ -1,0 +1,124 @@
+$SPY daily news summary — 2026-05-22 (UTC)
+Generated: 2026-05-22 14:56:29Z
+
+== Macro Fed ==
+- [CNBC - Top News] 2026-05-22 14:55Z — Consumer sentiment hits fresh record low in May as Iran war fuels inflation worries
+  https://www.cnbc.com/2026/05/22/consumer-sentiment-hits-fresh-record-low-in-may-as-iran-war-fuels-inflation-worries.html
+- [CNBC - Top News] 2026-05-22 14:46Z — Watch: Trump will swear in Kevin Warsh as Fed chair as he seeks interest rate cuts
+  https://www.cnbc.com/2026/05/22/trump-kevin-warsh-fed-chair-interest-rates.html
+- [Yahoo Finance - Top Stories] 2026-05-22 14:35Z — Stock Market Today: Dow Holds Gain Despite Inflation Data Surprise; Dell Soars On This News (Live Coverage)
+  https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-survey-amd-stock/?src=A00220&yptr=yahoo
+- [Yahoo Finance - Top Stories] 2026-05-22 14:17Z — Fed's Waller looks to hold rates steady on oil shock, can't rule out hikes down the road
+  https://finance.yahoo.com/economy/policy/article/feds-waller-looks-to-hold-rates-steady-on-oil-shock-cant-rule-out-hikes-down-the-road-141745381.html
+
+== Rates Credit ==
+- [MarketWatch - Top Stories] 2026-05-22 14:40Z — Nvidia can deliver chips — but it can’t buy Big Tech out of its credit and power-grid crisis
+  https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-05-22 14:35Z — The bond market just flipped the script on investors — Wall Street is acting like nothing’s wrong
+  https://www.marketwatch.com/story/the-bond-market-just-flipped-the-script-on-investors-wall-street-is-acting-like-nothings-wrong-f321cc5b?mod=mw_rss_topstories
+
+== Equities ==
+- [Yahoo Finance - Top Stories] 2026-05-22 14:41Z — This Alphabet‑Heavy Fund Has a Front‑Row Seat to the AI Boom — and the Market Can See Why It’s Suddenly a Top Performer
+  https://finance.yahoo.com/sectors/technology/articles/alphabet-heavy-fund-front-row-144154600.html
+- [Yahoo Finance - Top Stories] 2026-05-22 14:36Z — Stock Market Rises, Dow Jones Hits New High; Nvidia, Walmart, SpaceX In Focus: Weekly Review
+  https://www.investors.com/news/stock-market-rises-dow-jones-hits-new-high-nvidia-walmart-spacex/?src=A00220&yptr=yahoo
+- [Yahoo Finance - Top Stories] 2026-05-22 14:36Z — Booz Allen Hamilton Q4 FY2026 earnings beat estimates
+  https://finance.yahoo.com/markets/stocks/articles/booz-allen-hamilton-q4-fy2026-143647530.html
+- [Yahoo Finance - Top Stories] 2026-05-22 14:34Z — Analog Devices Expands AI Power Strategy with $1.5B Empower Acquisition
+  https://finance.yahoo.com/sectors/technology/articles/analog-devices-expands-ai-power-143451784.html
+- [Yahoo Finance - Top Stories] 2026-05-22 14:30Z — Scotiabank and UBS Turn More Positive on Williams (WMB) After Q1
+  https://finance.yahoo.com/markets/stocks/articles/scotiabank-ubs-turn-more-positive-143034950.html
+- [Yahoo Finance - Top Stories] 2026-05-22 14:28Z — Mizuho Raises Texas Instruments (TXN) Price Target on Strong AI Server Demand
+  https://finance.yahoo.com/markets/stocks/articles/mizuho-raises-texas-instruments-txn-142808867.html
+- [MarketWatch - Top Stories] 2026-05-22 14:28Z — ‘Buffett Indicator’ warns of a market top — 8 crucial signs that stocks are running on fumes
+  https://www.marketwatch.com/story/buffett-indicator-warns-of-a-market-top-8-crucial-signs-that-stocks-are-running-on-fumes-12e4b4d8?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-05-22 14:25Z — Melius Research Raises Qualcomm (QCOM) Price Target, Sees More Upside in AI Semiconductor Stocks
+  https://finance.yahoo.com/markets/stocks/articles/melius-research-raises-qualcomm-qcom-142510158.html
+- [Yahoo Finance - Top Stories] 2026-05-22 14:21Z — Dell Stock Cruises To New Highs; Earnings In Focus As AI Servers Reignite Growth
+  https://www.investors.com/research/earnings-preview/dell-stock-new-highs-earnings-ai-servers-tech-growth-markets/?src=A00220&yptr=yahoo
+- [Yahoo Finance - Top Stories] 2026-05-22 14:18Z — Alibaba, U.S.-Listed Chinese Stocks Hit By Cross-Border Crackdown
+  https://www.investors.com/news/alibaba-stock-chinese-adrs-cross-border-trading-futu-tigr/?src=A00220&yptr=yahoo
+- [MarketWatch - Top Stories] 2026-05-22 14:15Z — ‘We have longevity in the family’: My sister is turning 67. Should she wait until 70 to claim Social Security?
+  https://www.marketwatch.com/story/we-have-longevity-in-the-family-my-sister-is-turning-67-should-she-wait-until-70-to-claim-social-security-812087a4?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-05-22 14:03Z — Workday jumps 5% as it bumps up margin forecast on AI strength
+  https://www.cnbc.com/2026/05/21/workday-wday-q1-earnings-report-2027.html
+- [CNBC - Top News] 2026-05-22 13:38Z — Oversight Chairman Comer launches congressional probe into insider trading on Kalshi, Polymarket
+  https://www.cnbc.com/2026/05/22/kalshi-polymarket-comer-insider-trading-probe-congress.html
+- [MarketWatch - Top Stories] 2026-05-22 12:59Z — Nvidia spent $18.6 billion on venture investments in 3 months. Where does the cash trail go?
+  https://www.marketwatch.com/story/nvidia-spent-18-6-billion-on-venture-investments-in-3-months-where-does-the-cash-trail-go-9b8e53e9?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-05-22 12:22Z — Microsoft’s GitHub was positioned to win the AI coding race. Outages got in the way
+  https://www.cnbc.com/2026/05/22/microsoft-was-positioned-to-win-in-ai-coding-outages-got-in-the-way.html
+- [Yahoo Finance - Top Stories] 2026-05-22 11:33Z — Daily Spotlight: Consumers Powering Through
+  https://finance.yahoo.com/research/reports/ARGUS_47110_MarketOutlook_1779449597000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [Yahoo Finance - Top Stories] 2026-05-22 11:07Z — Analyst Report: HF Sinclair Corp
+  https://finance.yahoo.com/research/reports/ARGUS_3051_AnalystReport_1779448053000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [CNBC - Top News] 2026-05-22 10:20Z — Mega-IPOs could signal market top, say analysts as SpaceX and OpenAI prep record floats
+  https://www.cnbc.com/2026/05/22/ipo-flurry-top-market-analysts-ai-spacex-musk-altman.html
+- [CNBC - Top News] 2026-05-22 07:19Z — Guzman y Gomez shares surge as much as 20% after fast-food chain says it will exit U.S. market
+  https://www.cnbc.com/2026/05/22/guzman-y-gomez-us-exit-australia-focus.html
+
+== Commodities ==
+- [MarketWatch - Top Stories] 2026-05-22 13:51Z — BJ’s Wholesale’s earnings show that cheap gas matters for people
+  https://www.marketwatch.com/story/bjs-wholesales-earnings-show-that-cheap-gas-matters-for-people-8469d937?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-05-22 13:48Z — Oil prices head to weekly loss as U.S. and Iran signal progress toward a deal
+  https://www.cnbc.com/2026/05/22/oil-prices-today-trump-iran-strait-of-hormuz-uranium-.html
+- [CNBC - Top News] 2026-05-22 12:09Z — Iran war leaves U.S. gas prices at highest levels in nearly four years ahead of Memorial Day
+  https://www.cnbc.com/2026/05/22/gas-price-iran-war-strait-hormuz-memorial-day.html
+- [CNBC - Top News] 2026-05-22 10:27Z — Oil-rich Alberta to hold a vote on whether to separate from Canada
+  https://www.cnbc.com/2026/05/22/alberta-referendum-canada-oil-sands.html
+
+== FX ==
+- [CNBC - Top News] 2026-05-22 11:39Z — NATO will spend hundreds of billions of dollars on defense, says Rutte, as Trump pledges 5,000 American troops to top spender Poland
+  https://www.cnbc.com/2026/05/22/trump-troops-poland-nato-rutte-defense-spending.html
+
+== Geopolitics ==
+- [CNBC - Top News] 2026-05-22 13:33Z — U.S., Iran signal peace progress — but remain at odds over enriched uranium, Strait of Hormuz tolls
+  https://www.cnbc.com/2026/05/22/iran-war-strait-of-hormuz-tolls-trump.html
+- [CNBC - Top News] 2026-05-22 12:00Z — Stellantis CEO sees opportunity in growing partnerships, bringing China-branded vehicles to North America
+  https://www.cnbc.com/2026/05/22/stellantis-china-vehicles.html
+- [CNBC - Top News] 2026-05-22 11:45Z — U.S. pushes its AI in China and Asia after Trump-Xi meeting
+  https://www.cnbc.com/2026/05/22/us-china-ai-apec-asia.html
+- [CNBC - Top News] 2026-05-22 11:23Z — Trump said he'd 'remember' companies that didn't apply for tariff refunds. Many of them are anyway
+  https://www.cnbc.com/2026/05/22/trump-tariff-refunds-walmart-home-depot-target-apply.html
+
+== Volatility ==
+- [MarketWatch - Top Stories] 2026-05-22 13:30Z — As bullish bets surge, here’s the Goldman Sachs options play to protect portfolios from the likely pullback
+  https://www.marketwatch.com/story/as-bullish-bets-surge-heres-the-option-play-to-protect-portfolios-from-a-likely-pullback-says-goldman-sachs-e0f1017a?mod=mw_rss_topstories
+
+== Other ==
+- [CNBC - Top News] 2026-05-22 14:52Z — Trump defends DOJ fund after Senate Republicans push back
+  https://www.cnbc.com/2026/05/22/trump-doj-fund-republicans.html
+- [Yahoo Finance - Top Stories] 2026-05-22 14:46Z — What to Know About This Fund's $7 Million Bet on Calvin Klein and Tommy Hilfiger Owner PVH
+  https://finance.yahoo.com/markets/stocks/articles/know-funds-7-million-bet-144606563.html
+- [Yahoo Finance - Top Stories] 2026-05-22 14:43Z — Australia’s SPC Global opens share issue to cut debt
+  https://finance.yahoo.com/markets/stocks/articles/australia-spc-global-opens-share-144351575.html
+- [MarketWatch - Top Stories] 2026-05-22 14:39Z — An adviser told me I can save 35% of the taxes on a Roth conversion. Is that true?
+  https://www.marketwatch.com/story/an-adviser-told-me-i-can-save-35-of-the-taxes-on-a-roth-conversion-is-that-true-7f4b4268?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-05-22 14:37Z — House Republicans Open Investigation Into Kalshi, Polymarket Over Insider Trading
+  https://finance.yahoo.com/markets/options/articles/house-republicans-open-investigation-kalshi-143758726.html
+- [Yahoo Finance - Top Stories] 2026-05-22 14:36Z — Evercore Turns More Bullish on Caterpillar (CAT) with $1,103 Price Target
+  https://finance.yahoo.com/markets/stocks/articles/evercore-turns-more-bullish-caterpillar-143636746.html
+- [Yahoo Finance - Top Stories] 2026-05-22 14:32Z — Bloomberg Reports General Motors (GM) is Reducing IT Staff to Focus on New Tech Skills
+  https://finance.yahoo.com/markets/stocks/articles/bloomberg-reports-general-motors-gm-143239060.html
+- [Yahoo Finance - Top Stories] 2026-05-22 14:32Z — Stock Market Leaders Respect The 21-Day Line. You Should Too.
+  https://www.investors.com/how-to-invest/investors-corner/stock-market-leaders-respect-the-21-day-line-you-should-too/?src=A00220&yptr=yahoo
+- [MarketWatch - Top Stories] 2026-05-22 13:56Z — Does the stock market close early today? How Memorial Day weekend affects trading hours.
+  https://www.marketwatch.com/story/is-the-stock-market-closed-on-memorial-day-does-the-post-office-deliver-mail-bba7ef11?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-05-22 13:23Z — Canada and India now have generic Wegovy. Here’s why the U.S. doesn’t.
+  https://www.marketwatch.com/story/canada-and-india-now-have-generic-wegovy-heres-why-the-u-s-doesnt-db18b6b7?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-05-22 13:20Z — The Club's top 10 things to watch in the stock market Friday
+  https://www.cnbc.com/2026/05/22/the-clubs-top-10-things-to-watch-in-the-stock-market-friday.html
+- [CNBC - Top News] 2026-05-22 12:55Z — What the AvalonBay, Equity Residential megamerger means for the apartment industry and rents
+  https://www.cnbc.com/2026/05/22/avalonbay-equity-residential-apartment-merger.html
+- [CNBC - Top News] 2026-05-22 11:51Z — Donald Trump Jr.-backed 'Steroid Olympics' are happening on Sunday. Here's what to expect
+  https://www.cnbc.com/2026/05/22/enhanced-games-performance-enhancing-drugs.html
+- [CNBC - Top News] 2026-05-22 11:36Z — The Cuba situation is starting to resemble a pre-conflict playbook
+  https://www.cnbc.com/2026/05/22/the-cuba-situation-is-starting-to-resemble-a-pre-conflict-playbook.html
+- [Yahoo Finance - Top Stories] 2026-05-22 11:24Z — Technical Assessment: Bullish in the Intermediate-Term
+  https://finance.yahoo.com/research/reports/ARGUS_47109_TechnicalAnalysis_1779449098000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [Yahoo Finance - Top Stories] 2026-05-22 11:07Z — Analyst Report: Intuit Inc
+  https://finance.yahoo.com/research/reports/ARGUS_3714_AnalystReport_1779448053000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [Yahoo Finance - Top Stories] 2026-05-22 11:07Z — Analyst Report: Target Corp
+  https://finance.yahoo.com/research/reports/ARGUS_3440_AnalystReport_1779448053000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [CNBC - Top News] 2026-05-22 08:44Z — Crypto bros, scalpers and Logan Paul: Inside the world of Pokémon where cards are sold for millions
+  https://www.cnbc.com/2026/05/22/pokemon-cards-crypto-market-resale-logan-paul.html
