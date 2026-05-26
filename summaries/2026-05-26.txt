@@ -1,0 +1,136 @@
+$SPY daily news summary — 2026-05-26 (UTC)
+Generated: 2026-05-26 16:01:35Z
+
+== Macro Fed ==
+- [Yahoo Finance - Top Stories] 2026-05-26 14:45Z — Workers over 60 are the least worried AI will take their jobs — but they may have less time than they think
+  https://finance.yahoo.com/sectors/technology/articles/workers-over-60-least-worried-144500303.html
+- [Yahoo Finance - Top Stories] 2026-05-26 14:26Z — World’s third largest shipping line sees Q1 earnings crash
+  https://finance.yahoo.com/markets/stocks/articles/world-third-largest-shipping-line-142642236.html
+- [MarketWatch - Top Stories] 2026-05-26 14:11Z — Why inflation, not growth, is what really matters for the stock market
+  https://www.marketwatch.com/story/why-inflation-not-growth-is-what-really-matters-for-the-stock-market-18d7d9b7?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-05-26 13:53Z — ECB 'will do what is necessary' to tame inflation, Bank of France governor tells CNBC
+  https://www.cnbc.com/2026/05/26/ecb-villeroy-inflation-iran-war.html
+
+== Rates Credit ==
+- [Yahoo Finance - Top Stories] 2026-05-26 15:33Z — Staking Now Drives 60% of Revenue at Ethereum Treasury Firms
+  https://finance.yahoo.com/markets/crypto/articles/staking-now-drives-60-revenue-153354813.html
+- [Yahoo Finance - Top Stories] 2026-05-26 15:27Z — AGX sues R&R, Huntington over frozen credit line, unpaid carrier invoices
+  https://finance.yahoo.com/markets/stocks/articles/agx-sues-r-r-huntington-152729600.html
+- [MarketWatch - Top Stories] 2026-05-26 15:00Z — ‘We have always bonded over hating billionaires’: I got a well-paid job. Now my friend says I’m ultrawealthy. How do I respond?
+  https://www.marketwatch.com/story/we-have-always-bonded-over-hating-billionaires-i-got-a-well-paid-job-now-my-friend-says-im-ultrawealthy-how-do-i-respond-087aa4dd?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-05-26 12:30Z — UK gilt yields retreat from multi-decade highs as political drama mellows, rate hike expectations ease
+  https://www.cnbc.com/2026/05/26/uk-gilt-yields-ease-political-drama-mellows-rate-hikes-ease.html
+- [CNBC - Top News] 2026-05-26 12:16Z — Wells Fargo to offer mortgage incentives on 3D printed homes with Icon
+  https://www.cnbc.com/2026/05/26/wells-fargo-mortgage-incentives-3d-printed-homes-icon.html
+
+== Equities ==
+- [MarketWatch - Top Stories] 2026-05-26 15:47Z — Space stocks are rocketing as SpaceX keeps making pre-IPO headlines with first Starship launch
+  https://www.marketwatch.com/story/space-stocks-are-rocketing-as-spacex-keeps-making-pre-ipo-headlines-with-first-starship-launch-17c76a46?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-05-26 15:36Z — Dropbox CEO Drew Houston to step down after 19 years at helm of cloud storage pioneer
+  https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html
+- [Yahoo Finance - Top Stories] 2026-05-26 15:35Z — Could Investing $10,000 in Costco Make You a Millionaire?
+  https://finance.yahoo.com/markets/stocks/articles/could-investing-10-000-costco-153500833.html
+- [Yahoo Finance - Top Stories] 2026-05-26 15:30Z — ING Built a Trading System in Hours With AI. Wall Street's Watching
+  https://finance.yahoo.com/markets/crypto/articles/ing-built-trading-system-hours-153057815.html
+- [Yahoo Finance - Top Stories] 2026-05-26 15:29Z — American Airlines to install Starlink Wi-Fi on 500+ planes
+  https://finance.yahoo.com/sectors/technology/articles/american-airlines-starlink-wi-fi-152959545.html
+- [MarketWatch - Top Stories] 2026-05-26 15:15Z — My friend, 62, earns $20,000 a year. Should she take Social Security now — and claim survivor’s benefit at 67?
+  https://www.marketwatch.com/story/my-friend-62-earns-20-000-a-year-should-she-take-social-security-now-or-claim-survivors-benefit-at-67-c661bdca?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-05-26 15:14Z — BP Ousts Chair Albert Manifold Over Governance Concerns
+  https://finance.yahoo.com/sectors/energy/articles/bp-ousts-chair-albert-manifold-151401536.html
+- [Yahoo Finance - Top Stories] 2026-05-26 15:11Z — Nvidia Wavers After Weekly Loss Follows Earnings Beat; Is Nvidia A Buy Now?
+  https://www.investors.com/research/nvidia-nvda-stock-earnings-may-2026/?src=A00220&yptr=yahoo
+- [CNBC - Top News] 2026-05-26 15:03Z — American Airlines picks SpaceX's Starlink for in-flight Wi-Fi on more than 500 planes
+  https://www.cnbc.com/2026/05/26/american-airlines-spacex-starlink.html
+- [Yahoo Finance - Top Stories] 2026-05-26 14:55Z — Elbit Systems Leads Defense Gains, Clears Estimates Amid War Demand
+  https://www.investors.com/news/elbit-systems-earnings-eslt-stock-defense-demand-iran-israel-middle-east-wars/?src=A00220&yptr=yahoo
+- [Yahoo Finance - Top Stories] 2026-05-26 14:40Z — Micron joins $1 trillion club as AI race powers memory chip boom
+  https://finance.yahoo.com/markets/stocks/articles/micron-joins-1-trillion-club-144022584.html
+- [Yahoo Finance - Top Stories] 2026-05-26 14:35Z — BP Just Fired Its Chairman After Seven Months
+  https://finance.yahoo.com/markets/stocks/articles/bp-just-fired-chairman-seven-143505709.html
+- [Yahoo Finance - Top Stories] 2026-05-26 14:28Z — Spotify’s Next Big Bet: AI Remixes for Paying Fans
+  https://finance.yahoo.com/sectors/technology/articles/spotify-hits-play-button-legal-142831900.html
+- [CNBC - Top News] 2026-05-26 14:25Z — BP shares fall after board removes chairman Albert Manifold over 'serious’ conduct concerns
+  https://www.cnbc.com/2026/05/26/bp-chair-albert-manifold-removed-conduct-governance-issues.html
+- [Yahoo Finance - Top Stories] 2026-05-26 14:15Z — Dropbox CEO Andrew Houston to step down, insider Ashraf Alkarmi named successor
+  https://finance.yahoo.com/markets/stocks/articles/dropbox-ceo-andrew-houston-step-141543295.html
+- [MarketWatch - Top Stories] 2026-05-26 13:48Z — BP ousts another top executive over claims brought to the board
+  https://www.marketwatch.com/story/bp-ousts-another-top-executive-over-claims-brought-to-the-board-2a0f52ec?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-05-26 13:44Z — Micron briefly tops $1 trillion in market cap as UBS sees company becoming an AI giant
+  https://finance.yahoo.com/markets/article/micron-briefly-tops-1-trillion-in-market-cap-as-ubs-sees-company-becoming-an-ai-giant-134443670.html
+- [Yahoo Finance - Top Stories] 2026-05-26 12:37Z — Daily – Vickers Top Buyers & Sellers for 05/26/2026
+  https://finance.yahoo.com/research/reports/ARGUS_47131_TopBottomInsiderActivity_1779799024000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [Yahoo Finance - Top Stories] 2026-05-26 10:00Z — Tech stocks today: Micron joins $1 trillion club, Qualcomm stock jumps on report of ByteDance chip deal
+  https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-micron-joins-1-trillion-club-qualcomm-stock-jumps-on-report-of-bytedance-chip-deal-100000715.html
+
+== Commodities ==
+- [CNBC - Top News] 2026-05-26 15:51Z — Brent oil jumps back above $100 after Iran vows to retaliate for U.S. strikes
+  https://www.cnbc.com/2026/05/26/oil-prices-today-brent-wti-iran-trump-hormuz.html
+- [CNBC - Top News] 2026-05-26 15:15Z — 'I never heard of the Strait of Hormuz before this': How one medical supply CEO is navigating the oil price shock
+  https://www.cnbc.com/2026/05/24/gentell-ceo-iran-war-oil-prices.html
+- [Yahoo Finance - Top Stories] 2026-05-26 15:02Z — Tech lifts US stocks, WTI crude falls on Iran peace deal hopes
+  https://finance.yahoo.com/markets/commodities/articles/oil-rises-stocks-mixed-us-011531729.html
+- [CNBC - Top News] 2026-05-26 13:29Z — Oil market at 'tank bottoms' in Asia, and Europe isn't far behind, warns market veteran Jeff Currie
+  https://www.cnbc.com/2026/05/25/oil-prices-iran-war-carlyle-currie.html
+- [CNBC - Top News] 2026-05-26 13:02Z — Investors ‘afraid’ to take position on oil, data chiefs say as tankers face potential Hormuz fees
+  https://www.cnbc.com/2026/05/26/iran-oil-price-strait-hormuz-trump-peace-toll-charges-energy.html
+
+== FX ==
+- [Yahoo Finance - Top Stories] 2026-05-26 15:13Z — Dollar firms as fresh US strikes dim Iran ceasefire hopes
+  https://finance.yahoo.com/markets/currencies/articles/dollar-wobbles-markets-cling-hopes-011952735.html
+
+== Geopolitics ==
+- [CNBC - Top News] 2026-05-26 15:57Z — Trump to host Cabinet meeting at Camp David on Wednesday as Iran talks continue
+  https://www.cnbc.com/2026/05/26/trump-camp-david-iran-cabinet.html
+- [Yahoo Finance - Top Stories] 2026-05-26 14:33Z — Stock Market Today: Nasdaq Leads On U.S.-Iran Deal Anticipation; AutoZone Crashes (Live Coverage)
+  https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-deal-oil-prices-tumble/?src=A00220&yptr=yahoo
+- [CNBC - Top News] 2026-05-26 13:07Z — U.S. conducts 'self-defense strikes' in Iran as Trump pushes for peace deal
+  https://www.cnbc.com/2026/05/26/us-conducts-self-defense-strikes-in-iran-as-trump-seeks-peace-deal.html
+- [CNBC - Top News] 2026-05-26 11:23Z — Russia tells Marco Rubio U.S. citizens should leave Kyiv ahead of 'systematic' strikes on Ukrainian capital
+  https://www.cnbc.com/2026/05/26/russia-ukraine-war-rubio-trump-lavrov-kyiv.html
+- [Yahoo Finance - Top Stories] 2026-05-26 11:21Z — Stock market today: Dow wavers, S&P 500 and Nasdaq rise on Iran peace prospects
+  https://finance.yahoo.com/markets/live/stock-market-today-dow-wavers-sp-500-and-nasdaq-rise-on-iran-peace-prospects-112100135.html
+
+== Volatility ==
+- [Yahoo Finance - Top Stories] 2026-05-26 15:47Z — Forget SpaceX: The Next Red-Hot IPO Is Here and It’s a Quantum Computing Stock
+  https://finance.yahoo.com/markets/stocks/articles/forget-spacex-next-red-hot-154754081.html
+- [Yahoo Finance - Top Stories] 2026-05-26 15:45Z — Honeywell's Quantinuum's IPO puts the quantum stock rally to the test
+  https://finance.yahoo.com/markets/article/honeywells-quantinuums-ipo-puts-the-quantum-stock-rally-to-the-test-154531114.html
+- [Yahoo Finance - Top Stories] 2026-05-26 15:30Z — SPHD’s High Dividend Low Volatility Promise Has Returned Just 6 Percent Annualized While the S&P 500 Doubled It
+  https://finance.yahoo.com/markets/stocks/articles/sphd-high-dividend-low-volatility-153020173.html
+
+== Other ==
+- [CNBC - Top News] 2026-05-26 16:00Z — Judges block Alabama redistricting maps that would dilute Black vote in midterms
+  https://www.cnbc.com/2026/05/26/alabama-redistricting-congress-black-votes-midterm-elections.html
+- [CNBC - Top News] 2026-05-26 15:38Z — Eli Lilly stock edges higher as company plans nearly $4 billion in vaccine deals
+  https://www.cnbc.com/2026/05/26/eli-lilly-stock-vaccine-deals-curevo-limmatech.html
+- [Yahoo Finance - Top Stories] 2026-05-26 15:30Z — Prologis anchors $200M maritime innovation fund
+  https://finance.yahoo.com/sectors/technology/articles/prologis-anchors-200m-maritime-innovation-153048203.html
+- [Yahoo Finance - Top Stories] 2026-05-26 15:30Z — I’m 83 and my entire financial history died with my husband. What am I supposed to do now?
+  https://finance.yahoo.com/markets/articles/m-83-entire-financial-history-153000578.html
+- [CNBC - Top News] 2026-05-26 15:25Z — Nvidia stock faces a key level that could make or break where it goes next
+  https://www.cnbc.com/2026/05/26/nvidia-stock-faces-a-key-level-that-could-make-or-break-where-it-goes-next.html
+- [MarketWatch - Top Stories] 2026-05-26 15:25Z — An adviser told me I can save 35% of the taxes on a Roth conversion. Is that true?
+  https://www.marketwatch.com/story/an-adviser-told-me-i-can-save-35-of-the-taxes-on-a-roth-conversion-is-that-true-7f4b4268?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-05-26 15:25Z — I almost fell for a scammer. This one rule saved me — and could help you, too.
+  https://www.marketwatch.com/story/i-almost-fell-for-scammer-this-one-rule-saved-me-and-could-help-you-too-8c3bcf78?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-05-26 15:24Z — Micron hits $1 trillion market cap for the first time as stock surges 18%
+  https://www.cnbc.com/2026/05/26/micron-stock-trillion-market-cap.html
+- [Yahoo Finance - Top Stories] 2026-05-26 15:20Z — Smaller Bitcoin Treasuries Add 603 BTC as Strategy Pauses Buying
+  https://finance.yahoo.com/markets/crypto/articles/smaller-bitcoin-treasuries-add-603-152000862.html
+- [MarketWatch - Top Stories] 2026-05-26 15:19Z — Divorce: The surprising cost of caring for aging parents
+  https://www.marketwatch.com/story/the-surprising-cost-of-caring-for-aging-parents-divorce-2ff83fce?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-05-26 15:16Z — ‘The market has spoken’: Ferrari shares fall after carmaker unveils first fully electric vehicle
+  https://www.cnbc.com/2026/05/26/ferrari-stock-shares-luce-electric-vehicle-ev-launch.html
+- [Yahoo Finance - Top Stories] 2026-05-26 15:11Z — Micron Stock Gets Big Price-Target Hike, Hits Record High
+  https://www.investors.com/news/technology/micron-stock-mu-big-price-target-hike-record-high/?src=A00220&yptr=yahoo
+- [CNBC - Top News] 2026-05-26 14:35Z — South Korea's Kospi hits new high amid mixed trading in Asia
+  https://www.cnbc.com/2026/05/26/asia-markets-today-sensex-kospi-nikkei-hang-seng-iran-us-oil-.html
+- [Yahoo Finance - Top Stories] 2026-05-26 14:16Z — Micron closes in on $1 trillion market value as UBS triples share price target
+  https://finance.yahoo.com/markets/stocks/articles/micron-closes-1-trillion-market-141602094.html
+- [MarketWatch - Top Stories] 2026-05-26 14:15Z — ‘I feel like I’m living a lie’: My husband and I pretend we’re strapped for cash in front of friends. Is that bad?
+  https://www.marketwatch.com/story/i-feel-like-im-living-a-lie-my-husband-and-i-pretend-were-strapped-for-cash-in-front-of-friends-is-that-bad-1cf6104a?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-05-26 14:10Z — This new quantum stock could debut with a valuation of nearly $13 billion
+  https://www.marketwatch.com/story/this-new-quantum-stock-could-debut-with-a-valuation-of-nearly-13-billion-9593b4e4?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-05-26 11:01Z — ‘A very dangerous bluff’: Mark Carney warns of Brexit-like regret if Alberta leaves Canada
+  https://www.cnbc.com/2026/05/26/alberta-leave-canada-vote-mark-carney-brexit-stay-free.html
