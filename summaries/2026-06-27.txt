@@ -1,0 +1,92 @@
+$SPY daily news summary — 2026-06-27 (UTC)
+Generated: 2026-06-27 14:00:11Z
+
+== Macro Fed ==
+- [Yahoo Finance - Top Stories] 2026-06-27 13:35Z — What a Kevin Warsh-Led Fed Could Mean for Mortgage REITs AGNC and Annaly Capital
+  https://finance.yahoo.com/real-estate/articles/kevin-warsh-led-fed-could-133500554.html
+- [CNBC - Top News] 2026-06-27 13:17Z — SpaceX stock has cooled. Hiring for jobs in the space economy hasn't
+  https://www.cnbc.com/2026/06/27/spacex-jobs-stem-careers-labor-economy.html
+- [Yahoo Finance - Top Stories] 2026-06-27 13:00Z — ‘A paycheck is not the key to independence’: Nearly 1 in 3 young adults still live at home — and most of them have jobs
+  https://finance.yahoo.com/real-estate/articles/paycheck-not-key-independence-nearly-130000894.html
+- [CNBC - Top News] 2026-06-27 12:18Z — Trading in these two ETFs suggests inflation fears are overblown
+  https://www.cnbc.com/2026/06/27/trading-in-these-two-etfs-suggests-inflation-fears-are-overblown.html
+- [Yahoo Finance - Top Stories] 2026-06-27 12:00Z — Dow Jones Futures: Market At Tipping Point, Here's What To Do. Eli Lilly Soars, Tesla On Tap.
+  https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-tipping-point-eli-lilly-tesla/?src=A00220&yptr=yahoo
+- [MarketWatch - Top Stories] 2026-06-27 12:00Z — ‘I’ll happily wait’: Does delaying Social Security make sense for high earners like me?
+  https://www.marketwatch.com/story/ill-happily-wait-does-delaying-social-security-make-sense-for-high-earners-like-me-17dca69b?mod=mw_rss_topstories
+
+== Rates Credit ==
+- [MarketWatch - Top Stories] 2026-06-27 13:19Z — ‘She is retired’: Do I dip into my 401(k) to pay my mother’s $30,000 credit-card debt?
+  https://www.marketwatch.com/story/she-is-retired-do-i-dip-into-my-401-k-to-pay-my-mothers-30-000-credit-card-debt-dc97569b?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-06-27 12:00Z — I just graduated and my parents want me to co-sign a $50K loan. What could this mean for my credit and borrowing power?
+  https://finance.yahoo.com/markets/currencies/articles/just-graduated-parents-want-co-120000793.html
+
+== Equities ==
+- [Yahoo Finance - Top Stories] 2026-06-27 13:38Z — Stock Market Week Ahead: Rotating, For Now, Away From The AI Boom
+  https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-rotating-for-now-away-from-the-ai-boom/?src=A00220&yptr=yahoo
+- [Yahoo Finance - Top Stories] 2026-06-27 13:23Z — Forget the AI Chipmakers. For 0.47% This Fund Owns the Companies Building the Data Centers
+  https://finance.yahoo.com/markets/stocks/articles/forget-ai-chipmakers-0-47-132345030.html
+- [CNBC - Top News] 2026-06-27 13:21Z — Alphabet burnishes one of its best weapons in the battle for AI supremacy
+  https://www.cnbc.com/2026/06/27/alphabet-burnishes-one-of-its-best-weapons-in-the-battle-for-ai-supremacy.html
+- [MarketWatch - Top Stories] 2026-06-27 13:01Z — I’m a CPA and tell my clients to claim Social Security early. Am I giving them bad advice?
+  https://www.marketwatch.com/story/take-the-money-while-you-can-im-a-cpa-and-tell-my-clients-to-take-their-social-security-early-am-i-wrong-a50e55e8?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-06-27 13:00Z — AI turbocharged the stock market. Now it’s firing up the economy.
+  https://www.marketwatch.com/story/ai-turbocharged-the-stock-market-now-its-firing-up-the-economy-193d2eb1?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-06-27 12:32Z — SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand
+  https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100-on-hold-on-hold-on-hold.html
+- [CNBC - Top News] 2026-06-27 12:22Z — Straight women can’t get enough of gay romance stories like ‘Heated Rivalry’ and ‘Red, White & Royal Blue’
+  https://www.cnbc.com/2026/06/27/heated-rivalry-red-white-royal-blue-rachel-reid-gay-romance-yaoi-mlm.html
+- [Yahoo Finance - Top Stories] 2026-06-27 12:00Z — Eli Lilly Leads 5 Stocks Near Buy Points As The Market Rally Rotates
+  https://www.investors.com/news/eli-lilly-stock-buy-points-jbht-ftnt-ezpw-irm/?src=A00220&yptr=yahoo
+- [CNBC - Top News] 2026-06-27 12:00Z — How Kohl's lost its way — and is trying to become relevant again
+  https://www.cnbc.com/2026/06/27/how-kohls-lost-its-way-and-is-trying-to-become-relevant-again.html
+- [MarketWatch - Top Stories] 2026-06-27 11:30Z — It’s a tale of two S&P 500s as rotation out of top tech stocks shifts into overdrive
+  https://www.marketwatch.com/story/its-a-tale-of-two-s-p-500s-as-rotation-out-of-top-tech-stocks-shifts-into-overdrive-5254207f?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-06-27 09:46Z — From concerts to train rides, bots are winning the ticket wars — but they're only part of the problem
+  https://www.cnbc.com/2026/06/27/ticket-bots-concert-scalpers-ticketmaster-china-korea.html
+- [CNBC - Top News] 2026-06-27 00:34Z — Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies
+  https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html
+
+== Commodities ==
+- [CNBC - Top News] 2026-06-27 12:00Z — How GE Vernova builds the massive gas turbines powering the AI data center boom
+  https://www.cnbc.com/2026/06/27/ge-vernova-gas-turbines-ai-data-centers.html
+
+== FX ==
+- [CNBC - Top News] 2026-06-27 05:00Z — Red-alert heatwaves are becoming Europe's new normal. Investors are paying attention
+  https://www.cnbc.com/2026/06/27/europe-heatwave-uk-temperature-el-nino-invest.html
+
+== Geopolitics ==
+- [CNBC - Top News] 2026-06-27 12:43Z — U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz
+  https://www.cnbc.com/2026/06/26/us-strikes-iran-strait-of-hormuz-ceasefire.html
+
+== Other ==
+- [CNBC - Top News] 2026-06-27 13:36Z — Red Lobster's Ultimate Endless Shrimp promotion is described as a 'car crash' for the company, lawsuit says
+  https://www.cnbc.com/2026/06/26/red-lobsters-endless-shrimp-promotion-was-a-car-crash-lawsuit-says.html
+- [Yahoo Finance - Top Stories] 2026-06-27 13:35Z — Vanguard vs. State Street: Which Consumer Staples ETF Stands Out?
+  https://finance.yahoo.com/markets/stocks/articles/vanguard-vs-state-street-consumer-133501613.html
+- [CNBC - Top News] 2026-06-27 13:30Z — Before there were Trump Accounts, SEED OK gave some newborns $1,000 — how researchers say the grants affected kids
+  https://www.cnbc.com/2026/06/27/trump-accounts-seed-ok.html
+- [Yahoo Finance - Top Stories] 2026-06-27 13:29Z — Cathie Wood-backed crypto stock drops over 90%
+  https://finance.yahoo.com/markets/crypto/articles/cathie-wood-backed-crypto-stock-132913331.html
+- [CNBC - Top News] 2026-06-27 13:21Z — The memory shortage shaking Apple and Microsoft is 'existential crisis' for smaller players
+  https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html
+- [Yahoo Finance - Top Stories] 2026-06-27 13:09Z — Robert, Past 70.5, Asks Clark Howard What to Do With RMDs From Three Retirement Accounts
+  https://finance.yahoo.com/markets/articles/robert-past-70-5-asks-130958675.html
+- [Yahoo Finance - Top Stories] 2026-06-27 13:05Z — iShares vs. Global X: Which Defense ETF Looks Best in 2026?
+  https://finance.yahoo.com/markets/stocks/articles/ishares-vs-global-x-defense-130501134.html
+- [Yahoo Finance - Top Stories] 2026-06-27 13:00Z — Court appoints receiver for Golub, BlueFive’s Mag Mile office
+  https://finance.yahoo.com/real-estate/articles/court-appoints-receiver-golub-bluefive-130000780.html
+- [MarketWatch - Top Stories] 2026-06-27 13:00Z — Going back to the office may actually be better for you than working from home
+  https://www.marketwatch.com/story/going-back-to-the-office-may-actually-be-better-for-you-than-working-from-home-18126286?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-06-27 12:30Z — Big Tech is obsessed with smart glasses. Now it has to convince people to wear them.
+  https://www.marketwatch.com/story/big-tech-is-obsessed-with-smart-glasses-now-it-has-to-convince-people-to-wear-them-0d5ebd43?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-06-27 12:30Z — The top 10 wealthiest US suburbs have average incomes as high as $612K, but experts warn they're magnets for crime
+  https://finance.yahoo.com/real-estate/articles/top-10-wealthiest-us-suburbs-123000510.html
+- [CNBC - Top News] 2026-06-27 12:22Z — Jeremy Grantham says, 'This is the most expensive market in American history'
+  https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html
+- [CNBC - Top News] 2026-06-27 12:11Z — Berkshire CEO Greg Abel sworn in as U.S. citizen at baseball game
+  https://www.cnbc.com/2026/06/27/berkshire-ceo-greg-abel-sworn-in-as-us-citizen-at-baseball-game.html
+- [MarketWatch - Top Stories] 2026-06-27 12:00Z — SpaceX’s new $11 billion ‘saving grace’ comes with a big catch
+  https://www.marketwatch.com/story/spacexs-new-11-billion-saving-grace-comes-with-a-big-catch-9270c6ae?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-06-27 11:45Z — HOA fees skyrocket from $350 to $1,250 for shocked North Carolina homeowners. Protect yourself if your block’s next
+  https://finance.yahoo.com/real-estate/articles/hoa-fees-skyrocket-350-1-114500505.html
