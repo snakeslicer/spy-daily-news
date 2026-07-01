@@ -1,0 +1,130 @@
+$SPY daily news summary — 2026-07-01 (UTC)
+Generated: 2026-07-01 14:53:00Z
+
+== Macro Fed ==
+- [MarketWatch - Top Stories] 2026-07-01 14:30Z — ‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?
+  https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-07-01 14:12Z — FedEx sells supply chain unit to CMA CGM for $1.4B
+  https://finance.yahoo.com/small-business/articles/fedex-sells-supply-chain-unit-141235429.html
+- [Yahoo Finance - Top Stories] 2026-07-01 14:08Z — Stock Market Today: Dow Falls Amid Jobs Data, Warsh; SpaceX, Bloom Energy, Meta Move Early (Live Coverage)
+  https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-report-fed-warsh-spacex-bloom-energy-nike/?src=A00220&yptr=yahoo
+- [MarketWatch - Top Stories] 2026-07-01 14:04Z — Warsh tells Wall Street to stop looking to the Fed for clues on interest rates — and start watching the economic data
+  https://www.marketwatch.com/story/warsh-warns-investors-not-to-expect-hints-at-future-fed-rate-moves-bc945c02?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-07-01 13:47Z — Fed's Warsh: Will decide on rate hike when policymakers 'shut the door' at next meeting
+  https://finance.yahoo.com/economy/policy/articles/warsh-hits-international-stage-peers-101241127.html
+- [CNBC - Top News] 2026-07-01 13:41Z — Private payrolls rose by 98,000 in June, less than expected, ADP reports
+  https://www.cnbc.com/2026/07/01/private-payrolls-rose-by-98000-in-june-less-than-expected-adp-reports.html
+- [CNBC - Top News] 2026-07-01 05:33Z — Japan spent $74 billion propping up the yen. Investors say the real battle is with the Fed
+  https://www.cnbc.com/2026/07/01/japan-yen-40-year-low-intervention-fed-boj-carry-trade.html
+
+== Rates Credit ==
+- [CNBC - Top News] 2026-07-01 12:22Z — Demand for riskier mortgages drops, as their advantages shrink
+  https://www.cnbc.com/2026/07/01/demand-for-riskier-mortgages-drops-as-their-advantages-shrink.html
+
+== Equities ==
+- [CNBC - Top News] 2026-07-01 14:52Z — U.S. auto industry faces increased uncertainty without extension of USMCA trade deal
+  https://www.cnbc.com/2026/07/01/automakers-usmca-trade.html
+- [CNBC - Top News] 2026-07-01 14:29Z — Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'
+  https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html
+- [Yahoo Finance - Top Stories] 2026-07-01 14:28Z — Abu Dhabi's MGX closes $49 billion AI fund above target
+  https://finance.yahoo.com/technology/ai/articles/abu-dhabis-mgx-closes-49-142845970.html
+- [CNBC - Top News] 2026-07-01 14:13Z — Michael Burry says he's shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally of 2026
+  https://www.cnbc.com/2026/06/30/burry-shorts-caterpillar-after-it-nearly-doubled-in-ai-rally-of-2026.html
+- [Yahoo Finance - Top Stories] 2026-07-01 13:58Z — Is SAP SE (SAP) Positioned to Benefit from AI?
+  https://finance.yahoo.com/markets/stocks/articles/sap-se-sap-positioned-benefit-135848576.html
+- [Yahoo Finance - Top Stories] 2026-07-01 13:57Z — Here’s How ServiceNow (NOW) Positioned for Success in the AI Era
+  https://finance.yahoo.com/markets/stocks/articles/servicenow-now-positioned-success-ai-135711566.html
+- [MarketWatch - Top Stories] 2026-07-01 13:49Z — Almost all of the Nasdaq-100’s gains in the first half of 2026 came from just 10 stocks
+  https://www.marketwatch.com/story/almost-100-of-the-nasdaq-100s-gains-in-the-first-half-of-2026-came-from-just-10-stocks-44056a47?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-07-01 13:43Z — ChatGPT is ready to connect to your bank accounts. Should you let it in?
+  https://www.marketwatch.com/story/chatgpt-is-ready-to-connect-to-your-bank-accounts-should-you-let-it-in-2323eab1?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-07-01 13:38Z — Scared of an AI stock bubble? Then don't look at this chart.
+  https://finance.yahoo.com/markets/article/scared-of-an-ai-stock-bubble-then-dont-look-at-this-chart-133834616.html
+- [CNBC - Top News] 2026-07-01 13:11Z — Tech leads first half stock gains — but the biggest winners weren't in the U.S.
+  https://www.cnbc.com/2026/07/01/tech-stocks-mag-7-emerging-markets-nvidia-chip-ai.html
+- [CNBC - Top News] 2026-07-01 13:00Z — South Korean government discriminated against Coupang, U.S. companies, House report finds
+  https://www.cnbc.com/2026/07/01/coupang-south-korea-coupang-house-judiciary.html
+- [CNBC - Top News] 2026-07-01 12:53Z — Employers who laid off workers citing AI are already starting to regret it
+  https://www.cnbc.com/2026/07/01/employers-who-laid-off-workers-for-ai-are-reversing-their-decisions.html
+- [CNBC - Top News] 2026-07-01 11:52Z — Buy the UK DIP? Defense stocks lifted by $20 billion spending boost as gilts come under fire
+  https://www.cnbc.com/2026/07/01/defense-stocks-uk-investment-plan-gilts-bae-systems.html
+- [Yahoo Finance - Top Stories] 2026-07-01 11:21Z — Daily Spotlight: Investors Beware, 3Q is Here
+  https://finance.yahoo.com/research/reports/ARGUS_47487_MarketOutlook_1782904919000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [Yahoo Finance - Top Stories] 2026-07-01 10:31Z — Daily – Vickers Top Buyers & Sellers for 07/01/2026
+  https://finance.yahoo.com/research/reports/ARGUS_47483_TopBottomInsiderActivity_1782901893000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [Yahoo Finance - Top Stories] 2026-07-01 10:31Z — Daily – Vickers Top Insider Picks for 07/01/2026
+  https://finance.yahoo.com/research/reports/ARGUS_47482_InsiderActivity_1782901893000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+== Commodities ==
+- [Yahoo Finance - Top Stories] 2026-07-01 14:27Z — First Mining Gold secures EA approval for Springpole project
+  https://finance.yahoo.com/markets/commodities/articles/first-mining-gold-secures-ea-142721002.html
+- [CNBC - Top News] 2026-07-01 14:04Z — Oil prices fall after Trump says U.S.-Iran talks in Qatar are going well
+  https://www.cnbc.com/2026/07/01/oil-prices-brent-wti-crude-trump-iran.html
+- [Yahoo Finance - Top Stories] 2026-07-01 13:42Z — Bloom Energy Rises On Big AI Infrastructure Expansion
+  https://www.investors.com/news/bloom-energy-stock-soaring-ai-infrastructure-brookfield/?src=A00220&yptr=yahoo
+- [Yahoo Finance - Top Stories] 2026-07-01 13:33Z — Oil falls as progress in US-Iran talks cools supply concerns
+  https://finance.yahoo.com/energy/articles/oil-ticks-higher-irans-refusal-004441406.html
+- [CNBC - Top News] 2026-07-01 12:53Z — Gold losses ease after worst quarter in 13 years as interest rate fears hit bullion
+  https://www.cnbc.com/2026/07/01/gold-prices-fall-worst-quarter-interest-rates-bullion-precious-metals.html
+- [CNBC - Top News] 2026-07-01 08:03Z — Iran says it is selling oil at 20% premium as end of U.S. blockade sees 40 million barrels exported
+  https://www.cnbc.com/2026/07/01/iran-us-mou-negotiation-war-oil-exports-strait-of-hormuz-.html
+
+== FX ==
+- [MarketWatch - Top Stories] 2026-07-01 14:37Z — Only a fraction of eligible kids are signed up for ‘Trump accounts.’ All told, they could be missing out on billions of dollars in wealth.
+  https://www.marketwatch.com/story/only-a-fraction-of-eligible-kids-are-signed-up-for-trump-accounts-all-told-they-could-be-missing-out-on-billions-of-dollars-in-wealth-743a9366?mod=mw_rss_topstories
+
+== Volatility ==
+- [CNBC - Top News] 2026-07-01 14:52Z — Meta pops 8% as company makes cloud push to sell excess AI compute power capacity
+  https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html
+- [Yahoo Finance - Top Stories] 2026-07-01 14:31Z — Meta Platforms Jumps 9% on Potential Plans to Sell AI Compute, Challenging Amazon, Microsoft, Google
+  https://finance.yahoo.com/technology/ai/articles/meta-platforms-jumps-9-potential-143138489.html
+- [Yahoo Finance - Top Stories] 2026-07-01 13:44Z — Meta stock pops on news it will reportedly start a cloud computing business
+  https://finance.yahoo.com/markets/stocks/article/meta-stock-pops-on-news-it-will-reportedly-start-a-cloud-computing-business-134412120.html
+- [CNBC - Top News] 2026-07-01 12:47Z — We're exiting a troubled stock after a muted quarter, while considering better options
+  https://www.cnbc.com/2026/07/01/were-exiting-a-troubled-stock-after-a-muted-quarter-while-considering-better-options.html
+
+== Other ==
+- [MarketWatch - Top Stories] 2026-07-01 14:40Z — Your aging parent has a new romance. Here’s how to protect your inheritance — without looking greedy.
+  https://www.marketwatch.com/story/your-aging-parent-has-a-new-romance-heres-how-to-protect-your-inheritance-without-looking-greedy-cbc219ab?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-07-01 14:34Z — Rincon Resources to sell 90% of Lyza Mining to Maverick
+  https://finance.yahoo.com/markets/commodities/articles/rincon-resources-sell-90-lyza-143413879.html
+- [MarketWatch - Top Stories] 2026-07-01 14:27Z — What’s a ‘soft’ off day? How to take one without getting in trouble at work.
+  https://www.marketwatch.com/story/whats-a-soft-off-day-how-to-take-one-without-getting-in-trouble-at-work-10706631?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-07-01 14:25Z — Fox Stock Upgraded As Roku Acquisition Reconsidered
+  https://www.investors.com/news/technology/fox-stock-upgraded-as-roku-acquisition-reconsidered/?src=A00220&yptr=yahoo
+- [Yahoo Finance - Top Stories] 2026-07-01 14:08Z — Breakout Watch: Industry Giant Rolls Out A Different Kind Of Red Carpet
+  https://www.investors.com/research/breakout-stocks-technical-analysis/interface-carpet-tile-lvt-nature-design/?src=A00220&yptr=yahoo
+- [CNBC - Top News] 2026-07-01 14:01Z — PlayStation will end physical disc production for new games in 2028
+  https://www.cnbc.com/2026/07/01/sony-playstation-physical-disc-production-2028.html
+- [MarketWatch - Top Stories] 2026-07-01 14:00Z — ‘She wants him gone’: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?
+  https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-07-01 13:59Z — Wedbush Initiates SpaceX Coverage With 'Outperform' Rating, $190 Price Target
+  https://www.investors.com/news/spacex-tesla-elon-musk-wedbush-dan-ives-ai-data-centers/?src=A00220&yptr=yahoo
+- [Yahoo Finance - Top Stories] 2026-07-01 13:51Z — Here’s Why TimesSquare Mid Cap Growth Strategy Added Insmed (INSM)
+  https://finance.yahoo.com/markets/stocks/articles/why-timessquare-mid-cap-growth-135159552.html
+- [MarketWatch - Top Stories] 2026-07-01 13:47Z — ServiceNow and Salesforce shares now look like buys, as ‘Armageddon’ fears are too extreme, analyst says
+  https://www.marketwatch.com/story/servicenow-and-salesforce-shares-now-look-like-buys-as-armageddon-fears-are-too-extreme-analyst-says-3c3d8887?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-07-01 13:45Z — Curtiss-Wright Corp. (CW) Rose 24% in Q1
+  https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-corp-cw-rose-134531056.html
+- [MarketWatch - Top Stories] 2026-07-01 13:43Z — Opening a ‘Trump account’ for your children? Here is the risk you need to recognize first.
+  https://www.marketwatch.com/story/opening-a-trump-account-for-your-children-here-is-the-risk-you-need-to-recognize-first-fe206bc0?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-07-01 13:42Z — Aerospace Demand Recovery Fuels Carpenter Technology Corp.’s (CRS) Strength
+  https://finance.yahoo.com/markets/stocks/articles/aerospace-demand-recovery-fuels-carpenter-134239358.html
+- [Yahoo Finance - Top Stories] 2026-07-01 13:40Z — Demand Strength for Data Center Infrastructure Boosted EMCOR Group (EME)
+  https://finance.yahoo.com/markets/stocks/articles/demand-strength-data-center-infrastructure-134057639.html
+- [CNBC - Top News] 2026-07-01 12:15Z — Trump Accounts for kids launch July 4: What parents need to know
+  https://www.cnbc.com/2026/07/01/trump-accounts-launch-july-4.html
+- [CNBC - Top News] 2026-07-01 12:00Z — More than one-third of employees still work from home, new research shows
+  https://www.cnbc.com/2026/07/01/employees-work-from-home-despite-stricter-policies.html
+- [Yahoo Finance - Top Stories] 2026-07-01 11:20Z — Technical Assessment: Bullish in the Intermediate-Term
+  https://finance.yahoo.com/research/reports/ARGUS_47486_TechnicalAnalysis_1782904853000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [Yahoo Finance - Top Stories] 2026-07-01 11:17Z — Market Digest: SWX
+  https://finance.yahoo.com/research/reports/ARGUS_47484_MarketSummary_1782904643000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+- [CNBC - Top News] 2026-07-01 11:15Z — Bulls are betting big on this global ETF that's deep in a bear market
+  https://www.cnbc.com/2026/07/01/bulls-are-betting-big-on-this-global-etf-thats-deep-in-a-bear-market.html
+- [CNBC - Top News] 2026-07-01 10:26Z — Trump's annual financial disclosure shows more than $580M in crypto-related income
+  https://www.cnbc.com/2026/06/30/trump-financial-disclosure-released.html
+- [CNBC - Top News] 2026-07-01 10:19Z — Anthropic says Trump admin has lifted export controls on Claude Fable 5 and Mythos 5
+  https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html
+- [CNBC - Top News] 2026-07-01 10:13Z — Lamborghini reveals new Urus performance hybrid SUV after ditching EVs
+  https://www.cnbc.com/2026/07/01/lamborghini-urus-suv.html
