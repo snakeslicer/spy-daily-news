@@ -1,0 +1,35 @@
+$SPY daily news summary — 2026-07-12 (UTC)
+Generated: 2026-07-12 13:45:43Z
+
+== Equities ==
+- [CNBC - Top News] 2026-07-12 12:27Z — Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds
+  https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html
+- [CNBC - Top News] 2026-07-12 12:05Z — Top Wall Street analysts are confident about these 3 stocks for the long haul
+  https://www.cnbc.com/2026/07/12/top-analysts-are-confident-about-these-3-stocks-for-the-long-haul.html
+- [CNBC - Top News] 2026-07-12 05:00Z — ‘Almost unlimited’: Execs says AI demand remains strong even as enterprises move to ‘valuemaxxing’
+  https://www.cnbc.com/2026/07/12/ai-demand-chips-data-centers-stock-volatility.html
+- [Yahoo Finance - Top Stories] 2026-07-12 02:33Z — Pizza chain closing up to 50 locations after years of declines
+  https://finance.yahoo.com/small-business/articles/pizza-chain-closing-50-locations-023300151.html
+
+== Commodities ==
+- [MarketWatch - Top Stories] 2026-07-12 13:00Z — The stock-market rally now hinges more on AI than oil
+  https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-07-12 00:37Z — Leading energy company files for bankruptcy
+  https://finance.yahoo.com/energy/articles/leading-energy-company-files-bankruptcy-003700014.html
+
+== Geopolitics ==
+- [CNBC - Top News] 2026-07-12 13:11Z — U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says
+  https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html
+
+== Other ==
+- [CNBC - Top News] 2026-07-12 13:43Z — Sen. Lindsey Graham, influential lawmaker and Trump ally, dies at 71 after a brief illness
+  https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html
+- [MarketWatch - Top Stories] 2026-07-12 13:30Z — The No. 1 decision for aging retirees: Stay at home or move into a senior community?
+  https://www.marketwatch.com/story/the-no-1-decision-for-aging-retirees-stay-at-home-or-move-into-a-senior-community-4ea23d02?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-07-12 12:47Z — Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market
+  https://www.cnbc.com/2026/07/11/burnout-frustration-and-heartbreak-amazon-layoffs-take-their-toll.html
+- [CNBC - Top News] 2026-07-12 12:10Z — I've studied more than 200 kids: Parents whose kids still confide in them as adults do 7 things early on
+  https://www.cnbc.com/2026/07/12/ive-studied-more-than-200-kids-parents-whose-children-actually-enjoy-talking-to-them-do-7-things.html
+
+== Feed fetch failures ==
+- IMF - News: 403 Client Error: Forbidden for url: https://www.imf.org/en/News/RSS
