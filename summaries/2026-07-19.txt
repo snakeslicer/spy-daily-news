@@ -1,0 +1,35 @@
+$SPY daily news summary — 2026-07-19 (UTC)
+Generated: 2026-07-19 13:41:50Z
+
+== Rates Credit ==
+- [MarketWatch - Top Stories] 2026-07-19 12:30Z — I racked up $35,000 in credit-card debt. Should I file for bankruptcy?
+  https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories
+
+== Equities ==
+- [CNBC - Top News] 2026-07-19 13:30Z — AI may make you 'boring' at work, Columbia Business School professor says: How it can hurt your career
+  https://www.cnbc.com/2026/07/19/how-using-ai-at-work-can-hurt-your-career.html
+- [CNBC - Top News] 2026-07-19 12:46Z — Top Wall Street analysts suggest these 3 dividend stocks for steady income
+  https://www.cnbc.com/2026/07/19/top-analysts-suggest-these-3-dividend-stocks-for-steady-income.html
+- [CNBC - Top News] 2026-07-19 12:00Z — American Airlines CEO lays out his vision to close a more than $3 billion profit gap
+  https://www.cnbc.com/2026/07/19/american-airlines-ceo.html
+
+== Geopolitics ==
+- [CNBC - Top News] 2026-07-19 11:36Z — U.S. says it targeted Iranian forces after attacks that killed two American service members
+  https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html
+
+== Volatility ==
+- [MarketWatch - Top Stories] 2026-07-19 09:20Z — My husband and I are retired. Our financial adviser, who is in his 30s, called us ‘you guyses.’ Is that unprofessional?
+  https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories
+
+== Other ==
+- [CNBC - Top News] 2026-07-19 12:42Z — Kalshi adds 3 million new users as prediction market capitalizes on the World Cup
+  https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html
+- [CNBC - Top News] 2026-07-19 12:00Z — Housing costs is the top political issue for young voters, CNBC survey finds
+  https://www.cnbc.com/2026/07/19/housing-costs-election-young-voters-cnbc-survey-finds.html
+- [MarketWatch - Top Stories] 2026-07-19 12:00Z — Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?
+  https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-07-19 11:30Z — ‘I am at a loss’: My brother is dying. We are not close. What responsibility do I have to help him?
+  https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories
+
+== Feed fetch failures ==
+- IMF - News: 403 Client Error: Forbidden for url: https://www.imf.org/en/News/RSS
