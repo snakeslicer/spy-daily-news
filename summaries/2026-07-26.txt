@@ -1,0 +1,37 @@
+$SPY daily news summary — 2026-07-26 (UTC)
+Generated: 2026-07-26 13:45:50Z
+
+== Macro Fed ==
+- [MarketWatch - Top Stories] 2026-07-26 12:30Z — The Treasury market is sending Fed Chair Kevin Warsh a clear warning about rates
+  https://www.marketwatch.com/story/the-treasury-market-is-sending-fed-chair-kevin-warsh-a-clear-warning-about-rates-d0026da9?mod=mw_rss_topstories
+
+== Equities ==
+- [MarketWatch - Top Stories] 2026-07-26 13:00Z — There’s a technical ‘triple threat’ for stocks, but also places investors can hide
+  https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-07-26 12:30Z — I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?
+  https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-07-26 12:00Z — ‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend?
+  https://www.marketwatch.com/story/im-still-confused-i-sold-80-000-in-shares-on-june-30-so-why-didnt-i-receive-my-dividend-d066016c?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-07-26 11:33Z — Top Wall Street analysts back these 3 stocks for their long-term growth potential
+  https://www.cnbc.com/2026/07/26/top-analysts-back-these-3-stocks-for-their-long-term-growth-potential.html
+- [MarketWatch - Top Stories] 2026-07-26 11:00Z — ‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?
+  https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories
+
+== Geopolitics ==
+- [CNBC - Top News] 2026-07-26 13:34Z — Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'
+  https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html
+- [CNBC - Top News] 2026-07-26 12:00Z — 100 days until midterm election: DCCC Chair DelBene says Democrats have the momentum
+  https://www.cnbc.com/2026/07/26/election-midterms-dccc-chair-delbene-democrats.html
+
+== Volatility ==
+- [MarketWatch - Top Stories] 2026-07-26 13:00Z — ‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home?
+  https://www.marketwatch.com/story/we-are-not-romantically-involved-im-marrying-my-platonic-best-friend-of-20-years-should-i-leave-him-my-home-3faa0a77?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-07-26 12:17Z — New UK Prime Minister Burnham says he would be prepared to call out Trump
+  https://www.cnbc.com/2026/07/26/new-uk-prime-minister-burnham-says-he-would-be-prepared-to-call-out-trump.html
+
+== Other ==
+- [CNBC - Top News] 2026-07-26 05:00Z — Cocoa prices are easing. So why is chocolate still so expensive?
+  https://www.cnbc.com/2026/07/26/cocoa-prices-chocolate-lindt-barry-callebaut-nestle.html
+
+== Feed fetch failures ==
+- IMF - News: 403 Client Error: Forbidden for url: https://www.imf.org/en/News/RSS
