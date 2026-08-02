@@ -1,0 +1,43 @@
+$SPY daily news summary — 2026-08-02 (UTC)
+Generated: 2026-08-02 13:44:42Z
+
+== Macro Fed ==
+- [MarketWatch - Top Stories] 2026-08-02 13:00Z — How Apple’s cheap MacBook Neo sparked a war in budget laptops
+  https://www.marketwatch.com/story/how-apples-cheap-macbook-neo-sparked-a-war-in-budget-laptops-8fbaf839?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-08-02 12:00Z — Investors are rotating into financial stocks. The Fed’s next move could determine how far the rally runs.
+  https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-08-02 05:18Z — An exam leak in India exposed a Gen Z jobs crisis that goes much deeper
+  https://www.cnbc.com/2026/08/02/india-exam-leak-protests-jobs-crisis-gen-z-unemployment-modi.html
+- [CNBC - Top News] 2026-08-02 01:35Z — Trump lashes out at Pirro after she moves to drop Reflecting Pool vandalism case, saying 'flawed installation' to blame
+  https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html
+
+== Equities ==
+- [MarketWatch - Top Stories] 2026-08-02 13:00Z — ‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?
+  https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-08-02 12:01Z — Top Wall Street analysts are bullish on these 3 dividend stocks for passive income
+  https://www.cnbc.com/2026/08/02/top-analysts-are-bullish-on-these-dividend-stocks-for-passive-income-.html
+- [MarketWatch - Top Stories] 2026-08-02 12:00Z — Financial stocks are crushing it. These charts show why the ‘breakout’ rally may have just begun.
+  https://www.marketwatch.com/story/financial-stocks-are-crushing-it-these-charts-show-why-the-breakout-rally-may-have-just-begun-6db3cc12?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-08-02 11:30Z — Why every tech giant wants to look like a cybersecurity company in the AI era
+  https://www.marketwatch.com/story/why-every-tech-giant-wants-to-look-like-a-cybersecurity-company-in-the-ai-era-00534525?mod=mw_rss_topstories
+
+== Commodities ==
+- [CNBC - Top News] 2026-08-02 13:00Z — Investors scored on Iran war's oil market boom. Staying long the trade will get trickier
+  https://www.cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html
+
+== Geopolitics ==
+- [CNBC - Top News] 2026-08-02 12:30Z — Op-ed: The U.S. lead over China in AI is all but gone
+  https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html
+- [CNBC - Top News] 2026-08-02 10:18Z — Trump cancels planned attack on Iran, saying he reached an agreement over the 'perimeters of a deal'
+  https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html
+
+== Other ==
+- [MarketWatch - Top Stories] 2026-08-02 13:30Z — If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.
+  https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-08-02 12:00Z — Why flights are so expensive and will likely stay that way
+  https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html
+- [MarketWatch - Top Stories] 2026-08-02 11:00Z — Tim Cook’s lasting legacy: Keeping Apple’s eye on the ball
+  https://www.marketwatch.com/story/tim-cooks-lasting-legacy-keeping-apples-eye-on-the-ball-76521035?mod=mw_rss_topstories
+
+== Feed fetch failures ==
+- IMF - News: 403 Client Error: Forbidden for url: https://www.imf.org/en/News/RSS
