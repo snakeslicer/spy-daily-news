@@ -1,0 +1,35 @@
+$SPY daily news summary — 2026-08-08 (UTC)
+Generated: 2026-08-08 13:04:22Z
+
+== Equities ==
+- [CNBC - Top News] 2026-08-08 12:00Z — Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'
+  https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html
+
+== Geopolitics ==
+- [CNBC - Top News] 2026-08-08 05:21Z — Inside the startup drone maker powering Ukraine's deep-strike campaign
+  https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html
+
+== Volatility ==
+- [CNBC - Top News] 2026-08-08 11:49Z — A record-breaking week for options powers S&P 500 surge; volatility gauge is near 2026 low
+  https://www.cnbc.com/2026/08/08/record-breaking-week-for-options-powers-sp-500-surge.html
+
+== Other ==
+- [CNBC - Top News] 2026-08-08 12:04Z — How cleaning up space debris could grow to become a big business
+  https://www.cnbc.com/2026/08/08/space-debris-junk-spacex-rocket-moon-crash.html
+- [CNBC - Top News] 2026-08-08 12:00Z — Cyclospora fears lead consumers to lose their appetite for salads
+  https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html
+- [CNBC - Top News] 2026-08-08 12:00Z — Elevator giant Otis wants to be a defensive play in an volatile market. It has to prove itself first
+  https://www.cnbc.com/2026/08/08/elevator-giant-otis-stock-wall-street.html
+- [MarketWatch - Top Stories] 2026-08-08 12:00Z — How can we minimize taxes in retirement with a $2.3 million nest egg — while buying homes in Florida and New England?
+  https://www.marketwatch.com/story/how-can-we-minimize-taxes-in-retirement-with-a-2-3-million-nest-egg-while-buying-homes-in-florida-and-new-england-9e2449aa?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-08-08 12:00Z — ‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?
+  https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-08-08 11:30Z — Here’s why Wendy’s is losing the burger wars
+  https://www.marketwatch.com/story/heres-why-wendys-is-losing-the-burger-wars-bf79deba?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-08-08 11:00Z — My brother asked me to sign as his executor, but wouldn’t let me read the document. Should I have refused?
+  https://www.marketwatch.com/story/my-brother-asked-me-to-sign-as-his-executor-but-wouldnt-let-me-read-the-document-should-i-have-refused-1b53d9bc?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-08-08 11:00Z — SpaceX’s Nvidia deal could be bad news for neoclouds like CoreWeave and Nebius, analysts say
+  https://www.marketwatch.com/story/spacexs-nvidia-deal-could-be-bad-news-for-neoclouds-like-coreweave-and-nebius-analysts-say-168c9ed1?mod=mw_rss_topstories
+
+== Feed fetch failures ==
+- IMF - News: 403 Client Error: Forbidden for url: https://www.imf.org/en/News/RSS
