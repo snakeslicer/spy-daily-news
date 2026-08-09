@@ -1,0 +1,41 @@
+$SPY daily news summary — 2026-08-09 (UTC)
+Generated: 2026-08-09 13:06:44Z
+
+== Rates Credit ==
+- [MarketWatch - Top Stories] 2026-08-09 12:30Z — ‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?
+  https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-08-09 11:45Z — ‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?
+  https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-08-09 10:00Z — Mortgage and refinance interest rates today, Sunday, August 9, 2026: Rates mostly lower than last week
+  https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-august-9-2026-rates-mostly-lower-than-last-week-100000935.html
+
+== Equities ==
+- [MarketWatch - Top Stories] 2026-08-09 13:00Z — The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.
+  https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-08-09 12:30Z — I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?
+  https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-08-09 12:01Z — Top Wall Street analysts like these 3 stocks for their solid growth potential
+  https://www.cnbc.com/2026/08/09/top-analysts-like-these-3-stocks-for-their-solid-growth-potential.html
+- [CNBC - Top News] 2026-08-09 11:23Z — Saudi Aramco extinguishes fire at refinery as Houthis claim responsibility
+  https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html
+
+== Geopolitics ==
+- [CNBC - Top News] 2026-08-09 11:31Z — How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta
+  https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html
+
+== Volatility ==
+- [CNBC - Top News] 2026-08-09 12:00Z — Abel puts a big chunk of Berkshire's cash to work
+  https://www.cnbc.com/2026/08/09/abel-puts-a-big-chunk-of-berkshires-cash-to-work.html
+
+== Other ==
+- [MarketWatch - Top Stories] 2026-08-09 13:00Z — ‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?
+  https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-08-09 12:23Z — Myspace eyes comeback as an 'antidote' to social media fatigue — but it may be a long shot
+  https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html
+- [Yahoo Finance - Top Stories] 2026-08-09 10:00Z — Best CD rates today, Sunday, August 9, 2026: Lock in up to 4.35% APY
+  https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-august-9-2026-lock-in-up-to-435-apy-100000411.html
+- [CNBC - Top News] 2026-08-09 00:36Z — Verizon mobile service restored after outage for thousands of customers in the U.S.
+  https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html
+
+== Feed fetch failures ==
+- IMF - News: 403 Client Error: Forbidden for url: https://www.imf.org/en/News/RSS
