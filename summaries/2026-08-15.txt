@@ -1,0 +1,45 @@
+$SPY daily news summary — 2026-08-15 (UTC)
+Generated: 2026-08-15 12:51:57Z
+
+== Rates Credit ==
+- [CNBC - Top News] 2026-08-15 12:30Z — Between earn-nothing cash, broken long-term bonds, these are the safety trades of 2026 market
+  https://www.cnbc.com/2026/08/15/cash-money-market-funds-bonds.html
+
+== Equities ==
+- [MarketWatch - Top Stories] 2026-08-15 12:00Z — A decade of internal AI battles is finally catching up to Google
+  https://www.marketwatch.com/story/a-decade-of-internal-ai-battles-is-finally-catching-up-to-google-7b3358a1?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-08-15 11:30Z — This old-school way of investing money is better than ever — even in the age of AI and mega-IPOs
+  https://www.marketwatch.com/story/this-old-school-way-of-investing-money-is-better-than-ever-even-in-the-age-of-ai-and-mega-ipos-3e1142f7?mod=mw_rss_topstories
+
+== Geopolitics ==
+- [CNBC - Top News] 2026-08-15 11:00Z — Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck
+  https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html
+- [CNBC - Top News] 2026-08-15 06:11Z — Beijing is said to move to clarify tax rules stoking confusion among China's ultra-wealthy
+  https://www.cnbc.com/2026/08/15/china-rich-tycoons-tax-overseas-investment-trust-insurance-capital-flows.html
+- [CNBC - Top News] 2026-08-15 05:00Z — Russia's economy has defied the skeptics. Cracks are getting harder to hide
+  https://www.cnbc.com/2026/08/15/ukraine-war-russia-economy-putin-oil.html
+
+== Volatility ==
+- [Yahoo Finance - Top Stories] 2026-08-15 12:35Z — Mark Cuban calls these investments 'death' for ultra-rich Americans. Are you making the same mistakes?
+  https://finance.yahoo.com/markets/stocks/articles/mark-cuban-calls-investments-death-123500844.html
+- [Yahoo Finance - Top Stories] 2026-08-15 12:30Z — Real estate lawyers reveal why calling police won't help when a previous owner refuses to leave your new home
+  https://finance.yahoo.com/real-estate/articles/real-estate-lawyers-reveal-why-123000978.html
+- [CNBC - Top News] 2026-08-15 05:00Z — Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test
+  https://www.cnbc.com/2026/08/15/heatwave-champagne-harvest-climate.html
+
+== Other ==
+- [MarketWatch - Top Stories] 2026-08-15 12:30Z — Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend
+  https://www.marketwatch.com/story/ballet-flats-are-so-popular-that-even-brands-like-birkenstock-and-crocs-are-cashing-in-on-the-trend-3d44997c?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-08-15 12:00Z — How long will software-defined cars last? The auto industry doesn't know yet
+  https://www.cnbc.com/2026/08/15/software-defined-vehicles-rivian-tesla.html
+- [CNBC - Top News] 2026-08-15 12:00Z — I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare
+  https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html
+- [MarketWatch - Top Stories] 2026-08-15 12:00Z — I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?
+  https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-08-15 12:00Z — ‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?
+  https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-08-15 11:00Z — The ‘Hindenburg Omen’ keeps flashing. Should investors worry about a stock-market crash?
+  https://www.marketwatch.com/story/the-hindenburg-omen-keeps-flashing-should-investors-worry-about-a-stock-market-crash-a4baf770?mod=mw_rss_topstories
+
+== Feed fetch failures ==
+- IMF - News: 403 Client Error: Forbidden for url: https://www.imf.org/en/News/RSS
