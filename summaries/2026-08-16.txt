@@ -1,0 +1,25 @@
+$SPY daily news summary — 2026-08-16 (UTC)
+Generated: 2026-08-16 12:53:19Z
+
+== Rates Credit ==
+- [Yahoo Finance - Top Stories] 2026-08-16 10:00Z — Mortgage and refinance interest rates today, Sunday, August 16, 2026: Rates mostly lower than last week
+  https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-august-16-2026-rates-mostly-lower-than-last-week-100000512.html
+
+== Equities ==
+- [CNBC - Top News] 2026-08-16 11:58Z — Top Wall Street analysts like these 3 dividend stocks for steady income
+  https://www.cnbc.com/2026/08/16/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html
+
+== Other ==
+- [MarketWatch - Top Stories] 2026-08-16 12:00Z — The Mediterranean diet is the best out there. Here’s why Americans struggle with it.
+  https://www.marketwatch.com/story/the-mediterranean-diet-is-the-best-out-there-heres-why-americans-struggle-with-it-081f3fe7?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-08-16 11:00Z — Walmart and Target are about to reveal the health of the U.S. consumer
+  https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories
+- [Yahoo Finance - Top Stories] 2026-08-16 10:00Z — Best CD rates today, Sunday, August 16, 2026: Lock in up to 4.30% APY
+  https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-august-16-2026-lock-in-up-to-430-apy-100000956.html
+- [CNBC - Top News] 2026-08-16 09:45Z — Secret outperformer: Dispelling the 'myths' about an unloved stock market
+  https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html
+- [Yahoo Finance - Top Stories] 2026-08-16 01:03Z — Morgan Stanley sends a blunt Tesla message to investors
+  https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sends-blunt-tesla-010300423.html
+
+== Feed fetch failures ==
+- IMF - News: 403 Client Error: Forbidden for url: https://www.imf.org/en/News/RSS
