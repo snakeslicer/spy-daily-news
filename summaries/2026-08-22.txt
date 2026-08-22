@@ -1,0 +1,49 @@
+$SPY daily news summary — 2026-08-22 (UTC)
+Generated: 2026-08-22 12:53:01Z
+
+== Macro Fed ==
+- [MarketWatch - Top Stories] 2026-08-22 12:30Z — Move over, credit cards: Social-media stars are tapping magic wands to buy things
+  https://www.marketwatch.com/story/move-over-credit-cards-social-media-stars-are-tapping-magic-wands-to-buy-things-62e475d4?mod=mw_rss_topstories
+
+== Equities ==
+- [Yahoo Finance - Top Stories] 2026-08-22 12:25Z — Is Tempus AI Stock a Buy After Its 75% Rally? Here's What to Know as the Firm's Legal Chief Files a Trade
+  https://finance.yahoo.com/markets/stocks/articles/tempus-ai-stock-buy-75-122525373.html
+- [Yahoo Finance - Top Stories] 2026-08-22 12:25Z — Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Outperform Nvidia Over the Next 3 Years
+  https://finance.yahoo.com/technology/ai/articles/prediction-artificial-intelligence-ai-semiconductor-122500157.html
+- [MarketWatch - Top Stories] 2026-08-22 10:16Z — ‘She’s desperate’: My friend was laid off and lost her health insurance. How can she find affordable coverage?
+  https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories
+
+== Geopolitics ==
+- [MarketWatch - Top Stories] 2026-08-22 12:00Z — Here’s some surprisingly good news for the stock market this midterm election year
+  https://www.marketwatch.com/story/heres-some-surprisingly-good-news-for-the-stock-market-this-midterm-election-year-d492d3a4?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-08-22 10:34Z — Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'
+  https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html
+
+== Volatility ==
+- [CNBC - Top News] 2026-08-22 12:06Z — Warren Buffett Watch: It's Buffett, not Abel, who appears to be calling the shots on stocks
+  https://www.cnbc.com/2026/08/22/warren-buffett-not-greg-abel-appears-to-still-be-calling-the-shots-on-stocks.html
+
+== Other ==
+- [CNBC - Top News] 2026-08-22 12:12Z — Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers
+  https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html
+- [CNBC - Top News] 2026-08-22 12:00Z — For young Americans, the workplace is the new phoneless frontier. 'It allows us to hyper focus on the task at hand,' says employer
+  https://www.cnbc.com/2026/08/22/is-workplace-new-phoneless-frontier-for-teens.html
+- [CNBC - Top News] 2026-08-22 12:00Z — Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers
+  https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html
+- [MarketWatch - Top Stories] 2026-08-22 12:00Z — ‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?
+  https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-08-22 12:00Z — ‘We are committed Christians’: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?
+  https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-08-22 11:40Z — Supreme Court allows Trump to continue White House ballroom construction for now
+  https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html
+- [MarketWatch - Top Stories] 2026-08-22 11:00Z — A massive ‘corporate welfare’ program is underway — and consumers want a bigger cut of it
+  https://www.marketwatch.com/story/a-massive-corporate-welfare-program-is-underway-and-consumers-want-a-bigger-cut-of-it-0ff06d67?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-08-22 11:00Z — ‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?
+  https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-08-22 10:00Z — This has been one of the most affordable U.S. cities to buy a home for the past 134 years
+  https://www.marketwatch.com/story/this-has-been-one-of-the-most-affordable-u-s-cities-to-buy-a-home-for-the-past-134-years-0c52895a?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-08-22 05:00Z — Six investors reveal the biggest market risks — and one strategy they agree on
+  https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html
+
+== Feed fetch failures ==
+- IMF - News: 403 Client Error: Forbidden for url: https://www.imf.org/en/News/RSS
