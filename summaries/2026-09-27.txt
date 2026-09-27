@@ -1,0 +1,51 @@
+$SPY daily news summary — 2026-09-27 (UTC)
+Generated: 2026-09-27 16:51:45Z
+
+== Macro Fed ==
+- [MarketWatch - Top Stories] 2026-09-27 11:00Z — Why the upcoming jobs report could send 10-year and 30-year Treasury yields surging
+  https://www.marketwatch.com/story/why-the-upcoming-jobs-report-could-send-10-year-and-30-year-treasury-yields-surging-67eab4ba?mod=mw_rss_topstories
+
+== Rates Credit ==
+- [MarketWatch - Top Stories] 2026-09-27 16:45Z — Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?
+  https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-09-27 16:00Z — ‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?
+  https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-09-27 15:35Z — Debt-hungry AI companies face increased risk as bond yields spike
+  https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html
+
+== Equities ==
+- [CNBC - Top News] 2026-09-27 15:22Z — At NFL games this season, drone defense tech aims to bring down disruptions
+  https://www.cnbc.com/2026/09/27/nfl-drone-defense-tech-game-disruptions.html
+- [MarketWatch - Top Stories] 2026-09-27 15:15Z — My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?
+  https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-09-27 14:00Z — Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth
+  https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-09-27 13:39Z — Airlines waive change fees ahead of nor'easter as flight disruptions trickle in
+  https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html
+- [CNBC - Top News] 2026-09-27 11:33Z — Top Wall Street analysts like these 3 dividend stocks for steady income
+  https://www.cnbc.com/2026/09/27/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html
+
+== Geopolitics ==
+- [CNBC - Top News] 2026-09-27 16:15Z — Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table
+  https://www.cnbc.com/2026/09/27/iran-foreign-minister-keeps-indirect-talks-with-us-open-state-media.html
+
+== Other ==
+- [CNBC - Top News] 2026-09-27 16:16Z — Here are the 4 big things we're watching in the stock market in the week ahead
+  https://www.cnbc.com/2026/09/27/here-are-the-4-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html
+- [MarketWatch - Top Stories] 2026-09-27 16:00Z — My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?
+  https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-09-27 15:00Z — I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?
+  https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-09-27 14:45Z — ‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?
+  https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-09-27 14:33Z — Meta's Muse agent is attacking one of the economy's most profitable weak spots
+  https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html
+- [MarketWatch - Top Stories] 2026-09-27 13:00Z — Look closer, and Wall Street’s rally is showing cracks
+  https://www.marketwatch.com/story/look-closer-and-wall-streets-rally-is-showing-cracks-94952048?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-09-27 11:32Z — Wall Street money takes back over from small investors as driving force of the stock market
+  https://www.cnbc.com/2026/09/27/institutional-investors-stocks-treaurys-retail-traders.html
+- [CNBC - Top News] 2026-09-27 05:00Z — 'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway
+  https://www.cnbc.com/2026/09/27/funflation-consumer-spending-pricier-hobbies.html
+
+== Feed fetch failures ==
+- IMF - News: 403 Client Error: Forbidden for url: https://www.imf.org/en/News/RSS
