@@ -1,0 +1,89 @@
+$SPY daily news summary — 2026-09-28 (UTC)
+Generated: 2026-09-28 19:34:12Z
+
+== Macro Fed ==
+- [CNBC - Top News] 2026-09-28 18:41Z — Feds can't withhold counterterrorism funds from states to force election admin changes, judge rules
+  https://www.cnbc.com/2026/09/28/elections-dhs-counterterrorism.html
+
+== Rates Credit ==
+- [CNBC - Top News] 2026-09-28 19:29Z — Treasury yields rise as march to multiyear highs continues
+  https://www.cnbc.com/2026/09/28/treasury-yields-bonds-selloff.html
+- [CNBC - Top News] 2026-09-28 14:14Z — Treasury Secretary Scott Bessent hires Wall Street economist David Zervos
+  https://www.cnbc.com/2026/09/28/david-zervos-treasury-department-scott-bessent.html
+
+== Equities ==
+- [CNBC - Top News] 2026-09-28 19:01Z — Elon Musk, SpaceXAI subpoenaed by NYC in AI safety investigation
+  https://www.cnbc.com/2026/09/28/elon-musk-spacexai-subpoenaed-by-nyc-in-ai-safety-investigation.html
+- [CNBC - Top News] 2026-09-28 18:54Z — Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater
+  https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html
+- [CNBC - Top News] 2026-09-28 18:54Z — What the market needs to branch out beyond AI stocks. Plus, a win for CrowdStrike
+  https://www.cnbc.com/2026/09/28/what-the-market-needs-to-branch-out-beyond-ai-stocks-plus-a-win-for-crowdstrike-.html
+- [CNBC - Top News] 2026-09-28 18:47Z — OpenAI sparked Hugging Face bids with early investment offer ahead of Nvidia's $13 billion deal
+  https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html
+- [CNBC - Top News] 2026-09-28 17:53Z — Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market
+  https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html
+- [CNBC - Top News] 2026-09-28 17:48Z — A key test looms for the AI trade this week. Here's how Mike Khouw is trading it
+  https://www.cnbc.com/2026/09/28/a-key-test-looms-for-the-ai-trade-this-week-heres-how-mike-khouw-is-trading-it.html
+- [CNBC - Top News] 2026-09-28 17:17Z — Senate tees up college sports bill aimed at regulating NIL deals
+  https://www.cnbc.com/2026/09/28/college-sports-bill-senate-nil.html
+- [MarketWatch - Top Stories] 2026-09-28 17:10Z — MongoDB’s stock is down nearly 20% as CEO decamps to Meta
+  https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-09-28 16:58Z — Micron has a chance to set the record straight with its earnings report
+  https://www.marketwatch.com/story/micron-has-a-chance-to-set-the-record-straight-with-its-earnings-report-a98fb935?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-09-28 16:33Z — Nvidia is right: Its stock is a bargain by this measure
+  https://www.marketwatch.com/story/nvidia-is-right-its-stock-is-a-bargain-95cee6ca?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-09-28 16:02Z — Ex-Disney CEO Bob Chapek says he raised concerns with the board 'weekly' during Iger power battle
+  https://www.cnbc.com/2026/09/28/disney-bob-chapek-bob-iger-power-battle-board.html
+- [CNBC - Top News] 2026-09-28 14:46Z — Nvidia share buyback plan gets $150 billion boost
+  https://www.cnbc.com/2026/09/28/nvidia-share-buyback-plan-gets-150-billion-boost.html
+- [CNBC - Top News] 2026-09-28 13:24Z — Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies
+  https://www.cnbc.com/2026/09/28/warren-senate-ai-subsidies-meta-google-amazon-microsoft.html
+
+== Commodities ==
+- [CNBC - Top News] 2026-09-28 19:12Z — Oil prices off highs after reports Saudi pipeline ramping back up
+  https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html
+
+== FX ==
+- [MarketWatch - Top Stories] 2026-09-28 17:30Z — ‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?
+  https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories
+
+== Geopolitics ==
+- [MarketWatch - Top Stories] 2026-09-28 18:15Z — The U.S. and China agree to $60 billion in tariff cuts on products like dolls and fireworks. Rare earths remain a sticking point.
+  https://www.marketwatch.com/story/the-u-s-and-china-agree-to-60-billion-in-tariff-cuts-on-products-like-dolls-and-fireworks-rare-earths-remain-a-sticking-point-e4667872?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-09-28 15:04Z — Five arrested over alleged bomb plot at UK air base used by U.S.; Iran denies link
+  https://www.cnbc.com/2026/09/28/iran-war-trump-hormuz.html
+- [CNBC - Top News] 2026-09-28 08:31Z — U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies
+  https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html
+
+== Volatility ==
+- [CNBC - Top News] 2026-09-28 18:00Z — Anthropic launches cheaper AI model, its second release since CEO's call for a slowdown
+  https://www.cnbc.com/2026/09/28/anthropic-sonnet-5-5-launch.html
+
+== Other ==
+- [CNBC - Top News] 2026-09-28 19:30Z — IRS hires Joseph Velli to help administer Trump accounts
+  https://www.cnbc.com/2026/09/28/irs-trump-accounts-joseph-velli.html
+- [MarketWatch - Top Stories] 2026-09-28 19:30Z — ‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?
+  https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-09-28 19:11Z — Trump announces plan for $15 billion steel plant, would be largest in U.S. history
+  https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html
+- [CNBC - Top News] 2026-09-28 18:58Z — Supreme Court Justice Alito will not participate in big climate change case next week
+  https://www.cnbc.com/2026/09/28/supreme-court-justice-alito-recusal-climate-change-case.html
+- [MarketWatch - Top Stories] 2026-09-28 18:56Z — Dolly Parton planned for her estate. The fight with her nephew shows why that matters.
+  https://www.marketwatch.com/story/dolly-parton-planned-for-her-estate-the-fight-with-her-nephew-shows-why-that-matters-b7e57c26?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-09-28 18:40Z — Spending $800 to see my family this Thanksgiving is a financial burden. How can I push for a cheaper flight?
+  https://www.marketwatch.com/story/spending-800-to-see-my-family-this-thanksgiving-is-a-financial-burden-how-can-i-push-for-a-cheaper-flight-c6dd1fdf?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-09-28 17:21Z — SpaceX sends its Starship rocket to orbit for the first time — but not without some hiccups
+  https://www.marketwatch.com/story/spacex-is-moments-away-from-monumental-starship-launch-4f34767b?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-09-28 17:15Z — ‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?
+  https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-09-28 16:01Z — SpaceX launches its massive Starship rocket into orbit for the first time
+  https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html
+- [CNBC - Top News] 2026-09-28 14:26Z — New grads say employers set the bar too high for entry-level roles: 'No job is willing to give you that first experience'
+  https://www.cnbc.com/2026/09/28/new-grads-entry-level-job-experience.html
+- [CNBC - Top News] 2026-09-28 14:03Z — Meta's Muse agent is attacking one of the economy's most profitable weak spots
+  https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html
+- [CNBC - Top News] 2026-09-28 13:09Z — Trump ‘very seriously’ considering diesel export ban as global supply crunch worsens
+  https://www.cnbc.com/2026/09/28/diesel-oil-trump-export-ban-fuel-prices.html
+
+== Feed fetch failures ==
+- IMF - News: 403 Client Error: Forbidden for url: https://www.imf.org/en/News/RSS
