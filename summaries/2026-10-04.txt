@@ -1,0 +1,49 @@
+$SPY daily news summary — 2026-10-04 (UTC)
+Generated: 2026-10-04 16:46:55Z
+
+== Macro Fed ==
+- [MarketWatch - Top Stories] 2026-10-04 12:00Z — Fed minutes coming this week could give markets important clues about future rate hikes
+  https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories
+
+== Equities ==
+- [CNBC - Top News] 2026-10-04 13:24Z — Top Wall Street analysts are upbeat about the prospects for these 3 stocks
+  https://www.cnbc.com/2026/10/04/top-analysts-are-upbeat-about-the-prospects-for-these-3-stocks.html
+- [MarketWatch - Top Stories] 2026-10-04 13:00Z — October can be a scary month for stocks. Here’s what investors need to watch this year.
+  https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-10-04 12:53Z — Trump taps Director of National Intelligence Jay Clayton as AI czar
+  https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html
+
+== Geopolitics ==
+- [CNBC - Top News] 2026-10-04 12:35Z — More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz
+  https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html
+
+== Volatility ==
+- [CNBC - Top News] 2026-10-04 13:22Z — A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables
+  https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html
+- [CNBC - Top News] 2026-10-04 05:00Z — Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine
+  https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html
+
+== Other ==
+- [CNBC - Top News] 2026-10-04 15:33Z — Here are 3 things we're watching in the stock market in the week ahead
+  https://www.cnbc.com/investingclub/2026/10/04/here-are-3-things-were-watching-in-the-stock-market-in-the-week-ahead.html
+- [CNBC - Top News] 2026-10-04 14:00Z — This NYC startup requires 4 days in office but just let everyone work remote for a whole month
+  https://www.cnbc.com/2026/10/04/work-from-anywhere-month.html
+- [MarketWatch - Top Stories] 2026-10-04 14:00Z — Corporate America has never been this upbeat about future profits
+  https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-10-04 13:44Z — Starting a watch collection? What beginners should know before buying
+  https://www.cnbc.com/2026/10/04/watch-collecting-beginners.html
+- [CNBC - Top News] 2026-10-04 12:57Z — Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried
+  https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html
+- [CNBC - Top News] 2026-10-04 12:08Z — Chick-fil-A wants to stay a family business even as it expands in the U.S. and abroad
+  https://www.cnbc.com/2026/10/04/chick-fil-a-ceo-andrew-cathy-family-ownership-growth.html
+- [CNBC - Top News] 2026-10-04 12:00Z — Why brands like E.l.f., Wendy's and Gap are branching out into original music
+  https://www.cnbc.com/2026/10/04/elf-wendys-gap-music-marketing.html
+- [CNBC - Top News] 2026-10-04 09:33Z — Berkshire buys more Lennar shares, but pace of purchases slows
+  https://www.cnbc.com/2026/10/03/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows.html
+- [CNBC - Top News] 2026-10-04 05:09Z — Singapore debuts a state-backed dating app for young government workers as it works to slow a demographic crisis
+  https://www.cnbc.com/2026/10/04/government-dating-app-fertility-singapore-asia.html
+- [MarketWatch - Top Stories] 2026-10-04 00:02Z — The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.
+  https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories
+
+== Feed fetch failures ==
+- IMF - News: 403 Client Error: Forbidden for url: https://www.imf.org/en/News/RSS
