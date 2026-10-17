@@ -1,0 +1,52 @@
+$SPY daily news summary — 2026-10-17 (UTC)
+Generated: 2026-10-17 15:24:30Z
+
+== Macro Fed ==
+- [MarketWatch - Top Stories] 2026-10-17 11:00Z — Fed interest-rate decision this month is a closer call than markets think
+  https://www.marketwatch.com/story/fed-interest-rate-decision-this-month-is-a-closer-call-than-markets-think-f96ccf95?mod=mw_rss_topstories
+
+== Rates Credit ==
+- [CNBC - Top News] 2026-10-17 15:00Z — 'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds
+  https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html
+- [MarketWatch - Top Stories] 2026-10-17 13:00Z — Meet the home buyers totally unfazed by 7% mortgage rates
+  https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories
+
+== Equities ==
+- [CNBC - Top News] 2026-10-17 13:30Z — Trump's student loan overhaul could lead to more bankruptcy filings, former judge says
+  https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html
+- [MarketWatch - Top Stories] 2026-10-17 13:00Z — ‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?
+  https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-10-17 12:46Z — Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO
+  https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html
+- [MarketWatch - Top Stories] 2026-10-17 12:01Z — Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays
+  https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-10-17 05:00Z — Some companies give AI to everyone. This CEO is doing the opposite
+  https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html
+
+== Commodities ==
+- [MarketWatch - Top Stories] 2026-10-17 12:30Z — Silver’s recent 50% drop from a record high hints that an economic slowdown looms
+  https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories
+
+== Geopolitics ==
+- [CNBC - Top News] 2026-10-17 10:20Z — Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest
+  https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html
+
+== Other ==
+- [CNBC - Top News] 2026-10-17 15:11Z — Software’s new consolidator gets big vote of confidence from Berkshire
+  https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html
+- [CNBC - Top News] 2026-10-17 13:47Z — Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets
+  https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html
+- [CNBC - Top News] 2026-10-17 13:00Z — 'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year
+  https://www.cnbc.com/make-it/2026/10/17/great-pumpkin-farm-new-york-2-million-revenue.html
+- [MarketWatch - Top Stories] 2026-10-17 12:31Z — Influencers and biohackers swear by fasting. Here’s what the science says.
+  https://www.marketwatch.com/story/influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says-3318191f?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-10-17 12:00Z — I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?
+  https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-10-17 11:30Z — It was another great week for the average stock as market leadership shifts away from tech
+  https://www.marketwatch.com/story/it-was-another-great-week-for-the-average-stock-as-market-leadership-shifts-away-from-tech-8e8516da?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-10-17 11:00Z — I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?
+  https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories
+
+== Feed fetch failures ==
+- Yahoo Finance - Top Stories: 404 Client Error: Not Found for url: https://finance.yahoo.com/rss/topstories
+- IMF - News: 404 Client Error: Not Found for url: https://www.imf.org/en/News/RSS
