@@ -1,0 +1,50 @@
+$SPY daily news summary — 2026-10-18 (UTC)
+Generated: 2026-10-18 15:45:18Z
+
+== Macro Fed ==
+- [CNBC - Top News] 2026-10-18 13:52Z — Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes
+  https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html
+
+== Rates Credit ==
+- [CNBC - Top News] 2026-10-18 06:13Z — Why hedge funds could be making a bond market shock more likely
+  https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html
+
+== Equities ==
+- [CNBC - Top News] 2026-10-18 15:44Z — Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink
+  https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html
+- [MarketWatch - Top Stories] 2026-10-18 14:00Z — These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth
+  https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-10-18 13:37Z — I've studied over 200 kids—parents who raise resilient, successful children teach them these 6 lessons early on
+  https://www.cnbc.com/make-it/2026/10/18/parenting-lessons-resilient-successful-well-adjusted.html
+- [MarketWatch - Top Stories] 2026-10-18 13:00Z — Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs
+  https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-10-18 12:34Z — Top Wall Street analysts are bullish on the growth potential of these 3 stocks
+  https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html
+- [MarketWatch - Top Stories] 2026-10-18 12:00Z — There is a silent market rotation inside the S&P 500 that’s warning of more weakness ahead
+  https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-10-18 11:10Z — Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says
+  https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html
+
+== Volatility ==
+- [CNBC - Top News] 2026-10-18 13:10Z — Boomers are buying into the promise of monthly income from options ETFs, but there's a tax catch
+  https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html
+- [CNBC - Top News] 2026-10-18 12:00Z — Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy
+  https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html
+- [CNBC - Top News] 2026-10-18 07:22Z — Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine
+  https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html
+
+== Other ==
+- [CNBC - Top News] 2026-10-18 15:24Z — Here are the 3 big things we're watching in the stock market this week
+  https://www.cnbc.com/investingclub/2026/10/18/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html
+- [MarketWatch - Top Stories] 2026-10-18 15:15Z — I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?
+  https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-10-18 15:00Z — I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?
+  https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-10-18 14:00Z — The bloated workweek is coming for Sundays—as some embrace flexibility, others worry about job security
+  https://www.cnbc.com/make-it/2026/10/18/why-people-are-working-sundays.html
+- [CNBC - Top News] 2026-10-18 13:30Z — Roth conversions: When the ‘juice isn't really worth the squeeze,’ according to a top-ranked advisor
+  https://www.cnbc.com/2026/10/18/roth-conversion-2026.html
+
+== Feed fetch failures ==
+- Yahoo Finance - Top Stories: 404 Client Error: Not Found for url: https://finance.yahoo.com/rss/topstories
+- IMF - News: 404 Client Error: Not Found for url: https://www.imf.org/en/News/RSS
