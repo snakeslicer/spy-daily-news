@@ -1,0 +1,46 @@
+$SPY daily news summary — 2026-10-25 (UTC)
+Generated: 2026-10-25 15:58:40Z
+
+== Macro Fed ==
+- [CNBC - Top News] 2026-10-25 14:00Z — I paid off $11,000 of credit card debt in 18 months while still traveling, shopping and living my life
+  https://www.cnbc.com/make-it/2026/10/25/pay-off-credit-card-debt.html
+- [MarketWatch - Top Stories] 2026-10-25 12:44Z — ‘Nonanswers’ aren’t working. This is what investors really need from the Fed.
+  https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-10-25 11:30Z — Here’s the real signal to watch for the Fed’s next move
+  https://www.marketwatch.com/story/heres-the-real-signal-to-watch-for-the-feds-next-move-9189cb51?mod=mw_rss_topstories
+
+== Equities ==
+- [MarketWatch - Top Stories] 2026-10-25 14:30Z — My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?
+  https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-10-25 14:14Z — In pictures: Initially peaceful protests across France over inequality again descend into violence
+  https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html
+- [MarketWatch - Top Stories] 2026-10-25 14:00Z — More than a third of S&P 500 companies are about to report earnings as market confidence cracks
+  https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-10-25 14:00Z — ‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?
+  https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-10-25 13:45Z — My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.
+  https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-10-25 12:00Z — Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO
+  https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html
+
+== Geopolitics ==
+- [CNBC - Top News] 2026-10-25 13:41Z — Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis
+  https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html
+
+== Other ==
+- [CNBC - Top News] 2026-10-25 14:58Z — Here are 4 big things we're watching in the stock market this week
+  https://www.cnbc.com/investingclub/2026/10/25/here-are-4-big-things-were-watching-in-the-stock-market-this-week.html
+- [CNBC - Top News] 2026-10-25 13:38Z — Should you travel together? Ask these questions before booking: 'It'll save you time, money and disappointment'
+  https://www.cnbc.com/make-it/2026/10/25/travel-compatibility-questions.html
+- [MarketWatch - Top Stories] 2026-10-25 13:00Z — Worried about this stock-market selloff? Relief may be coming after the midterms — no matter who wins.
+  https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-10-25 12:00Z — What Democrats and Republicans fear most about each other: CNBC survey has the answers
+  https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html
+- [MarketWatch - Top Stories] 2026-10-25 12:00Z — Why economic health no longer dictates stock-market returns
+  https://www.marketwatch.com/story/why-economic-health-no-longer-dictates-stock-market-returns-c44b88f2?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-10-25 08:06Z — What next for France as riots rattle markets? Three questions facing investors ahead of more protests
+  https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html
+
+== Feed fetch failures ==
+- Yahoo Finance - Top Stories: 404 Client Error: Not Found for url: https://finance.yahoo.com/rss/topstories
+- IMF - News: 404 Client Error: Not Found for url: https://www.imf.org/en/News/RSS
