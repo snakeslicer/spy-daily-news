@@ -1,0 +1,100 @@
+$SPY daily news summary — 2026-10-28 (UTC)
+Generated: 2026-10-28 18:17:03Z
+
+== Macro Fed ==
+- [CNBC - Top News] 2026-10-28 18:14Z — Fed holds rates steady despite concerns over inflation
+  https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html
+- [Federal Reserve - Press Releases] 2026-10-28 18:00Z — Federal Reserve issues FOMC statement
+  https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm
+- [CNBC - Top News] 2026-10-28 16:29Z — America's largest budget airline reports 71% jump in airfare
+  https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html
+- [CNBC - Top News] 2026-10-28 15:39Z — The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget
+  https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html
+
+== Rates Credit ==
+- [CNBC - Top News] 2026-10-28 18:01Z — Looking for yield? This could be one of the best times in recent market history to buy corporate bonds
+  https://www.cnbc.com/2026/10/28/buy-bonds-yields.html
+- [CNBC - Top News] 2026-10-28 16:14Z — Israeli bonds, shekel fall as election leaves Netanyahu and others short of majorities
+  https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html
+- [CNBC - Top News] 2026-10-28 11:33Z — Mortgage rates fell for the second straight week, but more borrowers still sought savings in riskier loans
+  https://www.cnbc.com/2026/10/28/mortgage-rates-fell-for-the-second-straight-week.html
+
+== Equities ==
+- [CNBC - Top News] 2026-10-28 18:07Z — Anthropic IPO filing warns some risks may be uninsurable. AI coverage will be issue for every company
+  https://www.cnbc.com/2026/10/28/anthropic-ipo-ai-risks-insurance.html
+- [CNBC - Top News] 2026-10-28 17:50Z — GE Vernova shares slip despite a beat-and-raise. What the sellers are getting wrong
+  https://www.cnbc.com/investingclub/2026/10/28/ge-vernova-shares-slip-despite-a-beat-and-raise-what-the-sellers-are-getting-wrong.html
+- [MarketWatch - Top Stories] 2026-10-28 17:44Z — Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results
+  https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-10-28 17:24Z — Wendy’s buyout offer suggests the burger chain’s overhaul could be very expensive
+  https://www.marketwatch.com/story/wendys-buyout-offer-suggests-the-burger-chains-overhaul-could-be-very-expensive-ff2c92bb?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-10-28 16:49Z — Healthcare stocks are on their biggest hot streak in a generation. Think twice before chasing the rally.
+  https://www.marketwatch.com/story/healthcare-stocks-are-on-their-biggest-hot-streak-in-a-generation-think-twice-before-chasing-the-rally-a043adfe?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-10-28 16:33Z — Alphabet set to report Q3 earnings after the bell as shaky AI trade looks for signs of strength
+  https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html
+- [MarketWatch - Top Stories] 2026-10-28 16:13Z — Bullish on Anthropic but don’t want to wait until the IPO? Here’s how you can invest today.
+  https://www.marketwatch.com/story/bullish-on-anthropic-but-dont-want-to-wait-until-the-ipo-heres-how-you-can-invest-today-c5cb329e?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-10-28 16:03Z — Micron’s stock rises after SK Hynix earnings. Here’s its next major test.
+  https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-10-28 16:00Z — Ford Motor is set to report earnings after the bell. Here's what Wall Street expects
+  https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html
+- [CNBC - Top News] 2026-10-28 16:00Z — Microsoft earnings will land after the close
+  https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html
+- [CNBC - Top News] 2026-10-28 15:41Z — At least 68 people dead in high-speed Spain train crash
+  https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html
+- [MarketWatch - Top Stories] 2026-10-28 15:15Z — My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids — and I can’t bear to leave.
+  https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-10-28 15:09Z — FEC campaign finance system offline days before midterms after hackers reportedly target site
+  https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html
+- [CNBC - Top News] 2026-10-28 14:50Z — Robinhood shares fall as crypto slump weighs on profits, offsetting gains in new businesses
+  https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html
+- [CNBC - Top News] 2026-10-28 14:35Z — Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain
+  https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html
+- [CNBC - Top News] 2026-10-28 13:52Z — Google alters its cloud playbook, enlisting partners to sell more AI chips
+  https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html
+- [CNBC - Top News] 2026-10-28 13:48Z — Stellantis stock rises 12% as automaker's turnaround plan, cost cuts gain traction
+  https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html
+- [CNBC - Top News] 2026-10-28 13:09Z — The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down
+  https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html
+- [CNBC - Top News] 2026-10-28 12:04Z — Traders are betting big against this restaurant giant into earnings
+  https://www.cnbc.com/2026/10/28/traders-are-betting-big-against-chipotle-into-earnings.html
+- [CNBC - Top News] 2026-10-28 10:00Z — Musk's PAC lawyer runs in Texas House district that is home to billionaire's business interests
+  https://www.cnbc.com/2026/10/28/elon-musk-chris-gober-rourk-texas-10th-congress-election.html
+
+== Geopolitics ==
+- [CNBC - Top News] 2026-10-28 17:39Z — Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records
+  https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html
+- [CNBC - Top News] 2026-10-28 15:53Z — UK brings forward defense spending target, pledging billions to Ukraine
+  https://www.cnbc.com/2026/10/28/uk-defense-spending-ukraine-aid.html
+- [CNBC - Top News] 2026-10-28 13:17Z — Why China is desperate to ship cars outside of the country
+  https://www.cnbc.com/2026/10/28/china-car-exports.html
+- [CNBC - Top News] 2026-10-28 12:25Z — Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion
+  https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html
+
+== Volatility ==
+- [CNBC - Top News] 2026-10-28 17:56Z — Watch Live: Options traders break down a massive Alphabet trade into earnings
+  https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html
+- [CNBC - Top News] 2026-10-28 17:05Z — A Democratic win in midterms could put prediction markets and the CFTC in the hot seat
+  https://www.cnbc.com/2026/10/28/democrats-prediction-markets-cftc-midterms.html
+
+== Other ==
+- [CNBC - Top News] 2026-10-28 17:29Z — Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop
+  https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html
+- [MarketWatch - Top Stories] 2026-10-28 16:57Z — The U.S. government will no longer penalize American companies for making six popular peptides
+  https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-10-28 15:36Z — We’re spending more than $11,000 a year of our own money caring for our aging parents and loved ones
+  https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-10-28 15:33Z — 3 reasons home prices keep going up, even though fewer people are buying
+  https://www.marketwatch.com/story/3-reasons-why-home-prices-keep-going-up-even-though-fewer-people-are-buying-9afa6106?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-10-28 15:15Z — McDonald’s new bet on chicken hits a snag as franchisees say the birds are too big
+  https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-10-28 14:35Z — DraftKings CEO Jason Robins says parents should talk with kids about responsible gambling
+  https://www.cnbc.com/2026/10/28/draftkings-ceo-jason-robins-parents-kids-should-talk-about-gambling.html
+- [CNBC - Top News] 2026-10-28 11:39Z — Luxury round-the-world cruise ends abruptly as fuel costs skyrocket
+  https://www.cnbc.com/2026/10/28/villa-vie-odyssey-fuel-costs.html
+- [CNBC - Top News] 2026-10-28 07:58Z — Flavor Flav, Hillary Clinton weigh in as WNBA takes flak for weekday lunchtime finals game
+  https://www.cnbc.com/2026/10/28/wnba-atlanta-dream-golden-state-valkyries-flavor-flav-hillary-clinton-.html
+
+== Feed fetch failures ==
+- Yahoo Finance - Top Stories: 404 Client Error: Not Found for url: https://finance.yahoo.com/rss/topstories
+- IMF - News: 404 Client Error: Not Found for url: https://www.imf.org/en/News/RSS
