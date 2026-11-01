@@ -1,0 +1,54 @@
+$SPY daily news summary — 2026-11-01 (UTC)
+Generated: 2026-11-01 17:51:53Z
+
+== Macro Fed ==
+- [CNBC - Top News] 2026-11-01 14:36Z — I'm a psychologist who studies couples: People in the happiest relationships do 1 thing differently after time apart—whether it's hours, days or weeks
+  https://www.cnbc.com/make-it/2026/11/01/reconnect-partner-after-time-apart.html
+
+== Rates Credit ==
+- [CNBC - Top News] 2026-11-01 15:58Z — Everything changed for the oil, AI and bond trades over the past month
+  https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html
+- [CNBC - Top News] 2026-11-01 12:30Z — The midterm election could reshape the muni bond market. Here’s what investors need to know
+  https://www.cnbc.com/2026/11/01/election-municipal-bonds.html
+
+== Equities ==
+- [MarketWatch - Top Stories] 2026-11-01 15:00Z — Apple’s new earnings era begins at a critical time for Big Tech
+  https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-11-01 14:31Z — Why AI is boosting Meta's ad business while hurting Google search
+  https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html
+- [MarketWatch - Top Stories] 2026-11-01 14:00Z — This is the biggest threat to the AI-powered bull market
+  https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-11-01 12:34Z — Companies promised AI gains — here's how the payoff showed up in earnings
+  https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html
+- [CNBC - Top News] 2026-11-01 12:33Z — Top Wall Street analysts are bullish on these 3 stocks for the long haul
+  https://www.cnbc.com/2026/11/01/top-analysts-are-bullish-on-these-3-stocks-for-the-long-haul.html
+
+== Geopolitics ==
+- [CNBC - Top News] 2026-11-01 17:12Z — Alaska Sen. Sullivan says he'll accept election results, slams Peltola campaign’s reported recruitment of 2nd Sullivan
+  https://www.cnbc.com/2026/11/01/alaska-senate-election-dan-sullivan-peltola.html
+
+== Volatility ==
+- [MarketWatch - Top Stories] 2026-11-01 16:35Z — Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore
+  https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories
+
+== Other ==
+- [MarketWatch - Top Stories] 2026-11-01 17:30Z — My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?
+  https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-11-01 17:05Z — ‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?
+  https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-11-01 15:20Z — These Senate races may help determine the fate of Social Security
+  https://www.cnbc.com/2026/11/01/social-security-senate-races.html
+- [CNBC - Top News] 2026-11-01 15:18Z — Social Security may have to cut retirement benefits in six years. Here's how much money is at stake for beneficiaries
+  https://www.cnbc.com/2026/11/01/social-security-benefit-cuts-2032.html
+- [CNBC - Top News] 2026-11-01 14:29Z — Binance, crypto and hacks: What to know about keeping coin safe as cyber criminals advance
+  https://www.cnbc.com/2026/10/31/binance-crypto-hack-safety.html
+- [MarketWatch - Top Stories] 2026-11-01 13:00Z — America is doing better than you think. Your algorithm is just hiding it.
+  https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-11-01 13:00Z — Who really wins under Trump’s economy? Coastal liberal elites who hate him.
+  https://www.marketwatch.com/story/who-really-wins-under-trumps-economy-coastal-liberal-elites-who-hate-him-d74c63cb?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-11-01 12:19Z — Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered
+  https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html
+
+== Feed fetch failures ==
+- Yahoo Finance - Top Stories: 404 Client Error: Not Found for url: https://finance.yahoo.com/rss/topstories
+- IMF - News: 404 Client Error: Not Found for url: https://www.imf.org/en/News/RSS
