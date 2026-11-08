@@ -1,0 +1,54 @@
+$SPY daily news summary — 2026-11-08 (UTC)
+Generated: 2026-11-08 17:52:12Z
+
+== Macro Fed ==
+- [CNBC - Top News] 2026-11-08 14:00Z — Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty
+  https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html
+
+== Equities ==
+- [CNBC - Top News] 2026-11-08 14:14Z — Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations
+  https://www.cnbc.com/2026/11/08/ai-agents-risks.html
+- [MarketWatch - Top Stories] 2026-11-08 14:00Z — Stocks are moving in sync again for the first time in a while. There’s just one problem.
+  https://www.marketwatch.com/story/stocks-are-moving-in-sync-again-for-the-first-time-in-a-while-theres-just-one-problem-c953bf72?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-11-08 13:00Z — Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again
+  https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html
+- [CNBC - Top News] 2026-11-08 11:47Z — Top Wall Street analysts like these 3 dividend stocks for consistent income
+  https://www.cnbc.com/2026/11/08/top-analysts-like-these-3-dividend-stocks-for-consistent-income.html
+- [CNBC - Top News] 2026-11-08 09:29Z — In pictures: France protests draw 146,000 as clashes erupt for fourth straight weekend
+  https://www.cnbc.com/2026/11/08/france-protests-clashes-arrests.html
+
+== Geopolitics ==
+- [CNBC - Top News] 2026-11-08 15:36Z — How Democrats will try to end Trump's tariffs
+  https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html
+
+== Volatility ==
+- [CNBC - Top News] 2026-11-08 14:15Z — Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans
+  https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html
+- [MarketWatch - Top Stories] 2026-11-08 12:00Z — This market signal called the tech selloff. Now it’s sending another warning.
+  https://www.marketwatch.com/story/this-market-signal-called-the-tech-selloff-now-its-sending-another-warning-f7f8eb9b?mod=mw_rss_topstories
+
+== Other ==
+- [MarketWatch - Top Stories] 2026-11-08 17:30Z — Two months after my father’s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?
+  https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-11-08 17:23Z — Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out
+  https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-11-08 16:00Z — ‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home
+  https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-11-08 15:30Z — ‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?
+  https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-11-08 15:16Z — My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?
+  https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-11-08 15:00Z — Corporate America’s profit numbers are just barely beating Wall Street’s expectations
+  https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-11-08 14:13Z — ‘We’re losing to cottage cheese’: The protein-maxxing craze is hurting cream-cheese sales
+  https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-11-08 13:00Z — Brands are sponsoring IRL communities. Some experts say that could spell their end
+  https://www.cnbc.com/make-it/2026/11/08/brand-sponsorship-local-communities.html
+- [CNBC - Top News] 2026-11-08 13:00Z — Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes
+  https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html
+- [CNBC - Top News] 2026-11-08 06:00Z — Cathie Wood 'always feels better when the market is worried' — here's why
+  https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html
+
+== Feed fetch failures ==
+- Yahoo Finance - Top Stories: 404 Client Error: Not Found for url: https://finance.yahoo.com/rss/topstories
+- IMF - News: 404 Client Error: Not Found for url: https://www.imf.org/en/News/RSS
