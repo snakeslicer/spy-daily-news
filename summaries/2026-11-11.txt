@@ -1,0 +1,90 @@
+$SPY daily news summary — 2026-11-11 (UTC)
+Generated: 2026-11-11 19:29:27Z
+
+== Macro Fed ==
+- [CNBC - Top News] 2026-11-11 16:49Z — Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes
+  https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html
+- [CNBC - Top News] 2026-11-11 15:46Z — Mississippi Senate: Scott Colom leads Hyde-Smith by more than 3,000 votes
+  https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html
+
+== Rates Credit ==
+- [MarketWatch - Top Stories] 2026-11-11 15:08Z — From living in his car to a 756 credit score: How one veteran rebuilt his finances
+  https://www.marketwatch.com/story/from-living-in-his-car-to-a-756-credit-score-how-one-veteran-rebuilt-his-finances-026c3336?mod=mw_rss_topstories
+
+== Equities ==
+- [CNBC - Top News] 2026-11-11 19:17Z — Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes
+  https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html
+- [MarketWatch - Top Stories] 2026-11-11 18:13Z — Oracle’s stock is totally misunderstood and should be a ‘go-to’ AI play, says this analyst
+  https://www.marketwatch.com/story/oracles-stock-is-totally-misunderstood-and-should-be-a-go-to-ai-play-says-this-analyst-2a87e80d?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-11-11 17:39Z — Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings
+  https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html
+- [CNBC - Top News] 2026-11-11 17:34Z — American Airlines brings fresh food back to NY-Chicago first class for first time since 2019
+  https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html
+- [MarketWatch - Top Stories] 2026-11-11 17:06Z — Need money for a down payment? More employers are offering to help.
+  https://www.marketwatch.com/story/need-money-for-a-down-payment-more-employers-are-offering-to-help-59c57da3?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-11-11 16:05Z — Tired of spending time fixing other people's AI slop at work? How to talk to them about it
+  https://www.cnbc.com/make-it/2026/11/11/push-back-coworker-boss-extra-work-ai.html
+- [MarketWatch - Top Stories] 2026-11-11 16:03Z — Anthropic’s IPO roadshow kicks off — and the big money is already lining up
+  https://www.marketwatch.com/story/anthropics-ipo-roadshow-kicks-off-and-the-big-money-is-already-lining-up-7cdd4f8b?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-11-11 15:30Z — ‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?
+  https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-11-11 15:26Z — CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade
+  https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-11-11 13:46Z — Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation
+  https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html
+- [CNBC - Top News] 2026-11-11 06:00Z — Investors pivot to defensive stocks as markets enter a ‘state of alert’
+  https://www.cnbc.com/2026/11/11/tech-selloff-defensive-pivot.html
+
+== Geopolitics ==
+- [MarketWatch - Top Stories] 2026-11-11 18:48Z — Nvidia is spending more than ever on Washington lobbying. It may not stop Congress from limiting China chip sales now.
+  https://www.marketwatch.com/story/nvidia-is-spending-more-than-ever-on-washington-lobbying-it-still-may-not-be-able-to-stop-congress-from-limiting-its-china-chip-sales-now-d4c34c66?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-11-11 18:02Z — General strikes to paralyze Spain as protestors clash with police ahead of election campaign
+  https://www.cnbc.com/2026/11/11/spain-protests-general-strikes-election.html
+- [CNBC - Top News] 2026-11-11 16:59Z — Bessent moved to military base amid 'growing threats' from Iran
+  https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html
+- [CNBC - Top News] 2026-11-11 14:13Z — Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive
+  https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html
+- [CNBC - Top News] 2026-11-11 13:18Z — Nissan cuts sales forecast again on China woes as CEO outlines plan to fight back
+  https://www.cnbc.com/2026/11/11/nissan-sales-forecast-earnings-china.html
+- [CNBC - Top News] 2026-11-11 10:06Z — American soldier arrested on suspicion of spying for Russia
+  https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html
+
+== Volatility ==
+- [CNBC - Top News] 2026-11-11 18:53Z — Apple's record run ignites options flurry — Watch Options Action live
+  https://www.cnbc.com/2026/11/11/apples-record-run-ignites-options-flurry-watch-options-action-live.html
+- [MarketWatch - Top Stories] 2026-11-11 15:15Z — Market angst is driving investors into low-volatility stocks as AI trade stumbles
+  https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories
+
+== Other ==
+- [CNBC - Top News] 2026-11-11 19:16Z — Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire
+  https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html
+- [CNBC - Top News] 2026-11-11 18:57Z — Meta head of infrastructure will leave and be succeeded by former AWS cloud exec
+  https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html
+- [CNBC - Top News] 2026-11-11 18:55Z — How Democrats could snarl Trump administration stakes in private sector companies
+  https://www.cnbc.com/2026/11/11/trump-company-equity-takes.html
+- [CNBC - Top News] 2026-11-11 18:24Z — Bouncing Wynn Shares might be primed for the 'wheel strategy'
+  https://www.cnbc.com/2026/11/11/bouncing-wynn-shares-might-be-primed-for-the-wheel-strategy.html
+- [CNBC - Top News] 2026-11-11 17:22Z — CFTC investigates if Kalshi improperly self-certified event contracts
+  https://www.cnbc.com/2026/11/11/cftc-investigates-if-kalshi-improperly-self-certified-event-contracts.html
+- [CNBC - Top News] 2026-11-11 17:20Z — JetBlue unveils new first class seats to bring back profits
+  https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html
+- [MarketWatch - Top Stories] 2026-11-11 17:13Z — Has Nvidia flown too close to the sun? One analyst warns of major scrutiny ahead.
+  https://www.marketwatch.com/story/has-nvidia-flown-too-close-to-the-sun-one-analyst-warns-of-major-scrutiny-ahead-a323c4dd?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-11-11 16:59Z — Jim Cramer's plan for our Intel position. Plus, a rotation loser to buy here
+  https://www.cnbc.com/investingclub/2026/11/11/jim-cramers-plan-for-our-intel-position-plus-a-rotation-loser-to-buy-here.html
+- [CNBC - Top News] 2026-11-11 15:53Z — CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program
+  https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html
+- [MarketWatch - Top Stories] 2026-11-11 15:25Z — I’m 63 and want to spend $95,000 on a roof deck for my $500,000 home. Is that a good investment?
+  https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-11-11 15:20Z — WNBA Finals MVP Gabby Williams: 'Our existence is political'
+  https://www.cnbc.com/2026/11/11/gabby-williams-embraces-role-in-wnbas-political-and-cultural-debates-.html
+- [CNBC - Top News] 2026-11-11 15:14Z — Measles is surging in the U.S. — and outbreaks can cost millions
+  https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html
+- [CNBC - Top News] 2026-11-11 12:57Z — Hundreds of schools in Italy, UK evacuated over 'hoax' bomb threats
+  https://www.cnbc.com/2026/11/11/hoax-bomb-threats-schools-italy-uk.html
+- [CNBC - Top News] 2026-11-11 12:42Z — Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress
+  https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html
+
+== Feed fetch failures ==
+- Yahoo Finance - Top Stories: 404 Client Error: Not Found for url: https://finance.yahoo.com/rss/topstories
+- IMF - News: 404 Client Error: Not Found for url: https://www.imf.org/en/News/RSS
