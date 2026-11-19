@@ -1,0 +1,94 @@
+$SPY daily news summary — 2026-11-19 (UTC)
+Generated: 2026-11-19 20:25:40Z
+
+== Macro Fed ==
+- [CNBC - Top News] 2026-11-19 19:43Z — Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew
+  https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html
+- [Federal Reserve - Press Releases] 2026-11-19 16:00Z — Federal Reserve Board issues enforcement action with former employee of First Security Bancorp
+  https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm
+
+== Equities ==
+- [CNBC - Top News] 2026-11-19 20:10Z — S&P 500 heads for 6th straight decline. Plus, J&J advances two key products
+  https://www.cnbc.com/investingclub/2026/11/19/sp-500-heads-for-6th-straight-decline-plus-jj-advances-two-key-products.html
+- [CNBC - Top News] 2026-11-19 19:58Z — Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs
+  https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html
+- [MarketWatch - Top Stories] 2026-11-19 19:43Z — Why Micron, Broadcom and other AI stocks have given up their gains
+  https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-11-19 19:31Z — Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market
+  https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html
+- [CNBC - Top News] 2026-11-19 19:29Z — Amazon launches in-app push against Mamdani-backed delivery bill in New York City
+  https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html
+- [CNBC - Top News] 2026-11-19 19:06Z — Amid recent banking outages, should you start carrying cash again? Top advisors weigh in
+  https://www.cnbc.com/2026/11/19/banking-outages-emergency-cash.html
+- [MarketWatch - Top Stories] 2026-11-19 18:53Z — Social Security should be shut down, this Republican senator says
+  https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-11-19 18:43Z — Elon Musk becomes the latest tech billionaire to make a peace offering to Democrats after the midterms
+  https://www.marketwatch.com/story/elon-musk-becomes-the-latest-tech-billionaire-to-make-a-peace-offering-to-democrats-after-the-midterms-05df0c0e?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-11-19 18:03Z — UnitedHealth’s stock keeps plunging after government signals crackdown on Medicare Advantage fraud
+  https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-11-19 18:00Z — Forget data centers. The next great AI stocks are hiding in plain sight in these four sectors.
+  https://www.marketwatch.com/story/forget-data-centers-the-next-great-ai-stocks-are-hiding-in-plain-sight-in-these-four-sectors-ee9833b1?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-11-19 16:31Z — Anthropic IPO: Investors who flip the stock may face brokerage penalty
+  https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html
+- [CNBC - Top News] 2026-11-19 16:28Z — Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models
+  https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html
+- [CNBC - Top News] 2026-11-19 14:57Z — Anthropic IPO, AI wealth spawn a new, leaner kind of family office
+  https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-wealth-spawn-a-new-leaner-kind-of-family-office.html
+- [CNBC - Top News] 2026-11-19 12:46Z — Family offices move more money into stocks, hedge AI risk, according to CNBC Family Office Portfolio Tracker
+  https://www.cnbc.com/2026/11/19/family-offices-moved-more-money-into-stocks-but-hedged-ai-risk.html
+- [CNBC - Top News] 2026-11-19 09:57Z — Novartis raises blockbuster drug forecasts to $18 billion as it seeks to prove growth can last
+  https://www.cnbc.com/2026/11/19/novartis-stock-cmd-2026-ceo.html
+
+== Commodities ==
+- [CNBC - Top News] 2026-11-19 16:29Z — Gold's bad year is getting worse. Why its price keeps falling
+  https://www.cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html
+
+== Geopolitics ==
+- [CNBC - Top News] 2026-11-19 18:24Z — AMD dives on short-seller report of alleged China exposure
+  https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html
+- [CNBC - Top News] 2026-11-19 07:38Z — Takaichi gets chilly reception in China on first Japan leader visit since 2019
+  https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html
+- [CNBC - Top News] 2026-11-19 06:07Z — Musk accuses Zelenskyy of lying about Starshield restrictions in Ukraine
+  https://www.cnbc.com/2026/11/19/elon-musk-zelenskyy-starshield-ukraine.html
+
+== Volatility ==
+- [MarketWatch - Top Stories] 2026-11-19 19:15Z — We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?
+  https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-11-19 17:01Z — Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks
+  https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html
+- [CNBC - Top News] 2026-11-19 09:02Z — Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage
+  https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html
+- [CNBC - Top News] 2026-11-19 00:18Z — Microsoft CEO Satya Nadella calls Outlook outage a 'perfect storm.' Here's what went wrong
+  https://www.cnbc.com/2026/11/18/microsoft-put-the-ai-threat-to-software-behind-it-then-came-the-outage.html
+- [CNBC - Top News] 2026-11-19 00:07Z — Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings
+  https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html
+
+== Other ==
+- [CNBC - Top News] 2026-11-19 19:38Z — As Sanofi's Pompe drug shortage drags on, some patients struggle to access treatments
+  https://www.cnbc.com/2026/11/19/as-pompe-drug-shortage-drags-on-patients-struggle-to-get-treatments.html
+- [MarketWatch - Top Stories] 2026-11-19 19:13Z — The surprising reason the U.S. economy is speeding up — and might have more room to run
+  https://www.marketwatch.com/story/the-surprising-reason-the-u-s-economy-is-speeding-up-and-might-have-more-room-to-run-9016c8db?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-11-19 19:06Z — Kraken parent's acquisition of Tribe Capital flags new chapter in evolution of crypto exchanges
+  https://www.cnbc.com/2026/11/19/acquisition-of-tribe-capital-flags-new-chapter-in-evolution-of-crypto-exchanges.html
+- [MarketWatch - Top Stories] 2026-11-19 18:54Z — Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill
+  https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-11-19 18:44Z — Jensen Huang's — and Nvidia's — legal exposure balloons
+  https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html
+- [CNBC - Top News] 2026-11-19 18:30Z — Netflix, Amazon, Fox to bid for 2030 men's World Cup rights; Disney out
+  https://www.cnbc.com/2026/11/19/netflix-amazon-fox-bid-for-2030-mens-world-cup-rights-disney-out.html
+- [MarketWatch - Top Stories] 2026-11-19 18:15Z — My wife pays for her family to visit us in New York. How do I tell her we can’t afford it?
+  https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-11-19 18:07Z — ‘Rockets are hard’ — yet this analyst thinks AST SpaceMobile’s stock is ready to rebound
+  https://www.marketwatch.com/story/rockets-are-hard-yet-this-analyst-thinks-ast-spacemobiles-stock-is-ready-to-rebound-b9ce6f9c?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-11-19 14:15Z — Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access
+  https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html
+- [CNBC - Top News] 2026-11-19 12:02Z — Denmark ratifies Trump security deal over Greenland after months of diplomatic tensions
+  https://www.cnbc.com/2026/11/19/greenland-denmark-trump-security-military-bases.html
+- [CNBC - Top News] 2026-11-19 11:34Z — Data center electricity use could double by 2030, IEA says
+  https://www.cnbc.com/2026/11/19/data-center-electricity-demand-iea.html
+- [CNBC - Top News] 2026-11-19 01:05Z — Intel signs first external customer for advanced 18A chips
+  https://www.cnbc.com/2026/11/18/intel-first-18a-foundry-customer.html
+
+== Feed fetch failures ==
+- Yahoo Finance - Top Stories: 404 Client Error: Not Found for url: https://finance.yahoo.com/rss/topstories
+- IMF - News: 404 Client Error: Not Found for url: https://www.imf.org/en/News/RSS
