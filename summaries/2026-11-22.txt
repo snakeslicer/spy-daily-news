@@ -1,0 +1,56 @@
+$SPY daily news summary — 2026-11-22 (UTC)
+Generated: 2026-11-22 19:26:02Z
+
+== Equities ==
+- [MarketWatch - Top Stories] 2026-11-22 18:23Z — These little-known investments could be among the best bargains in a crash
+  https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-11-22 17:33Z — I’ve studied over 200 kids—to avoid raising a people pleaser, ditch 6 parenting habits: It starts in ‘ordinary, well-intentioned moments’
+  https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html
+- [MarketWatch - Top Stories] 2026-11-22 15:01Z — Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport
+  https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-11-22 14:00Z — Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next.
+  https://www.marketwatch.com/story/stocks-are-in-a-correction-heading-into-the-thanksgiving-holiday-what-to-brace-for-next-a1e82491?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-11-22 13:00Z — Pizza chains are under pressure. GLP-1 use is only one part of the problem
+  https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html
+- [CNBC - Top News] 2026-11-22 12:13Z — Top Wall Street analysts favor these 3 dividend stocks for strong returns
+  https://www.cnbc.com/2026/11/22/top-wall-street-analysts-favor-these-stocks-for-strong-returns.html
+- [CNBC - Top News] 2026-11-22 12:10Z — The Nasdaq is in freefall. Here's one stock to look at
+  https://www.cnbc.com/2026/11/22/the-nasdaq-is-in-freefall-heres-one-stock-to-look-at.html
+
+== Commodities ==
+- [MarketWatch - Top Stories] 2026-11-22 17:00Z — ‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?
+  https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories
+
+== Geopolitics ==
+- [CNBC - Top News] 2026-11-22 13:25Z — Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.
+  https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html
+
+== Volatility ==
+- [MarketWatch - Top Stories] 2026-11-22 16:32Z — I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?
+  https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-11-22 06:00Z — Quantum computing’s first real-world payoff may come in energy, not drug discovery
+  https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html
+
+== Other ==
+- [CNBC - Top News] 2026-11-22 18:55Z — Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens
+  https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html
+- [MarketWatch - Top Stories] 2026-11-22 17:22Z — Private equity has been buying up hospice centers — with striking consequences
+  https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-11-22 17:14Z — Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages
+  https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html
+- [MarketWatch - Top Stories] 2026-11-22 16:18Z — ‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch
+  https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-11-22 16:15Z — ‘Never too late to start’: Practical investing advice from some of the top women in finance
+  https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-11-22 16:10Z — My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?
+  https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories
+- [MarketWatch - Top Stories] 2026-11-22 16:04Z — America is definitely rich enough to fix Social Security and Medicare. Here’s how.
+  https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories
+- [CNBC - Top News] 2026-11-22 14:30Z — Social Security benefits are rising in 2027, but other changes could affect what you keep
+  https://www.cnbc.com/2026/11/22/social-security-changes-cola-taxes-medicare.html
+- [CNBC - Top News] 2026-11-22 14:00Z — 26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage
+  https://www.cnbc.com/make-it/2026/11/22/google-worker-earns-323000-a-yearbut-he-lives-on-minimum-wage.html
+
+== Feed fetch failures ==
+- Yahoo Finance - Top Stories: 404 Client Error: Not Found for url: https://finance.yahoo.com/rss/topstories
+- IMF - News: 404 Client Error: Not Found for url: https://www.imf.org/en/News/RSS
